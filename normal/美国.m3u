@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="美国",BloombergTV+
+https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="美国",VoAPersian
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8

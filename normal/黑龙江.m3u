@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="大庆公共" group-title="黑龙江", 大庆公共
+http://39.134.65.149/PLTV/88888888/224/3221225734/1.m3u8?zheild
+#EXTINF:-1 tvg-name="大庆新闻综合" group-title="黑龙江", 大庆新闻综合
+http://39.134.65.149/PLTV/88888888/224/3221225736/1.m3u8?zheild
+#EXTINF:-1 tvg-name="哈尔滨生活" group-title="黑龙江", 哈尔滨生活
+http://39.134.65.149/PLTV/88888888/224/3221225698/1.m3u8?zheild
+#EXTINF:-1 tvg-name="哈尔滨影" group-title="黑龙江", 哈尔滨影
+http://39.134.65.149/PLTV/88888888/224/3221225700/1.m3u8?zheild
+#EXTINF:-1 tvg-name="哈尔滨娱乐" group-title="黑龙江", 哈尔滨娱乐
+http://39.134.65.149/PLTV/88888888/224/3221225699/1.m3u8?zheild
+#EXTINF:-1 tvg-name="哈尔滨资讯" group-title="黑龙江", 哈尔滨资讯
+http://39.134.65.149/PLTV/88888888/224/3221225697/1.m3u8?zheild
+#EXTINF:-1 tvg-name="鹤岗公共频道" group-title="黑龙江", 鹤岗公共频道
+http://39.134.65.149/PLTV/88888888/224/3221225787/1.m3u8?zheild
+#EXTINF:-1 tvg-name="鹤岗新闻综合" group-title="黑龙江", 鹤岗新闻综合
+http://39.134.65.149/PLTV/88888888/224/3221225785/1.m3u8?zheild
+#EXTINF:-1 tvg-name="黑龙江新闻法治" group-title="黑龙江", 黑龙江新闻法治
+http://39.134.65.149/PLTV/88888888/224/3221225992/1.m3u8?zheild
+#EXTINF:-1 tvg-name="佳木斯新闻综合" group-title="黑龙江", 佳木斯新闻综合
+http://39.134.65.149/PLTV/88888888/224/3221225993/1.m3u8?zheild
+#EXTINF:-1 tvg-name="七台河公共" group-title="黑龙江", 七台河公共
+http://39.134.65.149/PLTV/88888888/224/3221225800/1.m3u8?zheild
+#EXTINF:-1 tvg-name="七台河新闻综合" group-title="黑龙江", 七台河新闻综合
+http://39.134.65.149/PLTV/88888888/224/3221225783/1.m3u8?zheild
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视", 贵州卫视
+http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视", 吉林卫视
+http://39.134.65.149/PLTV/88888888/224/3221225981/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 黑龙江新闻法治
+http://39.134.65.149/PLTV/88888888/224/3221225967/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 黑龙江少儿
+http://39.134.65.149/PLTV/88888888/224/3221226002/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 黑龙江公共农业
+http://39.134.65.149/PLTV/88888888/224/3221225994/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 黑龙江文体
+http://39.134.65.149/PLTV/88888888/224/3221225965/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 黑龙江影视
+http://39.134.65.149/PLTV/88888888/224/3221225971/1.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",黑龙江文体
+http://39.134.65.149/PLTV/88888888/224/3221226012/1.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",黑龙江新闻法治
+http://39.134.65.149/PLTV/88888888/224/3221225992/1.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",黑龙江影视
+http://39.134.65.149/PLTV/88888888/224/3221225973/1.m3u8
+#EXTINF:-1 logo="" group-title="" ,贵州卫视[1920*1080]
+http://39.134.65.149/PLTV/88888888/224/3221225974/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,贵州卫视
+http://39.134.65.149:80/PLTV/88888888/224/3221225974/1653148920-1-1652757727.m3u8
+#EXTINF:-1 logo="" group-title="" ,吉林卫视
+http://39.134.65.149:80/PLTV/88888888/224/3221225981/1653149014-1-1652757736.m3u8
+#EXTINF:-1 tvg-name="富裕综合" group-title="黑龙江", 富裕综合
+http://221.209.44.174:1980/hls/1001.m3u8?zheild
+#EXTINF:-1 group-title="黑龙江",富裕综合
+http://221.209.44.174:1980/hls/1001.m3u8
+#EXTINF:-1 tvg-name="哈尔滨生活" group-title="黑龙江", 哈尔滨生活
+http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
+#EXTINF:-1 tvg-name="哈尔滨新闻综合" group-title="黑龙江", 哈尔滨新闻综合
+http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
+#EXTINF:-1 tvg-name="哈尔滨影" group-title="黑龙江", 哈尔滨影
+http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
+#EXTINF:-1 tvg-name="哈尔滨娱乐" group-title="黑龙江", 哈尔滨娱乐
+http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",哈尔滨新闻综合
+http://stream.hrbtv.net/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",哈尔滨影视
+http://stream.hrbtv.net/yspd/sd/live.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",哈尔滨生活
+http://stream.hrbtv.net/shpd/sd/live.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",哈尔滨娱乐
+http://stream.hrbtv.net/ylpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="鹤岗新闻综合" group-title="黑龙江", 鹤岗新闻综合
+http://39.134.65.143/PLTV/88888888/224/3221225785/1.m3u8?zheild
+#EXTINF:-1 tvg-id="9999" group-title="未分类",黑龙江公共农业
+http://39.134.65.143/PLTV/88888888/224/3221225998/1.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",黑龙江少儿
+http://39.134.65.143/PLTV/88888888/224/3221226002/1.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="🇨🇳｜央视频道", CCTV1
+http://39.134.65.143/PLTV/88888888/224/3221225816/1.m3u8
+#EXTINF:-1 tvg-name="黑龙江公共农业" group-title="黑龙江", 黑龙江公共农业
+https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8?zheild
+#EXTINF:-1 tvg-id="9999" group-title="未分类",黑龙江公共
+https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",黑龙江文体
+https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",黑龙江新闻
+https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",黑龙江影视
+https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
+#EXTINF:-1 logo="" group-title="" ,黑龙江文体
+https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8?zheild
+#EXTINF:-1 logo="" group-title="" ,黑龙江新闻法治
+https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8?zheild
+#EXTINF:-1 logo="" group-title="" ,黑龙江影
+https://idclive.hljtv.com:4430/live/hljys_hd.m3u8?zheild
+#EXTINF:-1 logo="" group-title="" ,黑龙江都市
+https://idclive.hljtv.com:4430/live/dushi_hd.m3u8?zheild
+#EXTINF:-1 tvg-name="黑龙江公共农业" group-title="黑龙江", 黑龙江公共农业
+http://39.134.65.147/PLTV/88888888/224/3221225998/1.m3u8?zheild
+#EXTINF:-1 tvg-name="伊春公共" group-title="黑龙江", 伊春公共
+http://live.yichuntv.com/1501fae792774811b2cd1366a078e666/h264_800k_ts/index.m3u8?type=flv2hls_m3u8?zheild
+#EXTINF:-1 tvg-name="伊春综合" group-title="黑龙江", 伊春综合
+http://live.yichuntv.com/e5d7b4b95cf849d79fa3964431dca1f3/h264_800k_ts/index.m3u8?type=flv2hls_m3u8?zheild
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",伊春公共频道
+http://live.yichuntv.com/1501fae792774811b2cd1366a078e666/h264_800k_ts/index.m3u8?type=flv2hls_m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",伊春公共频道
+http://live.yichuntv.com/live/1501fae792774811b2cd1366a078e666?fmt=h264_800k_flv
+#EXTINF:-1 group-title="黑龙江",伊春综合频道
+http://live.yichuntv.com/e5d7b4b95cf849d79fa3964431dca1f3/h264_800k_ts/index.m3u8?type=flv2hls_m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",伊春综合频道
+http://live.yichuntv.com/live/e5d7b4b95cf849d79fa3964431dca1f3?fmt=h264_800k_flv
+#EXTINF:-1 logo="" group-title="" ,伊春综合
+http://live.yichuntv.com/live/e5d7b4b95cf849d79fa3964431dca1f3?fmt=h264_800k_flv;
+#EXTINF:-1 logo="" group-title="" ,伊春公共
+http://live.yichuntv.com/live/1501fae792774811b2cd1366a078e666?fmt=h264_800k_flv;

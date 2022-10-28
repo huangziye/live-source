@@ -1,0 +1,231 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="大宁综合" group-title="山西", 大宁综合
+http://live.daningtv.com/channel1/sd/live.m3u8?zshanxd
+#EXTINF:-1 group-title="山西",大宁综合
+http://live.daningtv.com/channel1/sd/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",大宁
+http://live.daningtv.com/channel1/playlist.m3u8
+#EXTINF:-1 tvg-name="定襄综合" group-title="山西", 定襄综合
+http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
+#EXTINF:-1 group-title="山西",定襄综合
+http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
+#EXTINF:-1 tvg-name="汾西综合" group-title="山西", 汾西综合
+https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",汾西综合
+https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8
+#EXTINF:-1 tvg-name="高平综合" group-title="山西", 高平综合
+http://live.gprmt.cn/gpnews/hd/live.m3u8?zshanxd
+#EXTINF:-1 group-title="山西",高平综合频道
+http://live.gprmt.cn/gpnews/hd/live.m3u8
+#EXTINF:-1 tvg-name="古县综合" group-title="山西", 古县综合
+https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
+#EXTINF:-1 tvg-name="和顺电视台" group-title="山西", 和顺电视台
+http://r4wqqcdm.live.sxmty.com/live/hls/fdd364800242489d9d1accff98102861/c90e35fdc4ef43d287a62b49f4ea3cf2-1.m3u8?zshanxd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",和顺电视台
+http://r4wqqcdm.live.sxmty.com/live/hls/fdd364800242489d9d1accff98102861/c90e35fdc4ef43d287a62b49f4ea3cf2-1.m3u8
+#EXTINF:-1 tvg-name="怀仁综合" group-title="山西", 怀仁综合
+http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd
+#EXTINF:-1 group-title="山西",怀仁综合频道
+http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
+#EXTINF:-1 tvg-name="黄河电视台" group-title="山西", 黄河电视台
+http://liveflash.sxrtv.com/live/huanghe.flv?zshanxd
+#EXTINF:-1 tvg-name="黄河电视台" group-title="山西", 黄河电视台
+http://liveflash.sxrtv.com/live/huanghe.m3u8?zshanxd
+#EXTINF:-1 tvg-name="山西公共" group-title="山西", 山西公共
+http://liveflash.sxrtv.com/live/sxpublic.m3u8?zshanxd
+#EXTINF:-1 tvg-name="山西公共" group-title="山西", 山西公共
+http://liveflash.sxrtv.com/live/sxpublic.flv?zshanxd
+#EXTINF:-1 tvg-name="山西经济与科教" group-title="山西", 山西经济与科教
+http://liveflash.sxrtv.com/live/sxfinance.flv?zshanxd
+#EXTINF:-1 tvg-name="山西经济与科教" group-title="山西", 山西经济与科教
+http://liveflash.sxrtv.com/live/sxfinance.m3u8?zshanxd
+#EXTINF:-1 tvg-name="山西社会与法治" group-title="山西", 山西社会与法治
+http://liveflash.sxrtv.com/live/sxedu.flv?zshanxd
+#EXTINF:-1 tvg-name="山西社会与法治" group-title="山西", 山西社会与法治
+http://liveflash.sxrtv.com/live/sxedu.m3u8?zshanxd
+#EXTINF:-1 tvg-name="山西影院" group-title="山西", 山西影院
+http://liveflash.sxrtv.com/live/sxfilm.m3u8?zshanxd
+#EXTINF:-1 tvg-name="山西影院" group-title="山西", 山西影院
+http://liveflash.sxrtv.com/live/sxfilm.flv?zshanxd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西卫视
+http://liveflash.sxrtv.com/live/sxwshd.m3u8
+#EXTINF:-1 tvg-id="黄河卫视" tvg-name="黄河卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/huanghe.png" group-title="晋西北陕甘宁",黄河电视台
+http://liveflash.sxrtv.com/live/huanghe.m3u8
+#EXTINF:-1 tvg-id="山西经济资讯" tvg-name="山西经济资讯" tvg-logo="http://n.ysyz.top:99/buyaolian/shanxishyfz.png" group-title="晋西北陕甘宁",山西社会与法治
+http://liveflash.sxrtv.com/live/sxedu.m3u8
+#EXTINF:-1 tvg-id="山西科教" tvg-name="山西科教" tvg-logo="http://n.ysyz.top:99/buyaolian/shanxijjykj.png" group-title="晋西北陕甘宁",山西经济与科技
+http://liveflash.sxrtv.com/live/sxfinance.m3u8
+#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="http://n.ysyz.top:99/buyaolian/shanxiys.png" group-title="晋西北陕甘宁",山西影视
+http://liveflash.sxrtv.com/live/sxfilm.m3u8
+#EXTINF:-1 tvg-id="山西公共" tvg-name="山西公共" tvg-logo="http://n.ysyz.top:99/buyaolian/shanxigg.png" group-title="晋西北陕甘宁",山西公共
+http://liveflash.sxrtv.com/live/sxpublic.m3u8
+#EXTINF:-1 group-title="影视",山西影视
+http://liveflash.sxrtv.com:80/live/sxfilm.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",黄河电视台
+http://liveflash.sxrtv.com/live/huanghe.flv
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西公共
+http://liveflash.sxrtv.com/live/sxpublic.flv
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西经济与科教
+http://liveflash.sxrtv.com/live/sxfinance.flv
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西社会与法治
+http://liveflash.sxrtv.com/live/sxedu.flv
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西影视
+http://liveflash.sxrtv.com/live/sxfilm.flv
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西社会
+http://liveflash.sxrtv.com/live/sxedu.flv?bitrate=800000&channel=Shan1XiEdu
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西影视
+http://liveflash.sxrtv.com/live/sxfilm.flv?bitrate=800000&channel=Shan1XiFilm
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西黄河
+http://liveflash.sxrtv.com/live/huanghe.flv?bitrate=800000&channel=HuangheNews
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西经济
+http://liveflash.sxrtv.com/live/sxfinance.flv?bitrate=800000&channel=Shan1XiFinance
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西影视
+http://liveflash.sxrtv.com:80/live/sxfilm.flv
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西公共
+http://liveflash.sxrtv.com:80/live/sxpublic.flv
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西卫视
+http://liveflash.sxrtv.com/live/sxwshd.flv?bitrate=800000&channel=Shan1XiTV
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西卫视
+http://liveflash.sxrtv.com:80/live/sxwshd.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西公共
+http://liveflash.sxrtv.com/live/sxpublic.flv?bitrate=800000&channel=Shan1XiPublic
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西社会
+http://liveflash.sxrtv.com:80/live/sxedu.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西经济
+http://liveflash.sxrtv.com:80/live/sxfinance.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西卫视
+http://liveflash.sxrtv.com/live/sxwshd.flv
+#EXTINF:-1 logo="" group-title="" ,山西卫视-01
+http://liveflash.sxrtv.com:80/live/sxwshd.m3u8?$高清720P
+#EXTINF:-1 logo="" group-title="" ,黄河电视台
+http://liveflash.sxrtv.com:80/live/huanghe.m3u8?$高清720P
+#EXTINF:-1 logo="" group-title="" ,山西公共
+http://liveflash.sxrtv.com:80/live/sxpublic.flv?$高清720P
+#EXTINF:-1 logo="" group-title="" ,山西经济
+http://liveflash.sxrtv.com:80/live/sxfinance.m3u8?$高清720P
+#EXTINF:-1 logo="" group-title="" ,山西社会
+http://liveflash.sxrtv.com:80/live/sxedu.m3u8?$高清720P
+#EXTINF:-1 logo="" group-title="" ,山西影视-01
+http://liveflash.sxrtv.com:80/live/sxfilm.m3u8?$高清720P
+#EXTINF:-1 logo="" group-title="" ,山西影视-02
+http://liveflash.sxrtv.com:80/live/sxfilm.flv?$高清720P
+#EXTINF:-1 logo="" group-title="" ,山西影视
+http://liveflash.sxrtv.com:80/live/sxfilm.m3u8?$全网高清720P
+#EXTINF:-1 logo="" group-title="" ,山西影视
+http://liveflash.sxrtv.com:80/live/sxfilm.flv?$全网高清720P
+#EXTINF:-1 tvg-name="吉县新闻综合" group-title="山西", 吉县新闻综合
+http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8?zshanxd
+#EXTINF:-1 group-title="山西",吉县新闻综合
+http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
+#EXTINF:-1 tvg-name="晋中新闻" group-title="山西", 晋中新闻
+http://jzlive.jztvnews.com:83/live/mount_for_ts/jzzh.m3u8?zshanxd
+#EXTINF:-1 tvg-name="晋中新闻" group-title="山西", 晋中新闻
+http://jzlive.jztvnews.com:90/live/jzzh.m3u8?zshanxd
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61e123d4bbc43.jpg" group-title="晋西北陕甘宁",晋中综合
+http://jzlive.jztvnews.com:90/live/jzzh.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61e123d4bbc43.jpg" group-title="晋西北陕甘宁",晋中公共
+http://jzlive.jztvnews.com:90/live/jzgg.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",晋中公共
+http://jzlive.jztvnews.com:90/live/jzgg.m3u8?zshanxd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",晋中新闻频道
+http://jzlive.jztvnews.com:83/live/mount_for_ts/jzzh.m3u8
+#EXTINF:-1 tvg-name="黎城综合" group-title="山西", 黎城综合
+http://111.53.96.67:8081/live/1/index.m3u8?zshanxd
+#EXTINF:-1 group-title="山西",黎城综合频道
+http://111.53.96.67:8081/live/1/index.m3u8
+#EXTINF:-1 tvg-name="灵石新闻综合" group-title="山西", 灵石新闻综合
+https://live-stream.lsxrmtzx.com/live/video.m3u8?zshanxd
+#EXTINF:-1 group-title="山西",灵石新闻综合
+https://live-stream.lsxrmtzx.com/live/video.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",灵石
+http://live-stream.lsxrmtzx.com/live/video.m3u8
+#EXTINF:-1 tvg-name="潞城新闻综合" group-title="山西", 潞城新闻综合
+http://59.48.42.6:62204/lucheng.m3u8?zshanxd
+#EXTINF:-1 group-title="山西",潞城新闻综合
+http://59.48.42.6:62204/lucheng.m3u8
+#EXTINF:-1 tvg-name="宁武综合" group-title="山西", 宁武综合
+https://fvsln5ps.live.sxmty.com/live/hls/7922d2cdc4734bb3921826418cfa992d/cd7756e2135a48758e73017d502d8ec1-1.m3u8?zshanxd
+#EXTINF:-1 group-title="山西",宁武综合
+https://fvsln5ps.live.sxmty.com/live/hls/7922d2cdc4734bb3921826418cfa992d/cd7756e2135a48758e73017d502d8ec1-1.m3u8
+#EXTINF:-1 tvg-name="平遥新闻综合" group-title="山西", 平遥新闻综合
+https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",平遥电视(高清)
+https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8
+#EXTINF:-1 tvg-name="祁县新闻综合" group-title="山西", 祁县新闻综合
+http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
+#EXTINF:-1 group-title="山西",祁县新闻综合
+http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8
+#EXTINF:-1 tvg-name="屯留综合" group-title="山西", 屯留综合
+http://qqlivepull.seedata.top/live/tunliu_video1.m3u8?zshanxd
+#EXTINF:-1 group-title="未分类",屯留综合(高清)
+http://qqlivepull.seedata.top/live/tunliu_video1.m3u8
+#EXTINF:-1 tvg-name="万荣综合" group-title="山西", 万荣综合
+http://pili-live-hls.217.i2863.com/i2863-217/live_217_867556.m3u8?zshanxd
+#EXTINF:-1 group-title="未分类",万荣综合(高清)
+http://pili-live-hls.217.i2863.com/i2863-217/live_217_867556.m3u8
+#EXTINF:-1 tvg-name="闻喜综合" group-title="山西", 闻喜综合
+https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
+#EXTINF:-1 logo="" group-title="" ,闻喜综合
+https://www.wxhcgbds.com:8081/channelTv/WXTV_1.flv;
+#EXTINF:-1 tvg-name="五台综合" group-title="山西", 五台综合
+https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd
+#EXTINF:-1 group-title="未分类",五台综合(高清)
+https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
+#EXTINF:-1 tvg-name="昔阳电视台" group-title="山西", 昔阳电视台
+https://muspz2pi.live.sxmty.com/live/hls/33a3ffb76e06432cb2e535e58aa8441d/6644d056086b4f608c87db5be6d7f05e.m3u8?zshanxd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",昔阳电视台
+https://muspz2pi.live.sxmty.com/live/hls/33a3ffb76e06432cb2e535e58aa8441d/6644d056086b4f608c87db5be6d7f05e.m3u8
+#EXTINF:-1 tvg-name="襄汾综合" group-title="山西", 襄汾综合
+http://7sycrzf7.live.sxmty.com/live/hls/da9222d15ce7491d85fe3519e5201df5/af161dfd2a434b22b3b75fdd72fb9038-1.m3u8?zshanxd
+#EXTINF:-1 group-title="山西",襄汾综合
+http://7sycrzf7.live.sxmty.com/live/hls/da9222d15ce7491d85fe3519e5201df5/af161dfd2a434b22b3b75fdd72fb9038-1.m3u8
+#EXTINF:-1 tvg-name="襄垣电视" group-title="山西", 襄垣电视
+http://video.xyxrmt.com/lsdream/2MAgsgb/1000/live.m3u8?zshanxd
+#EXTINF:-1 tvg-name="阳城电视台" group-title="山西", 阳城电视台
+https://liveout.ycxrmt.cn/i9i45p/en7atk.m3u8?zshanxd
+#EXTINF:-1 group-title="山西",阳城电视台
+https://liveout.ycxrmt.cn/i9i45p/en7atk.m3u8
+#EXTINF:-1 tvg-name="阳曲综合" group-title="山西", 阳曲综合
+https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",阳曲电视(高清)
+https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8
+#EXTINF:-1 tvg-name="翼城综合" group-title="山西", 翼城综合
+http://live.aiyicheng.com.cn/channel1/sd/live.m3u8?zshanxd
+#EXTINF:-1 group-title="数字",翼城综合
+http://live.aiyicheng.com.cn/channel1/sd/live.m3u8
+#EXTINF:-1 tvg-name="原平综合" group-title="山西", 原平综合
+http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8?zshanxd
+#EXTINF:-1 group-title="山西",原平综合
+http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8
+#EXTINF:-1 tvg-name="运城公共频道" group-title="山西", 运城公共频道
+http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8?zshanxd
+#EXTINF:-1 tvg-name="运城科技教育" group-title="山西", 运城科技教育
+http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8?zshanxd
+#EXTINF:-1 tvg-name="运城新闻综合" group-title="山西", 运城新闻综合
+http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8?zshanxd
+#EXTINF:-1 group-title="未分类",运城新闻(高清)
+http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
+#EXTINF:-1 group-title="未分类",运城科技(高清)
+http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
+#EXTINF:-1 group-title="未分类",运城公共(高清)
+http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
+#EXTINF:-1 tvg-name="长子综合" group-title="山西", 长子综合
+http://zzlive.zzc-media.com:8092/live/xwzh.m3u8?zshanxd
+#EXTINF:-1 tvg-name="长子综合" group-title="山西", 长子综合
+rtmp://zzlive.zzc-media.com/live/xwzh?zshanxd
+#EXTINF:-1 group-title="山西",长子综合频道
+http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
+#EXTINF:-1 group-title="山西",灵丘电视台
+https://stream.icelook.cn/1a7c625fde427dc3/6735154231323395076_1611041008.m3u8?auth_key=1893456000-0-0-fe9d45877d8cdddb4afccd9c1a12f3f8
+#EXTINF:-1 group-title="山西",平鲁综合频道
+https://stream.icelook.cn/790d0a0f38c07f31/6728300245723120644_1609747594.m3u8?auth_key=1893456000-0-0-0cc4be5653a88cdb748a4543643d0fdb
+#EXTINF:-1 group-title="山西",五寨综合
+https://stream.icelook.cn/cf2874738208c975/6727103226484622340_1607389965.m3u8?auth_key=1893456000-0-0-c8ce454296feaadfd96bc25904e2b688
+#EXTINF:-1 tvg-id="9999" group-title="未分类",平顺综合
+https://stream.icelook.cn/2daa869d1623782d/6679643898219856900_1602492802.m3u8?auth_key=1893456000-0-0-8c6e3e73d78411a6bd6e2faef2b275d0
+#EXTINF:-1 logo="" group-title="" ,平顺综合
+https://stream.icelook.cn/2daa869d1623782d/6679643898219856900_1602492802.m3u8?auth_key=1893456000-0-0-8c6e3e73d78411a6bd6e2faef2b275d0;
+#EXTINF:-1 logo="" group-title="" ,五寨综合
+https://stream.icelook.cn/cf2874738208c975/6727103226484622340_1607389965.m3u8?auth_key=1893456000-0-0-c8ce454296feaadfd96bc25904e2b688;
+#EXTINF:-1 logo="" group-title="" ,灵丘电视台
+https://stream.icelook.cn/1a7c625fde427dc3/6735154231323395076_1611041008.m3u8?auth_key=1893456000-0-0-fe9d45877d8cdddb4afccd9c1a12f3f8;

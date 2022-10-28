@@ -1,0 +1,225 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="兵团八师石河子教育" group-title="新疆", 兵团八师石河子教育
+http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?zxinjd
+#EXTINF:-1 tvg-name="兵团八师石河子经济生活" group-title="新疆", 兵团八师石河子经济生活
+http://124.88.144.73:1935/live/dywt/playlist.m3u8?zxinjd
+#EXTINF:-1 tvg-name="兵团八师石河子新闻综合" group-title="新疆", 兵团八师石河子新闻综合
+http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",石河子新闻综合
+http://124.88.144.73:1935/live/xwzh/playlist.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",石河子影视文体
+http://124.88.144.73:1935/live/jjsh/playlist.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",石河子经济生活
+http://124.88.144.73:1935/live/dywt/playlist.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",石河子教育
+http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",兵团八师石河子影文体
+http://124.88.144.73:1935/live/jjsh/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="影视",石河子影视文体
+http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
+#EXTINF:-1 tvg-name="兵团八师石河子影文体" group-title="新疆", 兵团八师石河子影文体
+http://202.107.188.141:5002/shiheziyinshiwenti_hdgq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",石河子影视文体
+http://202.107.188.141:5002/shiheziyinshiwenti_hdgq.m3u8?token=guoziyun
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 和田维语综合
+http://202.107.188.141:5002/hetiankzkt2_hdcq.m3u8?token=guoziyun
+#EXTINF:-1 tvg-name="兵团十三师新星综合" group-title="新疆", 兵团十三师新星综合
+http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8?zxinjd
+#EXTINF:-1 tvg-name="兵团十四师昆玉综合" group-title="新疆", 兵团十四师昆玉综合
+http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd
+#EXTINF:-1 tvg-name="兵团四师可克达拉综合" group-title="新疆", 兵团四师可克达拉综合
+http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8?zxinjd
+#EXTINF:-1, 兵团卫视
+http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",可克达拉综合
+http://test5.btzx.com.cn:80/live/kkdl.stream/playlist.m3u8
+#EXTINF:-1 group-title="卫视",兵团卫视
+http://test5.btzx.com.cn/live/btxjbtws.stream/chunklist_w19172251.m3u8
+#EXTINF:-1 group-title="卫视",兵团卫视
+http://test5.btzx.com.cn/live/btxjbtws.stream/chunklist_w1179863659.m3u8
+#EXTINF:-1 group-title="卫视",兵团卫视
+http://test5.btzx.com.cn/live/btxjbtws.stream/chunklist_w588330955.m3u8
+#EXTINF:-1 logo="" group-title="" ,兵团卫视
+http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8?$高清720P
+#EXTINF:-1 logo="" group-title="" ,兵团卫视[1920*1080]
+http://test5.btzx.com.cn/live/btxjbtws.stream/chunklist_w544078748.m3u8
+#EXTINF:-1 tvg-name="昌吉城市生活" group-title="新疆", 昌吉城市生活
+rtmp://222.80.229.110:1935/hls/VnF60xlZR?zxinjd
+#EXTINF:-1 tvg-name="昌吉综合" group-title="新疆", 昌吉综合
+rtmp://222.80.229.110:1935/hls/Trz2Tl9Wg?zxinjd
+#EXTINF:-1 tvg-name="昌吉城市生活" group-title="新疆", 昌吉城市生活
+rtmp://live.cjshw.com/live/cjsh?zxinjd
+#EXTINF:-1 tvg-name="昌吉综合" group-title="新疆", 昌吉综合
+rtmp://live.cjshw.com/live/cjdst?zxinjd
+#EXTINF:-1 tvg-name="哈密二套" group-title="新疆", 哈密二套
+http://stream.hmgbtv.com/hm2/hd/live.m3u8?zxinjd
+#EXTINF:-1 tvg-name="哈密三套" group-title="新疆", 哈密三套
+http://stream.hmgbtv.com/hm3/hd/live.m3u8?zxinjd
+#EXTINF:-1 tvg-name="哈密一套" group-title="新疆", 哈密一套
+http://stream.hmgbtv.com/hm1/hd/live.m3u8?zxinjd
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",哈密一套
+http://stream.hmgbtv.com/hm1/hd/live.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",哈密二套
+http://stream.hmgbtv.com/hm2/hd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 哈密三套
+http://stream.hmgbtv.com/hm3/hd/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",哈密2
+http://stream.hmgbtv.com/hm2/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",哈密1
+http://stream.hmgbtv.com/hm1/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",哈密3
+http://stream.hmgbtv.com/hm3/playlist.m3u8
+#EXTINF:-1 tvg-name="霍尔果斯综合" group-title="新疆", 霍尔果斯综合
+http://117.190.118.175:9090/stream1/m2e2000.m3u8?zxinjd
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",霍尔果斯综合
+http://117.190.118.175:9090/stream1/m2e2000.m3u8
+#EXTINF:-1 tvg-name="吉木萨尔综合" group-title="新疆", 吉木萨尔综合
+http://218.31.201.189:9000/api/material/local/mnt/shiping1/prog_index.m3u8?zxinjd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 吉木萨尔综合
+http://218.31.201.189:9000/api/material/local/mnt/shiping1/prog_index.m3u8
+#EXTINF:-1 tvg-name="奎屯哈萨克语" group-title="新疆", 奎屯哈萨克语
+http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
+#EXTINF:-1 tvg-name="奎屯汉语综合" group-title="新疆", 奎屯汉语综合
+http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",奎屯哈萨克语
+http://218.84.12.186:8002/hls/main/playlist.m3u8
+#EXTINF:-1 group-title="新疆",奎屯汉语综合
+http://218.84.12.186:8001/hls/main/playlist.m3u8
+#EXTINF:-1 tvg-name="玛纳斯综合" group-title="新疆", 玛纳斯综合
+http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
+#EXTINF:-1 tvg-name="伊犁哈萨克" group-title="新疆", 伊犁哈萨克
+http://202.107.188.140:5002/yili3_hdgq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",伊犁哈萨克
+http://202.107.188.140:5002/yili3_hdgq.m3u8?token=guoziyun
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",伊犁经济法制
+http://202.107.188.140:5002/yili4_hdgq.m3u8?token=guoziyun
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",伊犁经济法制
+http://202.107.188.140:5002/yili4_hdcq-1.m3u8?token=guoziyun
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",伊犁经济法制
+http://202.107.188.140:5002/yili4_hdbq.m3u8?token=guoziyun
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",石河子新闻综合
+http://202.107.188.140:5002/shihezizonghe_hdbq.m3u8?token=guoziyun
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",石河子经济生活
+http://202.107.188.140:5002/shihezijinjishenghuo_hdcq.m3u8?token=guoziyun
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 伊犁哈萨克
+http://202.107.188.140:5002/yili3_hdbq.m3u8?token=guoziyun
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 于田汉语
+http://202.107.188.140:5002/yutianhy_hdcq-1.m3u8?token=guoziyun
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 尉犁一套
+http://202.107.188.140:5002/yuli1_hdcq.m3u8?token=guoziyun
+#EXTINF:-1 tvg-id="9999" group-title="未分类",于田汉语
+http://202.107.188.140:5002/yutianhy_hdcq-1.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",巴州教育
+http://202.107.188.140:5002/bazhou4_hdcq-1.m3u8?token=guoziyun
+#EXTINF:-1 tvg-id="9999" group-title="未分类",巴州教育
+http://202.107.188.140:5002/bazhou4_hdgq.m3u8?token=guoziyun
+#EXTINF:-1 tvg-id="9999" group-title="未分类",巴州维吾尔语
+http://202.107.188.140:5002/bazhou3_hdcq-1.m3u8?token=guoziyun
+#EXTINF:-1 tvg-id="9999" group-title="未分类",巴州维吾尔语
+http://202.107.188.140:5002/bazhou3_hdgq.m3u8?token=guoziyun
+#EXTINF:-1 tvg-id="9999" group-title="未分类",和田汉语综合
+http://202.107.188.140:5002/hetiankzkt1_hdcq.m3u8?token=guoziyun
+#EXTINF:-1 tvg-id="9999" group-title="未分类",和田维语综合
+http://202.107.188.140:5002/hetiankzkt2_hdcq.m3u8?token=guoziyun
+#EXTINF:-1 tvg-id="9999" group-title="未分类",乌鲁木齐妇女儿童
+http://202.107.188.140:5002/utv6_hdbq.m3u8?token=guoziyun
+#EXTINF:-1 tvg-id="9999" group-title="未分类",乌鲁木齐妇女儿童
+http://202.107.188.140:5002/utv6_hdcq.m3u8?token=guoziyun
+#EXTINF:-1 tvg-id="9999" group-title="未分类",乌鲁木齐妇女儿童
+http://202.107.188.140:5002/utv6_hdgq.m3u8?token=guoziyun
+#EXTINF:-1 tvg-id="9999" group-title="未分类",乌鲁木齐文体娱乐
+http://202.107.188.140:5002/utv5_hdbq.m3u8?token=guoziyun
+#EXTINF:-1 tvg-id="9999" group-title="未分类",乌鲁木齐文体娱乐
+http://202.107.188.140:5002/utv5_hdcq.m3u8?token=guoziyun
+#EXTINF:-1 tvg-id="9999" group-title="未分类",乌鲁木齐文体娱乐
+http://202.107.188.140:5002/utv5_hdgq.m3u8?token=guoziyun
+#EXTINF:-1 tvg-id="9999" group-title="未分类",乌鲁木齐影视频道
+http://202.107.188.140:5002/utv3_hdbq.m3u8?token=guoziyun
+#EXTINF:-1 tvg-id="9999" group-title="未分类",乌鲁木齐影视频道
+http://202.107.188.140:5002/utv3_hdcq.m3u8?token=guoziyun
+#EXTINF:-1 tvg-id="9999" group-title="未分类",乌鲁木齐影视频道
+http://202.107.188.140:5002/utv3_hdgq.m3u8?token=guoziyun
+#EXTINF:-1 logo="" group-title="" ,乌鲁木齐影
+http://202.107.188.140:5002/utv3_hdgq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,乌鲁木齐影
+http://202.107.188.140:5002/utv3_hdcq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,乌鲁木齐影
+http://202.107.188.140:5002/utv3_hdbq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,乌鲁木齐文体娱乐
+http://202.107.188.140:5002/utv5_hdgq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,乌鲁木齐文体娱乐
+http://202.107.188.140:5002/utv5_hdcq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,乌鲁木齐文体娱乐
+http://202.107.188.140:5002/utv5_hdbq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,乌鲁木齐妇女儿童
+http://202.107.188.140:5002/utv6_hdgq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,乌鲁木齐妇女儿童
+http://202.107.188.140:5002/utv6_hdcq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,乌鲁木齐妇女儿童
+http://202.107.188.140:5002/utv6_hdbq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,伊犁哈萨克
+http://202.107.188.140:5002/yili3_hdbq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,伊犁经济法制
+http://202.107.188.140:5002/yili4_hdgq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,伊犁经济法制
+http://202.107.188.140:5002/yili4_hdcq-1.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,伊犁经济法制
+http://202.107.188.140:5002/yili4_hdbq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,和田汉语综合
+http://202.107.188.140:5002/hetiankzkt1_hdcq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,和田维语综合
+http://202.107.188.140:5002/hetiankzkt2_hdcq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,巴州维吾尔语
+http://202.107.188.140:5002/bazhou3_hdgq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,巴州维吾尔语
+http://202.107.188.140:5002/bazhou3_hdcq-1.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,巴州教育
+http://202.107.188.140:5002/bazhou4_hdgq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,巴州教育
+http://202.107.188.140:5002/bazhou4_hdcq-1.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,库车一套
+http://202.107.188.140:5002/kuche1_hdbq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,沙雅二套
+http://202.107.188.140:5002/shaya2_hdbq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,尉犁一套
+http://202.107.188.140:5002/yuli1_hdcq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,库尔勒一套
+http://202.107.188.140:5002/kuerle1_hdgq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,兵团八师石河子经济生活
+http://202.107.188.140:5002/shihezijinjishenghuo_hdcq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,新源综合
+http://202.107.188.140:5002/xinyuan2_hdgq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 logo="" group-title="" ,新源哈语
+http://202.107.188.140:5002/xinyuan1_hdgq.m3u8?token=guoziyun?zxinjd
+#EXTINF:-1 tvg-name="伊犁哈萨克" group-title="新疆", 伊犁哈萨克
+http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
+#EXTINF:-1 tvg-name="伊犁汉语综合" group-title="新疆", 伊犁汉语综合
+http://110.153.180.106:55555/out_1/index.m3u8?zxinjd
+#EXTINF:-1 tvg-name="伊犁经济法制" group-title="新疆", 伊犁经济法制
+http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
+#EXTINF:-1 tvg-name="伊犁维吾尔" group-title="新疆", 伊犁维吾尔
+http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",伊犁汉语综合
+http://110.153.180.106:55555/out_1/index.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",伊犁维吾尔
+http://110.153.180.106:55555/out_2/index.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",伊犁哈萨克
+http://110.153.180.106:55555/out_3/index.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",伊犁经济法制
+http://110.153.180.106:55555/out_4/index.m3u8
+#EXTINF:-1 tvg-name="伊宁汉语综合" group-title="新疆", 伊宁汉语综合
+http://222.81.61.37:9898/out_1/index.m3u8?zxinjd
+#EXTINF:-1 tvg-name="伊宁维吾尔语" group-title="新疆", 伊宁维吾尔语
+http://222.81.61.37:9898/out_2/index.m3u8?zxinjd
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",伊宁汉语综合
+http://222.81.61.37:9898/out_1/index.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",伊宁维吾尔语
+http://222.81.61.37:9898/out_2/index.m3u8
+#EXTINF:-1 tvg-name="裕民哈语" group-title="新疆", 裕民哈语
+http://117.190.130.4:8081/out_2/index.m3u8?zxinjd
+#EXTINF:-1 tvg-name="裕民汉语" group-title="新疆", 裕民汉语
+http://117.190.130.4:8081/out_1/index.m3u8?zxinjd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 裕民哈语
+http://117.190.130.4:8081/out_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 裕民汉语
+http://117.190.130.4:8081/out_1/index.m3u8

@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="江西卫视" group-title="综合", 江西卫视
+http://2061827155.cloudvdn.com/a.m3u8?domain=local.live.jxtvcn.com.cn&player=qYEAAAgsI55fEewW&secondToken=secondToken%3A1-FwD31Fr97d5GMdMpDIL8JLbHo&streamid=live-jxtv%3Alive-jxtv%2Ftv_jxtv1&v3=1
+#EXTINF:-1 tvg-name="江西生活" group-title="综合", 江西生活
+http://2061827155.cloudvdn.com/a.m3u8?domain=local.live.jxtvcn.com.cn&player=qYEAAAgsI55fEewW&secondToken=secondToken%3A1-FwD31Fr97d5GMdMpDIL8JLbHo&streamid=live-jxtv%3Alive-jxtv%2Ftv_jxtv3&v3=1
+#EXTINF:-1 tvg-name="江西公共" group-title="综合", 江西公共
+http://2061827155.cloudvdn.com/a.m3u8?domain=local.live.jxtvcn.com.cn&player=qYEAAAgsI55fEewW&secondToken=secondToken%3A1-FwD31Fr97d5GMdMpDIL8JLbHo&streamid=live-jxtv%3Alive-jxtv%2Ftv_jxtv5&v3=1
+#EXTINF:-1 tvg-name="江西新闻" group-title="综合", 江西新闻
+http://2061827155.cloudvdn.com/a.m3u8?domain=local.live.jxtvcn.com.cn&player=qYEAAAgsI55fEewW&secondToken=secondToken%3A1-FwD31Fr97d5GMdMpDIL8JLbHo&streamid=live-jxtv%3Alive-jxtv%2Ftv_jxtv7&v3=1
+#EXTINF:-1 tvg-name="江西都市" group-title="综合", 江西都市
+http://2061824980.cloudvdn.com/a.m3u8?domain=local.live.jxtvcn.com.cn&player=tbIAAJoL3GgY0vYW&secondToken=secondToken%3AZ441Q7lTqugJcrnmKrO7rKhOSeQ&streamid=live-jxtv%3Alive-jxtv%2Ftv_jxtv2&v3=1
+#EXTINF:-1 tvg-name="江西都市" group-title="综合", 江西都市
+https://2061824984.cloudvdn.com/a.m3u8?domain=jxtv2-live.jxtvcn.com.cn&player=c5AAAA4g2iziF-wW&secondToken=secondToken%3AQgdipkPBamOU7HjaLH9USASynO4&streamid=live-jxtv%3Alive-jxtv%2Ftv_jxtv2&v3=1
+#EXTINF:-1 tvg-name="江西移动" group-title="综合", 江西移动
+http://2061824984.cloudvdn.com/a.m3u8?domain=local.live.jxtvcn.com.cn&player=jIkAAPA80LNK0vYW&secondToken=secondToken%3AeUy1cv6d651gX_n-jUjfqNuL1aM&streamid=live-jxtv%3Alive-jxtv%2Ftv_jxtv8&v3=1
+#EXTINF:-1 tvg-name="江西都市" group-title="综合", 江西都市
+http://117.169.120.242:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225584/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西生活" group-title="综合", 江西生活
+http://117.169.120.242:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226206/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西生活" group-title="综合", 江西生活
+http://117.169.120.242:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225580/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西影视" group-title="综合", 江西影视
+http://117.169.120.242:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225579/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西都市" group-title="综合", 江西都市
+http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西生活" group-title="综合", 江西生活
+http://2061827159.cloudvdn.com/a.m3u8?domain=local.live.jxtvcn.com.cn&player=7W8AAPEVvlMh0vYW&secondToken=secondToken%3Ahm49oGufXKJzDANr6ymcctDBWtY&streamid=live-jxtv%3Alive-jxtv%2Ftv_jxtv3&v3=1
+#EXTINF:-1 tvg-name="江西影视" group-title="综合", 江西影视
+http://2061827159.cloudvdn.com/a.m3u8?domain=local.live.jxtvcn.com.cn&player=7W8AANZ8zOkr0vYW&secondToken=secondToken%3AYZ_ALaWaw6GcRPO2Pc1ueSReTPY&streamid=live-jxtv%3Alive-jxtv%2Ftv_jxtv4&v3=1
+#EXTINF:-1 tvg-name="江西影视" group-title="综合", 江西影视
+http://2061827158.cloudvdn.com/a.m3u8?domain=local.live.jxtvcn.com.cn&player=R_QAAE59qu9h0vYW&secondToken=secondToken%3ADXJ_ti166TmArji53rBNkRx7Tyg&streamid=live-jxtv%3Alive-jxtv%2Ftv_jxtv4&v3=1
+#EXTINF:-1 tvg-name="江西移动" group-title="综合", 江西移动
+http://2061827158.cloudvdn.com/a.m3u8?domain=local.live.jxtvcn.com.cn&player=R_QAAAEuV5dn0vYW&secondToken=secondToken%3AacalWkRLtfBnzF8DvkFm6m7Ux2U&streamid=live-jxtv%3Alive-jxtv%2Ftv_jxtv8&v3=1
+#EXTINF:-1 tvg-name="江西公共" group-title="综合", 江西公共
+http://2061827160.cloudvdn.com/a.m3u8?domain=local.live.jxtvcn.com.cn&player=PHYAAIQhFRg50vYW&secondToken=secondToken%3AZOY-fXnG_sgTHC6SRLf88mAQOiQ&streamid=live-jxtv%3Alive-jxtv%2Ftv_jxtv5&v3=1
+#EXTINF:-1 tvg-name="江西新闻" group-title="综合", 江西新闻
+http://2061827160.cloudvdn.com/a.m3u8?domain=local.live.jxtvcn.com.cn&player=PHYAAOqnX_U-0vYW&secondToken=secondToken%3AvUObzW8iCDsugpZSFMep159sVmE&streamid=live-jxtv%3Alive-jxtv%2Ftv_jxtv7&v3=1
+#EXTINF:-1 tvg-name="江西公共" group-title="综合", 江西公共
+http://2061827164.cloudvdn.com/a.m3u8?domain=local.live.jxtvcn.com.cn&player=vYMAAANLEbdW0vYW&secondToken=secondToken%3AigjOCTZ7nOJm5WD_Vz2zTvrgyI0&streamid=live-jxtv%3Alive-jxtv%2Ftv_jxtv5&v3=1
+#EXTINF:-1 tvg-name="南昌资讯" group-title="综合", 南昌资讯
+http://39.134.116.114:8080/wh7f454c46tw2118680138_-24892007/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226228/index.m3u8?icpid=88888888&RTS=1654741348&from=79102&hms_devid=868&prioritypopid=79102&online=1654741348&vqe=3
+#EXTINF:-1 tvg-name="南昌公共" group-title="综合", 南昌公共
+http://39.134.116.99:8080/wh7f454c46tw2207490498_-436007000/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8?icpid=88888888&RTS=1654741437&from=79102&hms_devid=874&prioritypopid=79102&online=1654741437&vqe=3
+#EXTINF:-1 tvg-name="南昌新闻" group-title="综合", 南昌新闻
+http://player.521fanli.cn/1691/jx/nanchangm3u8.php?id=1
+#EXTINF:-1 tvg-name="南昌资讯" group-title="综合", 南昌资讯
+http://player.521fanli.cn/1691/jx/nanchangm3u8.php?id=3
+#EXTINF:-1 tvg-name="南昌公共" group-title="综合", 南昌公共
+http://player.521fanli.cn/1691/jx/nanchangm3u8.php?id=4
+#EXTINF:-1 tvg-id="9999" group-title="未分类",宜昌旅游生活[800*450][800*450]
+http://player.521fanli.cn/1691/hubei/yichangcjym3u8.php?id=yichanglysh
+#EXTINF:-1 tvg-id="9999" group-title="未分类",宜昌综合[800*450][800*450]
+http://player.521fanli.cn/1691/hubei/yichangcjym3u8.php?id=yichangzh
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西卫视
+http://player.521fanli.cn/1691/0/tide/tidem3u8.php?id=shanxihd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",河南公共
+http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",广州法治
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzfz
+#EXTINF:-1 tvg-id="9999" group-title="未分类",宁夏卫视
+http://player.521fanli.cn/1691/ningxia/ningxiam3u8.php?id=nxws
+#EXTINF:-1 tvg-id="9999" group-title="未分类",大连新闻综合
+http://player.521fanli.cn/1691/ln/dalianm3u8.php?id=1
+#EXTINF:-1 tvg-id="9999" group-title="未分类",兰州新闻
+http://player.521fanli.cn/1691/gs/lanzhoum3u8.php?id=lanzhouzh
+#EXTINF:-1 tvg-id="9999" group-title="未分类",河南新闻
+http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv6
+#EXTINF:-1 tvg-id="9999" group-title="未分类",兰州经济
+http://player.521fanli.cn/1691/gs/lanzhoum3u8.php?id=lanzhoushjj
+#EXTINF:-1 tvg-id="9999" group-title="未分类",广州新闻
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
+#EXTINF:-1 tvg-id="9999" group-title="未分类",广州影视
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys
+#EXTINF:-1 tvg-id="9999" group-title="未分类",河南民生
+http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv3
+#EXTINF:-1 tvg-id="9999" group-title="未分类",南国都市
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
+#EXTINF:-1 tvg-id="9999" group-title="未分类",河南都市
+http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv2
+#EXTINF:-1 tvg-id="9999" group-title="未分类",广州综合
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
+#EXTINF:-1 tvg-id="9999" group-title="未分类",广州竞赛
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzjs
+#EXTINF:-1 tvg-id="9999" group-title="未分类",兰州文旅
+http://player.521fanli.cn/1691/gs/lanzhoum3u8.php?id=lanzhouty
+#EXTINF:-1 tvg-id="9999" group-title="未分类",大同新闻
+http://player.521fanli.cn/1691/shanxi/datongm3u8.php?id=datong1
+#EXTINF:-1 tvg-id="9999" group-title="未分类",大同公共
+http://player.521fanli.cn/1691/shanxi/datongm3u8.php?id=datong2
+#EXTINF:-1 tvg-id="9999" group-title="未分类",常德新闻(高清)
+http://player.521fanli.cn/1691/hunan/changdem3u8.php?id=changdezh
+#EXTINF:-1 logo="" group-title="" ,山西卫视-02
+http://player.521fanli.cn/1691/0/tide/tidem3u8.php?id=shanxihd$高清720P

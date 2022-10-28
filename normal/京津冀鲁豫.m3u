@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 group-title="京津冀鲁豫",邯郸公共频道
+http://hls.quklive.com/live/1577759320319924/index.m3u8
+#EXTINF:-1 group-title="京津冀鲁豫",邯郸科技教育
+http://hls.quklive.com/live/1577759346099941/index.m3u8
+#EXTINF:-1 group-title="影视",长沙影视频道
+https://hls.quklive.com/live/1551749282880742/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",肃宁一套
+http://hls.quklive.com/live/1591326940171996/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",长春综合
+http://hls.quklive.com/live/1533884104787794/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",长沙磁浮电视
+https://hls.quklive.com/live/1551751256158751/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",长沙地铁电视
+https://hls.quklive.com/live/1551751084371710/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",长沙女性频道
+https://hls.quklive.com/live/1551337800259710/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",长沙移动电视
+https://hls.quklive.com/live/1551750947083772/index.m3u8
+#EXTINF:-1 tvg-id="1427" tvg-name="山东齐鲁" tvg-logo="http://n.ysyz.top:99/buyaolian/sdql.png" group-title="京津冀鲁豫",山东齐鲁
+http://39.136.48.25:8089/PLTV/88888888/224/3221226045/index.m3u8
+#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://n.ysyz.top:99/buyaolian/sdty.png" group-title="京津冀鲁豫",山东体育
+http://39.136.48.21:8089/PLTV/88888888/224/3221226075/index.m3u8
+#EXTINF:-1 tvg-id="1433" tvg-name="山东综艺" tvg-logo="http://n.ysyz.top:99/buyaolian/sdzy.png" group-title="京津冀鲁豫",山东综艺
+http://39.136.48.21:8089/PLTV/88888888/224/3221225855/index.m3u8
+#EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/sdxw.png" group-title="京津冀鲁豫",山东新闻
+http://39.136.48.21:8089/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:-1 tvg-id="1434" tvg-name="山东生活" tvg-logo="http://n.ysyz.top:99/buyaolian/sdsh.png" group-title="京津冀鲁豫",山东生活
+http://39.136.48.21:8089/PLTV/88888888/224/3221225841/index.m3u8
+#EXTINF:-1 tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="http://n.ysyz.top:99/buyaolian/sdwl.png" group-title="京津冀鲁豫",山东文旅
+http://39.136.48.21:8089/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1 tvg-id="1431" tvg-name="山东少儿" tvg-logo="http://n.ysyz.top:99/buyaolian/sdse.png" group-title="京津冀鲁豫",山东少儿
+http://39.136.48.21:8089/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 tvg-id="1429" tvg-name="山东农科" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_nongke.png" group-title="地方", 山东农科
+http://39.136.48.21:8089/PLTV/88888888/224/3221226018/index.m3u8
+#EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="http://n.ysyz.top:99/buyaolian/henands.png" group-title="京津冀鲁豫",河南都市
+http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/henanms.png" group-title="京津冀鲁豫",河南民生
+http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",河南移动戏曲
+http://media.hndyjyfw.gov.cn/live/jz-henanliyuan/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",河南卫视HD
+http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8

@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="云南 - 01",保山二套
+http://liveynbsdst.chinamcache.com/live/zb02.m3u8?auth_key=1645240679-0-0-d67bc97395c69c4381264c996315a24b
+#EXTINF:-1 group-title="云南 - 01",保山三套
+http://liveynbsdst.chinamcache.com/live/zb03.m3u8?auth_key=1645240698-0-0-551c30f245abc8aa44554820452c332c
+#EXTINF:-1 group-title="云南 - 01",保山一套
+http://liveynbsdst.chinamcache.com/live/zb01.m3u8?auth_key=1645240615-0-0-65e16b6e5bf26ac5538ac471eff58b55
+#EXTINF:-1 logo="" group-title="" ,保山1套
+http://liveynbsdst.chinamcache.com/live/zb01.m3u8?auth_key=1645240615-0-0-65e16b6e5bf26ac5538ac471eff58b55;
+#EXTINF:-1 logo="" group-title="" ,保山二套
+http://liveynbsdst.chinamcache.com/live/zb02.m3u8?auth_key=1645240679-0-0-d67bc97395c69c4381264c996315a24b;
+#EXTINF:-1 logo="" group-title="" ,保山三套
+http://liveynbsdst.chinamcache.com/live/zb03.m3u8?auth_key=1645240698-0-0-551c30f245abc8aa44554820452c332c;

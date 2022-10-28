@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="巴马综合" group-title="广西", 巴马综合
+https://cdn.gdlive.gdmain.com/live/5ky6zx60.m3u8?zguangxd
+#EXTINF:-1 tvg-name="北海经济科教" group-title="广西", 北海经济科教
+https://cdn.gdlive.gdmain.com/live/lnyxz495.m3u8?zguangxd
+#EXTINF:-1 tvg-name="北海新闻综合" group-title="广西", 北海新闻综合
+https://cdn.gdlive.gdmain.com/live/lg36zk25.m3u8?zguangxd
+#EXTINF:-1 tvg-name="宾阳综合" group-title="广西", 宾阳综合
+https://cdn.gdlive.gdmain.com/live/5zzby3v5.m3u8?zguangxd
+#EXTINF:-1 tvg-name="岑溪综合" group-title="广西", 岑溪综合
+https://cdn.gdlive.gdmain.com/live/02kzy3y0.m3u8?zguangxd
+#EXTINF:-1 tvg-name="崇左综合" group-title="广西", 崇左综合
+https://cdn.gdlive.gdmain.com/live/lxzydpo5.m3u8?zguangxd
+#EXTINF:-1 tvg-name="都安综合" group-title="广西", 都安综合
+https://cdn.gdlive.gdmain.com/live/lo2xza25.m3u8?zguangxd
+#EXTINF:-1 tvg-name="灌阳新闻综合" group-title="广西", 灌阳新闻综合
+https://cdn.gdlive.gdmain.com/live/02kzyoy0.m3u8?zguangxd
+#EXTINF:-1 tvg-name="靖西综合" group-title="广西", 靖西综合
+https://cdn.gdlive.gdmain.com/live/53xzybv5.m3u8?zguangxd
+#EXTINF:-1 tvg-name="来宾综合" group-title="广西", 来宾综合
+https://cdn.gdlive.gdmain.com/live/0myxra90.m3u8?zguangxd
+#EXTINF:-1 tvg-name="乐业综合" group-title="广西", 乐业综合
+https://cdn.gdlive.gdmain.com/live/lg36za25.m3u8?zguangxd
+#EXTINF:-1 tvg-name="灵川综合" group-title="广西", 灵川综合
+https://cdn.gdlive.gdmain.com/live/lbzx2a8l.m3u8?zguangxd
+#EXTINF:-1 tvg-name="凌云综合" group-title="广西", 凌云综合
+https://cdn.gdlive.gdmain.com/live/09oz9ka0.m3u8?zguangxd
+#EXTINF:-1 tvg-name="龙州综合" group-title="广西", 龙州综合
+https://cdn.gdlive.gdmain.com/live/5pyxdeb5.m3u8?zguangxd
+#EXTINF:-1 tvg-name="那坡综合" group-title="广西", 那坡综合
+https://cdn.gdlive.gdmain.com/live/l7bxg260.m3u8?zguangxd
+#EXTINF:-1 tvg-name="凭祥综合" group-title="广西", 凭祥综合
+https://cdn.gdlive.gdmain.com/live/0myxr890.m3u8?zguangxd
+#EXTINF:-1 tvg-name="融水综合" group-title="广西", 融水综合
+https://cdn.gdlive.gdmain.com/live/lnyxza95.m3u8?zguangxd
+#EXTINF:-1 tvg-name="天等综合" group-title="广西", 天等综合
+https://cdn.gdlive.gdmain.com/live/51g1ap75.m3u8?zguangxd
+#EXTINF:-1 tvg-name="田东综合" group-title="广西", 田东综合
+https://cdn.gdlive.gdmain.com/live/5aj79zp5.m3u8?zguangxd
+#EXTINF:-1 tvg-name="田阳综合" group-title="广西", 田阳综合
+https://cdn.gdlive.gdmain.com/live/0yzvdpr5.m3u8?zguangxd
+#EXTINF:-1 tvg-name="西林综合" group-title="广西", 西林综合
+https://cdn.gdlive.gdmain.com/live/lj16xrkl.m3u8?zguangxd
+#EXTINF:-1 tvg-name="昭平综合" group-title="广西", 昭平综合
+https://cdn.gdlive.gdmain.com/live/53xzyvv5.m3u8?zguangxd
+#EXTINF:-1 tvg-name="资源电视台" group-title="广西", 资源电视台
+https://cdn.gdlive.gdmain.com/live/09oz9ba0.m3u8?zguangxd
+#EXTINF:-1 group-title="未分类",天等综合(高清)
+https://cdn.gdlive.gdmain.com/live/51g1ap75.m3u8
+#EXTINF:-1 group-title="未分类",岑溪综合(高清)
+https://cdn.gdlive.gdmain.com/live/02kzy3y0.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",灌阳新闻综合
+https://cdn.gdlive.gdmain.com/live/02kzyoy0.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",田阳综合
+https://cdn.gdlive.gdmain.com/live/0yzvdpr5.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",凌云综合
+https://cdn.gdlive.gdmain.com/live/09oz9ka0.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",北海经济科教
+https://cdn.gdlive.gdmain.com/live/lnyxz495.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",西林综合
+https://cdn.gdlive.gdmain.com/live/lj16xrkl.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",田东综合
+https://cdn.gdlive.gdmain.com/live/5aj79zp5.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",那坡综合
+https://cdn.gdlive.gdmain.com/live/l7bxg260.m3u8
+#EXTINF:-1 tvg-name="北海图文" group-title="广西", 北海图文
+http://njgdmm-wshls.homecdn.com/live/4e8a2.m3u8?zguangxd
+#EXTINF:-1 tvg-name="宾阳综合" group-title="广西", 宾阳综合
+https://live-cdn.gxxw.com/gx/binyang/index.m3u8?zguangxd
+#EXTINF:-1 tvg-name="都安综合" group-title="广西", 都安综合
+https://live-cdn.gxxw.com/gx/duan/index.m3u8?zguangxd
+#EXTINF:-1 tvg-name="乐业综合" group-title="广西", 乐业综合
+https://live-cdn.gxxw.com/gx/leye/index.m3u8?zguangxd
+#EXTINF:-1 tvg-name="龙州综合" group-title="广西", 龙州综合
+https://live-cdn.gxxw.com/gx/longzhou/index.m3u8?zguangxd
+#EXTINF:-1 tvg-name="凭祥综合" group-title="广西", 凭祥综合
+https://live-cdn.gxxw.com/gx/pingxiang/index.m3u8?zguangxd
+#EXTINF:-1 tvg-name="融水综合" group-title="广西", 融水综合
+https://live-cdn.gxxw.com/gx/rongshui/index.m3u8
+#EXTINF:-1 tvg-name="田东综合" group-title="广西", 田东综合
+https://live-cdn.gxxw.com/gx/tiandong/index.m3u8?zguangxd
+#EXTINF:-1 tvg-name="昭平综合" group-title="广西", 昭平综合
+https://live-cdn.gxxw.com/gx/zhaoping/index.m3u8?zguangxd
+#EXTINF:-1 group-title="公众号：萝卜哔哔",博白综合
+http://live-cdn.gxxw.com/hls/a22/index.m3u8?zguangxd
+#EXTINF:-1 group-title="公众号：萝卜哔哔",博白综合
+https://live-cdn.gxxw.com/hls/a22/index.m3u8?zguangxd
+#EXTINF:-1 group-title="广西",博白电视台
+https://live-cdn.gxxw.com/hls/a22/index.m3u8
+#EXTINF:-1 group-title="广西",博白综合
+http://live-cdn.gxxw.com/hls/a22/index.m3u8
+#EXTINF:-1 group-title="广西",龙州综合
+https://live-cdn.gxxw.com/gx/longzhou/index.m3u8
+#EXTINF:-1 group-title="广西",凭祥综合
+https://live-cdn.gxxw.com/gx/pingxiang/index.m3u8
+#EXTINF:-1 group-title="广西",昭平综合
+https://live-cdn.gxxw.com/gx/zhaoping/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",宾阳综合
+https://live-cdn.gxxw.com/gx/binyang/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",都安综合
+https://live-cdn.gxxw.com/gx/duan/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",乐业综合
+https://live-cdn.gxxw.com/gx/leye/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",田东综合
+https://live-cdn.gxxw.com/gx/tiandong/index.m3u8
+#EXTINF:-1 tvg-name="贺州综合" group-title="广西", 贺州综合
+http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
+#EXTINF:-1 tvg-name="隆安新闻综合" group-title="广西", 隆安新闻综合
+rtmp://rtmp.nntv.cn/nnlive/LATV_A?zguangxd
+#EXTINF:-1 tvg-name="马山新闻综合" group-title="广西", 马山新闻综合
+rtmp://rtmp.nntv.cn/nnlive/MSTV_A?zguangxd
+#EXTINF:-1 tvg-name="南宁都市生活" group-title="广西", 南宁都市生活
+rtmp://rtmp.nntv.cn/nnlive/NNTV_METRO_A?zguangxd
+#EXTINF:-1 tvg-name="南宁新闻综合" group-title="广西", 南宁新闻综合
+rtmp://rtmp.nntv.cn/nnlive/NNTV_NEWS_A?zguangxd
+#EXTINF:-1 tvg-name="南宁影娱乐" group-title="广西", 南宁影娱乐
+rtmp://rtmp.nntv.cn/nnlive/NNTV_VOD_A?zguangxd
+#EXTINF:-1 tvg-name="上林电视台" group-title="广西", 上林电视台
+rtmp://rtmp.nntv.cn/nnlive/SLTV_A
+#EXTINF:-1 tvg-name="罗城综合" group-title="广西", 罗城综合
+http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
+#EXTINF:-1 group-title="广西",罗城综合
+http://111.12.75.177:9100/lctvlive/lch.m3u8

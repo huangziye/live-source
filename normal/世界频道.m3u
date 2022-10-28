@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="世界频道",CBC(720p)
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="世界频道",CityNews
+https://5e7c60955a878.streamlock.net/rtv_live/m31_card3/playlist.m3u8
+#EXTINF:-1 group-title="世界频道",ElPingüinoTV(720p)
+http://167.114.133.205:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1 group-title="世界频道",OutsideTV(720p)
+https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="世界频道",PeopleTV
+https://peopletv-oo.akamaized.net/playlist720p.m3u8
+#EXTINF:-1 group-title="世界频道",RadioPROS(720p)
+https://558bd16067b67.streamlock.net/radiopros/livestream/playlist.m3u8

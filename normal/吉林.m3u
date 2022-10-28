@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="白山公共" group-title="吉林", 白山公共
+http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
+#EXTINF:-1 tvg-name="敦化一套" group-title="吉林", 敦化一套
+http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
+#EXTINF:-1 tvg-name="珲春新闻综合" group-title="吉林", 珲春新闻综合
+http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="靖宇综合" group-title="吉林", 靖宇综合
+http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="龙井综合" group-title="吉林", 龙井综合
+http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="舒兰新闻综合" group-title="吉林", 舒兰新闻综合
+http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="长白山电视台" group-title="吉林", 长白山电视台
+http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="吉林",白山公共频道
+http://stream8.jlntv.cn/baishan2/playlist.m3u8
+#EXTINF:-1 group-title="吉林",龙井综合
+http://stream8.jlntv.cn/ljtv/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",长白山电视台
+http://stream8.jlntv.cn/cbstv/sd/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",敦化一套
+http://stream8.jlntv.cn/dhtv/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",珲春新闻综合
+http://stream8.jlntv.cn/hctv/sd/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",靖宇综合频道
+http://stream8.jlntv.cn/jytv/sd/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",舒兰新闻综合
+http://stream8.jlntv.cn/shulan/sd/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",松原公共频道
+http://stream8.jlntv.cn/sytv2/sd/live.m3u8
+#EXTINF:-1 tvg-name="德惠综合" group-title="吉林", 德惠综合
+http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="双阳综合" group-title="吉林", 双阳综合
+http://stream11.jlntv.cn/shuangyang/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-id="9999" group-title="未分类",德惠综合
+http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",双阳综合
+http://stream11.jlntv.cn/shuangyang/sd/live.m3u8
+#EXTINF:-1 tvg-name="东丰综合" group-title="吉林", 东丰综合
+http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="辉南新闻综合" group-title="吉林", 辉南新闻综合
+http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="柳河综合" group-title="吉林", 柳河综合
+http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="磐石综合" group-title="吉林", 磐石综合
+http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="双辽综合" group-title="吉林", 双辽综合
+http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="通化县综合" group-title="吉林", 通化县综合
+http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="汪清综合" group-title="吉林", 汪清综合
+http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="吉林",东丰综合
+http://stream5.jlntv.cn/df/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",东辽综合
+http://stream5.jlntv.cn/dl/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",辉南新闻综合
+http://stream5.jlntv.cn/hn/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",通化县综合
+http://stream5.jlntv.cn/thx/sd/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",柳河综合
+http://stream5.jlntv.cn/lh/sd/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",磐石综合
+http://stream5.jlntv.cn/ps/sd/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",双辽综合
+http://stream5.jlntv.cn/sl/sd/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",汪清综合
+http://stream5.jlntv.cn/wq/sd/live.m3u8
+#EXTINF:-1 tvg-name="桦甸综合" group-title="吉林", 桦甸综合
+http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="九台综合" group-title="吉林", 九台综合
+http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="吉林",桦甸综合
+http://stream10.jlntv.cn/huadian/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",江源综合频道
+http://stream10.jlntv.cn/jiangyuantv/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",九台综合
+http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",永吉综合频道
+http://stream10.jlntv.cn/yongji/sd/live.m3u8
+#EXTINF:-1 tvg-name="梅河口综合" group-title="吉林", 梅河口综合
+http://stream4.jlntv.cn/mhk/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",吉林卫视 (240p) [Not 24/7]
+http://stream4.jlntv.cn/test2/sd/live.m3u8
+#EXTINF:-1 group-title="卫视",吉林卫视
+http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8?
+#EXTINF:-1 group-title="吉林",梅河口综合
+http://stream4.jlntv.cn/mhk/sd/live.m3u8
+#EXTINF:-1 group-title="NHK-G综合-1 - 01 - 02",CCTV-13新闻 (576p)
+http://stream4.jlntv.cn/cctv13/sd/live.m3u8
+#EXTINF:-1 logo="" group-title="" ,吉林卫视-01
+http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8?$超清1080P
+#EXTINF:-1 tvg-name="延边-1" group-title="吉林", 延边-1
+http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
+#EXTINF:-1 tvg-name="延边-2" group-title="吉林", 延边-2
+http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
+#EXTINF:-1 tvg-name="延边朝鲜语综合" group-title="吉林", 延边朝鲜语综合
+http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
+#EXTINF:-1 tvg-name="延边朝鲜语综合" group-title="吉林", 延边朝鲜语综合
+http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
+#EXTINF:-1 tvg-name="延边汉语综合" group-title="吉林", 延边汉语综合
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
+#EXTINF:-1 tvg-name="延边卫视" group-title="吉林", 延边卫视
+http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild
+#EXTINF:-1 tvg-name="延边卫视" group-title="吉林", 延边卫视
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",延边卫视 (720p)
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+#EXTINF:-1 group-title="卫视",延边卫视
+http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
+#EXTINF:-1 group-title="吉林",延边朝鲜语综合
+http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
+#EXTINF:-1 group-title="吉林",延边汉语综合
+http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",延边朝鲜语综合
+http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
+#EXTINF:-1 tvg-name="延边卫视" group-title="未分类", 延边卫视
+http://live.ybtvyun.com/video/s10006-b316b550fd1f/index.m3u8
+#EXTINF:-1 tvg-name="延边朝语" group-title="未分类", 延边朝语
+http://live.ybtvyun.com/video/s10006-bcdce1b448cc/index.m3u8
+#EXTINF:-1 tvg-name="延边文化" group-title="未分类", 延边文化
+http://live.ybtvyun.com/video/s10006-3b9a54a11148/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",延边卫视
+http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",延边卫视 高清
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",延边1
+http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",延边卫视
+http://live.ybtvyun.com/video/s10006-602e81246858/index.m3u8
+#EXTINF:-1 tvg-name="延边-2" group-title="吉林", 延边-2
+http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8?zjild
+#EXTINF:-1 tvg-id="9999" group-title="未分类",延安公共频道
+http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",延安新闻综合
+http://live.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8
+#EXTINF:-1 tvg-name="长白朝语" group-title="吉林", 长白朝语
+http://player2.juyun.tv/tv/11344136.m3u8?zjild
+#EXTINF:-1 tvg-name="长白新闻综合" group-title="吉林", 长白新闻综合
+http://player2.juyun.tv/tv/11347146.m3u8?zjild
+#EXTINF:-1 group-title="吉林",吉林市新闻综合
+http://living.muzhifm.com/jilinshi/jl_v_zonghe.m3u8?auth_key=1683944014-0-0-727c3c424b12e5c4484b0e7cecfef774
+#EXTINF:-1 logo="" group-title="" ,吉林市新闻综合
+http://living.muzhifm.com/jilinshi/jl_v_zonghe.m3u8?auth_key=1683944014-0-0-727c3c424b12e5c4484b0e7cecfef774;

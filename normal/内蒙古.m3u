@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="鄂尔多斯城市生活" group-title="内蒙古", 鄂尔多斯城市生活
+http://live.erdszs.org.cn/lsdream/726npBZ/1000/live.m3u8?zneimd
+#EXTINF:-1 tvg-name="鄂尔多斯经济服务" group-title="内蒙古", 鄂尔多斯经济服务
+http://live.erdszs.org.cn/lsdream/ogvfqcp/1000/live.m3u8?zneimd
+#EXTINF:-1 tvg-name="鄂尔多斯蒙语综合" group-title="内蒙古", 鄂尔多斯蒙语综合
+http://live.erdszs.org.cn/lsdream/3lZr8dK/1000/live.m3u8?zneimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",鄂尔多斯新闻综合
+http://live.erdszs.org.cn/lsdream/h2mxgj4/1000/live.m3u8?zneimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",鄂尔多斯城市生活
+http://live.erdszs.org.cn/lsdream/726npBZ/1000/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",鄂尔多斯经济服务
+http://live.erdszs.org.cn/lsdream/ogvfqcp/1000/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",鄂尔多斯蒙语综合
+http://live.erdszs.org.cn/lsdream/3lZr8dK/1000/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",鄂尔多斯新闻综合
+http://live.erdszs.org.cn/lsdream/h2mxgj4/1000/live.m3u8
+#EXTINF:-1 tvg-name="鄂托克前旗电视台" group-title="内蒙古", 鄂托克前旗电视台
+http://livehqy.chinamcache.com/live/hqyzb01.m3u8?zneimd
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",鄂托克前旗电视台
+http://livehqy.chinamcache.com/live/hqyzb01.m3u8
+#EXTINF:-1 tvg-name="鄂温克电视台" group-title="内蒙古", 鄂温克电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live162700604855057.m3u8?zneimd
+#EXTINF:-1 tvg-name="库伦旗电视台" group-title="内蒙古", 库伦旗电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161942247484390.m3u8?zneimd
+#EXTINF:-1 tvg-name="奈曼旗电视台" group-title="内蒙古", 奈曼旗电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161888593025926.m3u8?zneimd
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",达茂综合频道
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live162426298237692.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",固阳综合频道
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live160861109294211.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",克旗综合频道
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live159582155321721.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",库伦旗电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161942247484390.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",奈曼旗电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161888593025926.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",准格尔旗电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161802828375549.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",察右前旗综合
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live160073959279435.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",鄂温克电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live162700604855057.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",察右前旗综合
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live160073959279435.m3u8?zneimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",达茂综合
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live164301116493025.m3u8?zneimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",固阳综合
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live160861109294211.m3u8?zneimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",克旗综合
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live159582155321721.m3u8?zneimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",准格尔旗电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161802828375549.m3u8?zneimd
+#EXTINF:-1 tvg-name="呼伦贝尔生活资讯" group-title="内蒙古", 呼伦贝尔生活资讯
+https://live.hrtonline.cn/hls/live003.m3u8?zneimd
+#EXTINF:-1 tvg-name="呼伦贝尔生活资讯" group-title="内蒙古", 呼伦贝尔生活资讯
+https://live.hrtonline.cn/flv/live/live003.flv?zneimd
+#EXTINF:-1 tvg-name="呼伦贝尔文化旅游" group-title="内蒙古", 呼伦贝尔文化旅游
+https://live.hrtonline.cn/hls/live002.m3u8?zneimd
+#EXTINF:-1 tvg-name="呼伦贝尔文化旅游" group-title="内蒙古", 呼伦贝尔文化旅游
+https://live.hrtonline.cn/flv/live/live002.flv?zneimd
+#EXTINF:-1 tvg-name="呼伦贝尔新闻综合" group-title="内蒙古", 呼伦贝尔新闻综合
+https://live.hrtonline.cn/flv/live/live001.flv?zneimd
+#EXTINF:-1 tvg-name="呼伦贝尔新闻综合" group-title="内蒙古", 呼伦贝尔新闻综合
+https://live.hrtonline.cn/hls/live001.m3u8?zneimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",呼伦贝尔生活资讯
+https://live.hrtonline.cn/flv/live/live003.flv
+#EXTINF:-1 tvg-id="9999" group-title="未分类",呼伦贝尔生活资讯
+https://live.hrtonline.cn/hls/live003.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",呼伦贝尔文化旅游
+https://live.hrtonline.cn/flv/live/live002.flv
+#EXTINF:-1 tvg-id="9999" group-title="未分类",呼伦贝尔文化旅游
+https://live.hrtonline.cn/hls/live002.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",呼伦贝尔新闻综合
+https://live.hrtonline.cn/flv/live/live001.flv
+#EXTINF:-1 tvg-id="9999" group-title="未分类",呼伦贝尔新闻综合
+https://live.hrtonline.cn/hls/live001.m3u8
+#EXTINF:-1 tvg-name="乌兰察布经济生活" group-title="内蒙古", 乌兰察布经济生活
+http://pluslive.wrbtv.cn/wrbtv1/sd/live.m3u8?zneimd
+#EXTINF:-1 tvg-name="乌兰察布生活" group-title="内蒙古", 乌兰察布生活
+http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8?zneimd
+#EXTINF:-1 tvg-name="乌兰察布新闻综合" group-title="内蒙古", 乌兰察布新闻综合
+http://pluslive.wrbtv.cn/xwzh/sd/live.m3u8?zneimd
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",乌兰察布新闻综合
+http://pluslive.wrbtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",乌兰察布经济生活
+http://pluslive.wrbtv.cn/wrbtv1/sd/live.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",乌兰察布生活频道
+http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8
+#EXTINF:-1 tvg-name="伊金霍洛新闻" group-title="内蒙古", 伊金霍洛新闻
+rtmp://cms-play.yjhlnews.cn/live/vedio?zneimd
+#EXTINF:-1 group-title="内蒙古",包头新闻综合
+http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live
+#EXTINF:-1 tvg-id="9999" group-title="未分类",包头经济频道
+http://live.btgdt.com/channels/btgd/jjpd/m3u8:500k/live
+#EXTINF:-1 tvg-id="9999" group-title="未分类",包头生活服务
+http://live.btgdt.com/channels/btgd/shfw/m3u8:500k/live

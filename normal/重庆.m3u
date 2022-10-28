@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="璧山综合" group-title="重庆", 璧山综合
+http://222.179.42.129:8181/hls1.m3u8?zzhongqd
+#EXTINF:-1 group-title="重庆",璧山综合频道
+http://222.179.42.129:8181/hls1.m3u8
+#EXTINF:-1 tvg-name="重庆电信IPTV导视" group-title="重庆", 重庆电信IPTV导视
+https://zbxclive.cbg.cn/app_2/ls_105.stream/chunklist.m3u8?zzhongqd
+#EXTINF:-1 tvg-name="重庆联通IPTV导视" group-title="重庆", 重庆联通IPTV导视
+https://zbxclive.cbg.cn/app_2/ls_106.stream/chunklist.m3u8?zzhongqd
+#EXTINF:-1 group-title="未分类",重庆导视(高清)
+http://zbxclive.cbg.cn:1935/app_2/ls_105.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="大足综合" group-title="重庆", 大足综合
+http://218.201.85.71:3170/m3u8?zzhongqd
+#EXTINF:-1 group-title="重庆",大足综合频道
+http://218.201.85.71:3170/m3u8
+#EXTINF:-1 tvg-name="垫江综合" group-title="重庆", 垫江综合
+http://125.62.24.185:80/1.m3u8?zzhongqd
+#EXTINF:-1 group-title="重庆",垫江综合频道
+http://125.62.24.185:80/1.m3u8
+#EXTINF:-1 tvg-name="涪陵电视台" group-title="重庆", 涪陵电视台
+http://livefuling.chinamcache.com/liveful/fldszb001.m3u8?zzhongqd
+#EXTINF:-1 tvg-name="涪陵电视台" group-title="重庆", 涪陵电视台
+http://livefuling.chinamcache.com/liveful/fldszb001.flv?zzhongqd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",涪陵综合
+http://livefuling.chinamcache.com/liveful/fldszb001.m3u8
+#EXTINF:-1 tvg-name="铜梁综合" group-title="重庆", 铜梁综合
+http://183.64.174.171:40123/ch1.m3u8?zzhongqd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",铜梁文旅
+http://183.64.174.171:50123/ch2.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",铜梁综合
+http://183.64.174.171:40123/ch1.m3u8
+#EXTINF:-1 tvg-name="武隆综合频道" group-title="重庆", 武隆综合频道
+https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8?zzhongqd
+#EXTINF:-1 group-title="重庆",武隆综合频道
+https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8

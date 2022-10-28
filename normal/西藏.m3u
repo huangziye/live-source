@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="西赞藏影文化" group-title="西藏", 西赞藏影文化
+rtmp://113.62.170.99:1935/live/tvchannel2?zxicd

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="港台频道",凤凰中文台
+http://175.154.201.15:5003/custom19.m3u8
+#EXTINF:-1 group-title="港台频道",凤凰中文资讯
+http://175.154.201.15:5003/custom20.m3u8
+#EXTINF:-1 group-title="港台频道",星空卫视
+http://175.154.201.15:5003/custom21.m3u8
+#EXTINF:-1 group-title="港台频道",V音乐台
+http://175.154.201.15:5003/custom22.m3u8

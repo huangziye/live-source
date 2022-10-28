@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV13" group-title="🇨🇳｜央视频道", CCTV13
+http://39.136.48.4:8089/PLTV/88888888/224/3221226328/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" group-title="🇨🇳｜央视频道", CCTV15
+http://39.135.32.22:6610/000000001000/1000000002000008163/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV17" group-title="🇨🇳｜央视频道", CCTV17
+http://39.135.47.102:6610/000000001000/HD-4000k-1080P-cctv17/1.m3u8?IASHttpSessionId=OTT

@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 group-title="中央频道",CCTV1
+http://218.204.51.252:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 group-title="中央频道",CCTV2
+http://218.204.51.252:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="中央频道",CCTV15
+http://218.204.51.252:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV3
+http://218.204.51.252:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV7
+http://218.204.51.252:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV5
+http://218.204.51.252:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV6
+http://218.204.51.252:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV4
+http://218.204.51.252:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV9
+http://218.204.51.252:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV8
+http://218.204.51.252:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV11
+http://218.204.51.252:9901/tsfile/live/1016_1.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV10
+http://218.204.51.252:9901/tsfile/live/1015_1.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV12
+http://218.204.51.252:9901/tsfile/live/1017_1.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV13
+http://218.204.51.252:9901/tsfile/live/1018_1.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV14
+http://218.204.51.252:9901/tsfile/live/1019_1.m3u8

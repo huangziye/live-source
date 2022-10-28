@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FunRoads.us" tvg-logo="https://funroads.tv/wp-content/uploads/fun-roads-header-horizontal-1.png" group-title="Travel",Fun Roads (404p)
+http://104.143.4.5:2080/funroads.m3u8
+#EXTINF:-1 tvg-id="Journy.us" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjg5MzMxNjNf?inline=1" group-title="Travel",Journy (1080p)
+https://vcnovation.teleosmedia.com/linear/ovation/journy/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",国外电影
+http://vcnovation.teleosmedia.com/stream/ovation/ovationtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelxpEurope.in" tvg-logo="https://i.imgur.com/8KQirah.png" group-title="Travel",Travel XP (720p)
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TunisieImmobilierTV.tn" tvg-logo="https://i.imgur.com/cZM2t0P.png" group-title="Travel",Tunisie Immobilier TV (720p) [Not 24/7]
+https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOFF.bo" tvg-logo="https://i.imgur.com/EqSjNhB.png" group-title="Travel",TV Off Travel (720p)
+https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
+#EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-logo="https://i.imgur.com/3lxkJxb.png" group-title="Travel",TV Paraná Turismo (720p) [Not 24/7]
+http://200.189.113.201/hls/tve.m3u8

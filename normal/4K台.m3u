@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="4k超高清" group-title="4K台", 4k超高清
+http://open.live-web.timetv.cn/live03/cctv4k.m3u8
+#EXTINF:-1 tvg-name="爱上4k" group-title="4K台", 爱上4k
+http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+#EXTINF:-1, CHC動作電影
+http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 tvg-name="苏州4K" group-title="4K台", 苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-name="苏州4k" group-title="江苏", 苏州4k
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
+#EXTINF:-1 tvg-name="苏州社会经济" group-title="江苏", 苏州社会经济
+https://liveshowbak2.kan0512.com/norecord/ncsztv2_sd/playlist.m3u8?zjiangsd
+#EXTINF:-1 tvg-name="苏州生活资讯" group-title="江苏", 苏州生活资讯
+https://liveshowbak2.kan0512.com/norecord/ncsztv5_sd/playlist.m3u8?zjiangsd
+#EXTINF:-1 tvg-name="苏州文化生活" group-title="江苏", 苏州文化生活
+https://liveshowbak2.kan0512.com/norecord/ncsztv3_sd/playlist.m3u8?zjiangsd
+#EXTINF:-1 tvg-name="苏州新闻综合" group-title="江苏", 苏州新闻综合
+https://liveshowbak2.kan0512.com/norecord/ncsztv1_sd/playlist.m3u8?zjiangsd
+#EXTINF:-1 tvg-id="1531" tvg-logo="http://n.ysyz.top:99/buyaolian/suzhouxwzh.png" group-title="江浙沪包邮",苏州新闻综合
+https://liveshowbak2.kan0512.com/norecord/ncsztv1_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="1532" tvg-logo="http://n.ysyz.top:99/buyaolian/suzhoushjj.png" group-title="江浙沪包邮",苏州社会经济
+https://liveshowbak2.kan0512.com/norecord/ncsztv2_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="1533" tvg-logo="http://n.ysyz.top:99/buyaolian/suzhouwhsh.png" group-title="江浙沪包邮",苏州文化生活
+https://liveshowbak2.kan0512.com/norecord/ncsztv3_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="1534" tvg-logo="http://n.ysyz.top:99/buyaolian/suzhoudyylxx.png" group-title="江浙沪包邮",苏州电影娱乐
+https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="1535" tvg-logo="http://n.ysyz.top:99/buyaolian/suzhoushzx.png" group-title="江浙沪包邮",苏州生活资讯
+https://liveshowbak2.kan0512.com/norecord/ncsztv5_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",苏州电影娱乐
+https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8?zjiangsd
+#EXTINF:-1 group-title="未分类",苏州综合(高清)
+http://liveshowbak2.kan0512.com/norecord/ncsztv1_sd/playlist.m3u8
+#EXTINF:-1 group-title="4  K",苏州4K
+http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-name="Clarity4K" group-title="4K台", Clarity4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d9427240000.jpg" group-title="影视综艺记录",Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D

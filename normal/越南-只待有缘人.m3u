@@ -1,0 +1,555 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgstatic.vtvcab.vn/logos/KBS_WORLD_M.png" group-title="越南-只待有缘人",KBS World HD - FPT
+https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="7143" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="英语儿童频道",Baby First
+https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",HBO Asia
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",THVL1 HD (720p)
+https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",THVL2 HD (720p)
+https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",THVL3 HD (720p)
+https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",THVL4 HD (720p)
+https://vips-livecdn.fptplay.net/hda3/vinhlong4hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",VTC2 (720p)
+https://vips-livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV1.vn" tvg-logo="https://i.imgur.com/zGK64Zf.png" group-title="Undefined",VTV1 (1080p) [Geo-blocked]
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="VTV2.vn" tvg-logo="https://i.imgur.com/Aepz56c.png" group-title="Undefined",VTV2 (1080p) [Geo-blocked]
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="VTV3.vn" tvg-logo="https://i.imgur.com/WgoDGVV.png" group-title="Undefined",VTV3 (1080p) [Geo-blocked]
+https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="VTV4.vn" tvg-logo="https://i.imgur.com/Cy7xwvd.png" group-title="Undefined",VTV4 (1080p) [Geo-blocked]
+https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="VTV5.vn" tvg-logo="https://i.imgur.com/KfPiaKG.png" group-title="Undefined",VTV5 (1080p) [Geo-blocked]
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="VTV6.vn" tvg-logo="https://i.imgur.com/jLV7C18.png" group-title="Undefined",VTV6 (1080p) [Geo-blocked]
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="VTV7.vn" tvg-logo="https://i.imgur.com/mViSmaB.png" group-title="Undefined",VTV7 (1080p) [Geo-blocked] [Not 24/7]
+https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="VTV8.vn" tvg-logo="https://i.imgur.com/VLHmEqh.png" group-title="Undefined",VTV8 (1080p) [Geo-blocked]
+https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="VTV9.vn" tvg-logo="https://i.imgur.com/X2t4bbg.png" group-title="Undefined",VTV9 (1080p) [Geo-blocked]
+https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",HBO[1920*1080]
+http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="公众号：萝卜哔哔",HBO英文
+http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#EXTINF:-1 tvg-id="9999" group-title="未分类",BBC World News
+http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b500000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",DISCOVERY CHANNEL
+https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="VTC1.vn" tvg-logo="https://i.imgur.com/o70uxdn.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36", VTC1 (720p) [Geo-blocked]
+https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="海外",BOOMERANG HD
+https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="海外",DA VINCI HD
+https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="海外",DW HD
+https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="海外",ANIMAX HD
+https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="海外",BLUE ANT ENTERTAINMENT HD
+https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="海外",DISCOVERY ASIA HD
+https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="海外",BBC EARTH HD
+https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="海外",NHK WORLD JAPAN HD
+https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="海外",动物星球
+https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="海外",TLC HD
+https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="海外",CBEEBIES HD
+https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="海外",BLUE ANT EXTREME HD
+https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="海外",KIX HD
+https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Cinemax
+http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Blueantent[1920*1080]
+https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Blueantext[1920*1080]
+https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Baby TV[1280*720]
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Animal Planet
+http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Antv
+http://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Antv
+https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Asian Food Network
+https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Baby
+http://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",BBC Lifestyle
+https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",BTV4
+https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Cinemax
+http://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Cinemax
+https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Congress
+http://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Dreamworks
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",DreamWorks
+http://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",HBO
+http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",HBO
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",KBS World
+https://vips-livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Nat Geo Wild
+http://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",National Geographic
+http://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Outdoor
+https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",QPVN
+http://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",SCTV6
+http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",VNews
+http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",VTC1
+https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",VTC1
+http://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",VTC4
+https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",VTC13
+http://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",VTC14
+http://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",VTV7
+https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",VTV7
+http://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",VTV7
+https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",VTV8
+https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",VTV8
+http://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",VTV8
+https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",VTV9
+https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",VTV9
+http://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.smithsonianchannel.ca/wp-content/uploads/2018/10/smithsonian-logo-header.png" group-title="越南-只待有缘人",Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="Science",Smithsonian Channel Asia (1080p)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/574px-NASA_logo.svg.png" group-title="越南-只待有缘人",NASA TV HD
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",NASA Public Channel
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
+#EXTINF:-1 group-title="世界频道",NASATVPublic
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",航天
+http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/1200px-CBS_News.svg.png" group-title="越南-只待有缘人",CBS NEWS
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",California: Fresno-Visalia
+https://dai.google.com/linear/hls/event/tFAJ7xPcTYaLKwIfUA-JIw/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",California: Los Angeles
+https://dai.google.com/linear/hls/event/n3PVAFmPTJSVYjdSVf7XZw/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CBS News | CBSN Chicago
+https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8?iu=/4128/CBS.CHI.OTT
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CBS News | CBSN Dallas-Ft.W.
+https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8?iu=/4128/CBS.DALLAS.OTT
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CBS News | CBSN Denver
+https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8?iu=/4128/CBS.DENVER.OTT
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CBS News | CBSN Pittsburgh
+https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8?iu=/4128/CBS.PITTS.OTT
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CBS News Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CBSN 11 Dallas / Fort Worth TX (KTVT)
+https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CBSN 2 Los Angeles CA (KCBS-TV)
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CBSN Chicago
+https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CBSN Dallas
+http://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CBSN Los Angeles
+http://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CBSN Minnesota
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CBSN Minnesota
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?iu=/4128/CBS.MINN.OTT
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CBSN New York
+http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CBSN Philly
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CBSN Philly
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CBSN Pittsburgh
+https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CBSNews Denver
+https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Florida: Gainesville (STIRR)
+https://dai.google.com/linear/hls/event/Ybz6nJKqSS2fcQYflsmpRw/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Florida: Pensacola (STIRR)
+https://dai.google.com/linear/hls/event/CAU96LSyR_e7MSeK6UTmGQ/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Florida: West Palm Beach (STIRR)
+https://dai.google.com/linear/hls/event/ji4LMCwtRCOw3TrRUKlQMQ/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Georgia: Albany (STIRR)
+https://dai.google.com/linear/hls/event/fD3VBzTxRXGz-v7HV0vryQ/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Georgia: Macon (STIRR)
+https://dai.google.com/linear/hls/event/PPMxI7GZSRG6Kgkp2gSF1g/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Idaho: Boise (STIRR)
+https://dai.google.com/linear/hls/event/EXltT2IOQvCIn8v23_15ow/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Idaho: Lewiston
+https://dai.google.com/linear/hls/event/knBsxnquSYqFXTP_UzcGgw/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Illinois: Quincy
+https://dai.google.com/linear/hls/event/bjWdbDzwTMOMd8Wmxl4rwg/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Indiana: South Bend
+https://dai.google.com/linear/hls/event/VGpvNIxIQRO7PXYRy7P0qw/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Maine: Portland (STIRR)
+https://dai.google.com/linear/hls/event/OaqAqJ0yQPiEIUIYqD7IGQ/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Maryland: Baltimore (STIRR)
+https://dai.google.com/linear/hls/event/jCNW8TtPRe6lnJMMVBZWVA/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Michigan: Bay City (STIRR)
+https://dai.google.com/linear/hls/event/kJPGlFKuS0itUoW7TfuDYQ/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Michigan: Cadillac (STIRR)
+https://dai.google.com/linear/hls/event/do9arGJBTD--KARQ056kpw/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Missouri: Columbia
+https://dai.google.com/linear/hls/event/nkNBP1eHT_GQwS7oYq23zw/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Montana: Missoula (STIRR)
+https://dai.google.com/linear/hls/event/ARX9M-X8RieADdAEYPXNuA/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Nebraska: Hastings (STIRR)
+https://dai.google.com/linear/hls/event/xtKyBDIFSZa6cT4Of9yaGQ/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Nevada: Las Vegas
+https://dai.google.com/linear/hls/event/yDGZP35hTsqdf2rwaP1BGQ/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Nevada: Reno (STIRR)
+https://dai.google.com/linear/hls/event/0Zb5SSQcTme6P7FYwwAwcQ/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",New York: Albany (STIRR)
+https://dai.google.com/linear/hls/event/LT14Y2LdQSWx9OQCmgVfuA/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",New York: Rochester
+https://dai.google.com/linear/hls/event/FftwN8CLTnaX1pFHztXlYw/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",New York: Syracuse (STIRR)
+https://dai.google.com/linear/hls/event/HSX_ZpxDQNy5aXzJHjhGGQ/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",North Carolina: Greenville - New Bern (STIRR)
+https://dai.google.com/linear/hls/event/B6RsXGIZSVqeVZGZIEZESg/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Ohio: Cincinnati (STIRR)
+https://dai.google.com/linear/hls/event/ZaLvGYKiTfuSYgJuBZD67Q/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Ohio: Dayton (STIRR)
+https://dai.google.com/linear/hls/event/nqvIiznDQO60CBNaJ5mmdQ/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Ohio: Toledo (STIRR)
+https://dai.google.com/linear/hls/event/1QSZA8OjS1y2Q64uTl5vWQ/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Oklahoma: Oklahoma City (STIRR)
+https://dai.google.com/linear/hls/event/pRd-k6tZSiCRsw_f51Vcvg/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Oklahoma: Tulsa (STIRR)
+https://dai.google.com/linear/hls/event/5kbHZRGGS--RHp41xaUJHQ/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Oregon: Medford (STIRR)
+https://dai.google.com/linear/hls/event/1g9qH9IOSIGGwAqw8fPzmw/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Oregon: Portland (STIRR)
+https://dai.google.com/linear/hls/event/npdISdLWSIa1E_j7NCUDBg/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",South Carolina: Charleston
+https://dai.google.com/linear/hls/event/kMNMCCQsQYyyk2n2h_4cNw/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",South Carolina: Columbia
+https://dai.google.com/linear/hls/event/btXotLiMRvmsa5J5AetBGQ/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Texas: Abilene (STIRR)
+https://dai.google.com/linear/hls/event/uxPBn5ErTQ-FOjxIYle2PA/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Texas: Beaumont (STIRR)
+https://dai.google.com/linear/hls/event/FKoa3RaEQxyyrf8PfPbgkg/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Utah: Salt Lake City (STIRR)
+https://dai.google.com/linear/hls/event/1bMiswhQQxqH-X8D3qbmKQ/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Virginia: Lynchburg - Roanoke
+https://dai.google.com/linear/hls/event/Fwm4J95UQi67l2FEV7N5kQ/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Virginia: Norfolk - Portsmouth (STIRR)
+https://dai.google.com/linear/hls/event/QuSOUXM4RPaC5zL4J8ZY3w/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Virginia: Tri-Cities (STIRR)
+https://dai.google.com/linear/hls/event/KPOafkGTRle7jOcRb9_KFw/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Washington: Seattle (STIRR)
+https://dai.google.com/linear/hls/event/VLEduzwwQfGSwV4eNdkj0g/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",WayPoint TV | HD 720p
+https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
+#EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://i.imgur.com/lG3OHxA.png" group-title="Comedy",AFV (720p)
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
+#EXTINF:-1 tvg-id="AmericavsAddiction.us" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/a0e4b00e-239d-484d-9d86-2ba28295ad94-large16x9_STIRR_0721_EPG_AmericaVsAddiction_1920x1080.png" group-title="Undefined",America vs. Addiction (720p)
+https://dai.google.com/linear/hls/event/-A9339ixSzydnZQZHd1u2A/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",beIN Sports Xtra (1080p)
+https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CBSN Bay Area CA (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CBSN Boston MA (720p)
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
+#EXTINF:-1 tvg-id="ChickenSoupForTheSoul.us" tvg-logo="https://i.imgur.com/g89fo1i.png" group-title="Classic",Chicken Soup For The Soul (1080p)
+https://dai.google.com/linear/hls/event/2C5P0JGUSj65s8KpeyIDcQ/master.m3u8
+#EXTINF:-1 tvg-id="ClassicRerunsTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Classic_Reruns_TV.png" group-title="Entertainment",Classic Reruns TV (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
+#EXTINF:-1 tvg-id="Dabl.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dabl_logo.svg/512px-Dabl_logo.svg.png" group-title="Lifestyle",Dabl (1080p)
+http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
+#EXTINF:-1 tvg-id="DickCavett.us" tvg-logo="https://i.imgur.com/3qTOYwk.png" group-title="Classic",Dick Cavett (768p)
+https://dai.google.com/linear/hls/event/-NacIpMDTZ2y1bhkJN96Vg/master.m3u8
+#EXTINF:-1 tvg-id="Dust.au" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",Dust (1080p)
+https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
+#EXTINF:-1 tvg-id="ETLive.us" tvg-logo="https://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="Entertainment",ET Live (1080p)
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+#EXTINF:-1 tvg-id="FilmRiseClassicTV.us" tvg-logo="https://i.imgur.com/dXpn7Xv.png" group-title="Classic",FilmRise Classic TV (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
+#EXTINF:-1 tvg-id="GlewedTV.us" tvg-logo="https://i.imgur.com/W4Bx9pG.jpg" group-title="General",Glewed TV (720p)
+https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Insight TV (1080p)
+https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
+#EXTINF:-1 tvg-id="LIVExLIVE.us" tvg-logo="https://i.imgur.com/OaSFTnV.png" group-title="Lifestyle",LIVExLIVE (1080p)
+https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
+#EXTINF:-1 tvg-id="MagellanTV.us" tvg-logo="https://i.imgur.com/oIy673i.png" group-title="Documentary",Magellan TV (720p)
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+#EXTINF:-1 tvg-id="Mobcrush.us" tvg-logo="https://i.imgur.com/KwN9Ujp.png" group-title="Outdoor",Mobcrush (720p)
+https://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",News4JAX+
+https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
+#EXTINF:-1 tvg-id="Quicktake.us" tvg-logo="https://dp6mhagng1yw3.cloudfront.net/entries/12th/5ec877f2-d86f-4253-a507-1c42083431a4.png" group-title="Undefined",Quicktake (1080p) [Not 24/7]
+https://dai.google.com/linear/hls/event/6ANW1HGeSTKzJlnAa9u1AQ/master.m3u8
+#EXTINF:-1 tvg-id="SBSViceland.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/SBS_Viceland_logo_2016.png/512px-SBS_Viceland_logo_2016.png" group-title="Undefined",SBS Viceland [Geo-blocked]
+https://dai.google.com/linear/hls/event/nPy2IRtvQTWudFfYwdBgsg/master.m3u8
+#EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-logo="https://i.imgur.com/ZgFhOZ8.png" group-title="Sports",Sports TV Plus (1080p)
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1 tvg-id="Sportswire.us" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usatoday_sportswire_logo_dark_v2.png" group-title="Sports",Sportswire (1080p)
+https://dai.google.com/linear/hls/event/8R__yZf7SR6yMb-oTXgbEQ/master.m3u8
+#EXTINF:-1 tvg-id="StingrayDjazz.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="Music",Stingray Djazz (1080p)
+https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="Music",Stingray Karaoke (720p)
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-logo="https://i.imgur.com/sw1LtJ4.png" group-title="Relax",Stingray Naturescape (1080p)
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR American Classics (360p)
+https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR Charge! (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR Choppertown (720p)
+https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR Cinehouse (720p)
+https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR CineLife (1080p)
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR City (480p)
+https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityAmarillo.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Amarillo (720p)
+https://dai.google.com/linear/hls/event/qvOGhZEeQh-s6TMFz7dVcg/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityAustin.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Austin (480p)
+https://dai.google.com/linear/hls/event/zDh7VBx8S7Sog5vzcXuehg/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityBakersfield.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Bakersfield (480p) [Not 24/7]
+https://dai.google.com/linear/hls/event/-4GLQIcZTUWzP8vDAXNQsQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityBeaumontPortArthur.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Beaumont Port Arthur (720p)
+https://dai.google.com/linear/hls/event/tlvrrqidRaG0KbLN4Hd5mg/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityBirmingham.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Birmingham (720p)
+https://dai.google.com/linear/hls/event/4RH6FntvSLOIv5FB-p4I8w/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityCedarRapids.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Cedar Rapids (720p)
+https://dai.google.com/linear/hls/event/zPJC-rOUTg28uymLdmYw5w/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityChampaign.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Champaign (720p)
+https://dai.google.com/linear/hls/event/YLDvM8DGQyqsYnDsgxOBPQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityCharlestonHuntington.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Charleston Huntington (234p) [Not 24/7]
+https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityChattanooga.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Chattanooga (720p)
+https://dai.google.com/linear/hls/event/7_v7qMjnQWGZShy2eOvR5g/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityChicoRedding.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Chico-Redding (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/sHnor7AERX60rGA1kR_wPA/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityColumbus1.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Columbus #1 (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/wV5ExXM9RxabBzbWnVv9RA/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityColumbus2.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Columbus #2 (720p)
+https://dai.google.com/linear/hls/event/QLfrYVtERpCnzM7qE_PkUw/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityElPaso1.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City El Paso #1 (480p)
+https://dai.google.com/linear/hls/event/MYhAOCTqQA6QFBdc1xwULQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityElPaso2.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City El Paso #2 (720p)
+https://dai.google.com/linear/hls/event/Exp7zxEPSLWuEhMoD2voOg/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityEugeneSpringfield1.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Eugene Springfield #1 (720p)
+https://dai.google.com/linear/hls/event/Ep4QBzH-TKW0iLhPVGuCvA/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityEugeneSpringfield2.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Eugene Springfield #2 (540p)
+https://dai.google.com/linear/hls/event/bERQw8-YRoK3MtJ0UUaI5w/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityFlorence.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Florence (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/6Ll-qQyAQlWgCt4PhH11Kw/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityGrandRapids.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Grand Rapids (480p) [Not 24/7]
+https://dai.google.com/linear/hls/event/leOKmL9fQ6eZyhdoROSh5Q/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityGreenBay.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Green Bay (720p)
+https://dai.google.com/linear/hls/event/a6lsWNYDQwyM9fjytUCrcw/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityGreenvilleAsheville.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Greenville Asheville (720p)
+https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityHarrisburg.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Harrisburg (720p)
+https://dai.google.com/linear/hls/event/W_NyV_9eQ-qa0XDSMfYkEg/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityJohnstownAltoona.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Johnstown Altoona (720p)
+https://dai.google.com/linear/hls/event/BXZlH0kXTeGczlQ49-0QFQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityLittleRock.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Little Rock (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/MqeaRgFBR2WJ_40ngbDruQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityMilwaukee.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Milwaukee (720p)
+https://dai.google.com/linear/hls/event/jWaxnXHPQjGX1yTxuFxpuw/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityMinneapolis.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Minneapolis (720p)
+https://dai.google.com/linear/hls/event/0P8RZiJkSBWfVDtjy-IiIQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityNashville.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Nashville (720p)
+https://dai.google.com/linear/hls/event/IG9ThaPaTwCojeoEWVNZRQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityOttumwa.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Ottumwa (720p)
+https://dai.google.com/linear/hls/event/jH-4z3EkQO-fLYYgjX7d3g/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityPittsburgh.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Pittsburgh (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/qJU_NkxXQoCbACvG5BWrXQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityProvidence.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Providence (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/5hLTCUyrQcS3B-NF8fNp-g/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityRaleighDurham.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Raleigh Durham (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/86JIujPNRWiVvtfzksp8QQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCitySanAntonio.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City San Antonio (720p)
+https://dai.google.com/linear/hls/event/TIQuLmldSj2SqS8y2ud9Xg/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCitySiouxCity.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Sioux City (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/0Uj4AmiOSw6oTX9ilyV2rQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCitySpringfield2.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Springfield #2 (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/IaAlq3prS8Ghiq0FhLtzGQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityStLouis.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City St. Louis (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/O5W1HC47QEKGc5tyscvsLw/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityWashingtonDC.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Washington D.C. (480p) [Not 24/7]
+https://dai.google.com/linear/hls/event/_VmeKujXTf-nc9Lr2NO6tA/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityWheelingSteubenville.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Wheeling Steubenville (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/dcaYfE2nRnqC6eAvCFWfzQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityWilkesBarreScranton.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Wilkes Barre Scranton (480p) [Not 24/7]
+https://dai.google.com/linear/hls/event/jlf2tRLPTg2xjMtKe5ey-w/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityYakimaPasco1.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Yakima Pasco #1 (720p)
+https://dai.google.com/linear/hls/event/Ae0L5AucTcqefaIvaS504A/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCityYakimaPasco2.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",STIRR City Yakima Pasco #2 (480p) [Not 24/7]
+https://dai.google.com/linear/hls/event/FJejnzFjSFGpaogi0GzPyw/master.m3u8
+#EXTINF:-1 tvg-id="STIRRClassicTV.us" tvg-logo="https://i.imgur.com/kahT0Od.png" group-title="Classic",STIRR Classic TV (768p)
+https://dai.google.com/linear/hls/event/8JiQCLfVQw6d7uCYt0qDJg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR Classica (1080p)
+https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR Comedy Dynamics (1080p)
+https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR Comet (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR Deal or No Deal (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR Docurama (1080p) [Not 24/7]
+https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR Electric Now (1080p) [Not 24/7]
+https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR evrgrn (1080p)
+https://dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR FilmRise Free Movies (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR Gravitas Movies (720p)
+https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR Gusto TV (1080p)
+https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR Horror Movies (720p)
+https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR HSN (720p)
+https://dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8
+#EXTINF:-1 tvg-id="ItsShowtimeattheApollo.us" tvg-logo="https://i.imgur.com/Qkpq9xj.png" group-title="Entertainment",STIRR It's Showtime at the Apollo (720p)
+https://dai.google.com/linear/hls/event/fAFfTnCAT2K8d83sYsA-cw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR MavTV (720p)
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRRMovies.us" tvg-logo="https://i.imgur.com/ec3yTaI.png" group-title="Movies",STIRR Movies (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR Mystery Science Theater 3000 (1080p)
+https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR National (720p)
+https://dai.google.com/linear/hls/event/-V3XSvA2Sa6e8h7cnHXB8w/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR Outside TV (1080p)
+https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
+#EXTINF:-1 tvg-id="STIRRPD.us" tvg-logo="https://i.imgur.com/VALYKHh.png" group-title="Entertainment",STIRR P.D. (720p)
+https://dai.google.com/linear/hls/event/dKG_ZFd_S82FPgNxHmhdJw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR People TV (1080p)
+https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR Popstar! TV (1080p)
+https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR PursuitUp (720p)
+https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR QVC (720p)
+https://dai.google.com/linear/hls/event/roEbn_l7Tzezwy22F1NSfA/master.m3u8
+#EXTINF:-1 tvg-id="STIRRRealityTV.us" tvg-logo="https://i.imgur.com/F1OCpS2.png" group-title="Entertainment",STIRR Reality TV (720p)
+https://dai.google.com/linear/hls/event/r9VoxPU7TYmpydEn2ZR0jA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR RetroCrush TV (480p)
+https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR Revry (720p)
+https://dai.google.com/linear/hls/event/gvO6-Y6TTjCxRf1QALU4VQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR SOAR (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR Space:1999 (768p)
+https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR Stadium (720p)
+https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR The Archive (720p)
+https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR The Bob Ross Channel (240p)
+https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR TV Mix (720p)
+https://dai.google.com/linear/hls/event/ZP8ZMv95Q0Gm9EiyYOGHAA/master.m3u8
+#EXTINF:-1 tvg-id="STIRRWesterns.us" tvg-logo="https://i.imgur.com/8zLoqkC.png" group-title="Movies",STIRR Westerns (360p)
+https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR Whistle Sports (1080p)
+https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STIRR Wipeout Xtra (720p)
+https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
+#EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-logo="https://i.imgur.com/X7NV3X1.png" group-title="Movies",The Film Detective (720p)
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:-1 tvg-id="TheFirstTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_First_TV_logo.png/512px-The_First_TV_logo.png" group-title="News",The First (1080p)
+https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
+#EXTINF:-1 tvg-id="TheTimConwayShow.us" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/a3e52443-2f72-4097-8ea8-3a325119b67d-large16x9_STIRR_0821_TimConway_1920x1080_EPG.png" group-title="Classic",The Tim Conway Show (720p)
+https://dai.google.com/linear/hls/event/v51OvZmXQOizl-KOgpXw1Q/master.m3u8
+#EXTINF:-1 tvg-id="USAToday.us" tvg-logo="https://i.imgur.com/K9OdCIV.png" group-title="News",USA Today (1080p)
+https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
+#EXTINF:-1 tvg-id="WBBJDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",WBBJ (News)
+https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8
+#EXTINF:-1 tvg-id="WCBIDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Undefined",WCBI (News)
+https://dai.google.com/linear/hls/event/qLrnhs3RQUa2zMw9UBkroQ/master.m3u8
+#EXTINF:-1 tvg-id="WDEFDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/WDEF_logo_2015.png" group-title="Undefined",WDEF-TV News Chattanooga TN (720p)
+http://dai.google.com/linear/hls/event/iVH_b5kWTteyRCy-YCoHOw/master.m3u8
+#EXTINF:-1 tvg-id="WMGTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NBC_2013_fixed_logo.png/512px-NBC_2013_fixed_logo.png" group-title="Undefined",WMGT-TV News Macon GA (720p)
+https://dai.google.com/linear/hls/event/ygKx2LkmRQCZ_orwBQhfFw/master.m3u8
+#EXTINF:-1 tvg-id="WTVQDT1.us" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wtvq_abc36_lexington.png" group-title="Undefined",WTVQ-DT News Lexington KY (720p)
+https://dai.google.com/linear/hls/event/7xSxXPG1RqKkNva1wIWlVw/master.m3u8
+#EXTINF:-1 tvg-id="WWAYDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",WWAY News Willmington NC (720p)
+https://dai.google.com/linear/hls/event/A7CgcBYNTuKfvFvW8rmiJA/master.m3u8
+#EXTINF:-1 tvg-id="WXXVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",WXXV-TV News Biloxi MS (720p)
+https://dai.google.com/linear/hls/event/cJXgmHHTQIGMhSzDk7TBsA/master.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",The Country Network (1080p)
+https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8
+#EXTINF:-1 tvg-id="SoReal.us" tvg-logo="https://od.lk/s/MF8yMjU5ODE2MDdf/SoReal_240x240.png" group-title="Lifestyle",So...Real (1080p)
+https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
+#EXTINF:-1, CGTN English
+https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Bloomberg TV
+https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
+#EXTINF:-1 tvg-logo="https://chungplay.github.io/logo/sbs_viceland.png" group-title="越南-只待有缘人",SBS Viceland HD
+https://sbs-live.akamaized.net/hls/live/2002828/channel2/open/master_1800K.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/1200px-Global_News.svg.png" group-title="越南-只待有缘人",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Global News Halifax (720p
+https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Global News Peterborough
+https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b63/live.isml/.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Global News Edmonton (720
+https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Global News Kingston (720
+https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b9/live.isml/.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Global News British Colum
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Global News Montreal (720
+https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Global News Okanagan (720
+https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Global NEWS
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Global News Calgary (720p
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Global News Winnipeg (720
+https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Global News Regina (720p)
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Global News Toronto (720p
+https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Global News Lethbridge (7
+https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8db2bc0/live.isml/.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Global News Saskatoon (72
+https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Global News National (720
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="越南-只待有缘人",LoveNature HD
+http://bamus-eng-roku.amagi.tv/playlist.m3u8

@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="吴忠公共" group-title="宁夏", 吴忠公共
+http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
+#EXTINF:-1 tvg-name="吴忠综合" group-title="宁夏", 吴忠综合
+http://live.kanwz.net/zhpd/sd/live.m3u8?zningxd
+#EXTINF:-1 group-title="宁夏",吴忠公共
+http://live.kanwz.net/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="银川公共" group-title="宁夏", 银川公共
+http://www.ycen.com.cn/ycgg/sd/live.m3u8?zningxd
+#EXTINF:-1 tvg-name="银川生活" group-title="宁夏", 银川生活
+http://www.ycen.com.cn/ycxw/sd/live.m3u8?zningxd
+#EXTINF:-1 tvg-name="银川文体" group-title="宁夏", 银川文体
+http://www.ycen.com.cn/ycwt/sd/live.m3u8?zningxd
+#EXTINF:-1 tvg-name="中宁综合" group-title="宁夏", 中宁综合
+https://hls.ningxiahuangheyun.com/live/znzh.m3u8?zningxd
+#EXTINF:-1 group-title="宁夏",宁夏经济
+http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=7
+#EXTINF:-1 tvg-id="9999" group-title="未分类",宁夏卫视 高清
+http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6

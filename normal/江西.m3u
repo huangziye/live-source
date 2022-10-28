@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="赣州公共频道" group-title="江西", 赣州公共频道
+http://pl1.cloud.dayang.com.cn/live/10062_Naq1lu.m3u8?zjiangxd
+#EXTINF:-1 tvg-name="赣州教育频道" group-title="江西", 赣州教育频道
+http://pl1.cloud.dayang.com.cn/live/10062_ojZz8U.m3u8?zjiangxd
+#EXTINF:-1 tvg-name="赣州新闻综合" group-title="江西", 赣州新闻综合
+http://pl1.cloud.dayang.com.cn/live/10062_nfeG7l.m3u8?zjiangxd
+#EXTINF:-1 tvg-name="赣州新闻综合" group-title="综合", 赣州新闻综合
+http://pl1.cloud.dayang.com.cn/live/10062_nfeG7l.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",章贡综合频道
+http://pl1.cloud.dayang.com.cn/live/10062_0FhO3l.m3u8?zjiangxd
+#EXTINF:-1 group-title="江西",赣州公共频道
+http://pl1.cloud.dayang.com.cn/live/10062_Naq1lu.m3u8
+#EXTINF:-1 group-title="江西",赣州教育频道
+http://pl1.cloud.dayang.com.cn/live/10062_ojZz8U.m3u8
+#EXTINF:-1 group-title="江西",章贡综合频道
+http://pl1.cloud.dayang.com.cn/live/10062_0FhO3l.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",赣州新闻
+http://pl1.cloud.dayang.com.cn/live/10062_nfeG7l_2048.m3u8
+#EXTINF:-1 tvg-name="吉安公共" group-title="江西", 吉安公共
+http://stream.ijatv.com/jatv2/hd/live.m3u8?zjiangxd
+#EXTINF:-1 tvg-name="吉安新闻综合" group-title="江西", 吉安新闻综合
+http://stream.ijatv.com/jatv1/hd/live.m3u8?zjiangxd
+#EXTINF:-1 group-title="湘鄂赣皖",吉安新闻综合
+http://stream.ijatv.com/jatv1/hd/live.m3u8
+#EXTINF:-1 group-title="湘鄂赣皖",吉安公共频道
+http://stream.ijatv.com/jatv2/hd/live.m3u8
+#EXTINF:-1 tvg-name="新余公共频道" group-title="江西", 新余公共频道
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xinyu_hd2.m3u8?zjiangxd
+#EXTINF:-1 tvg-name="新余教育频道" group-title="江西", 新余教育频道
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xinyu_hd3.m3u8?zjiangxd
+#EXTINF:-1 tvg-name="新余新闻综合" group-title="江西", 新余新闻综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xinyu_hd1.m3u8?zjiangxd
+#EXTINF:-1 group-title="未分类",广昌综合(高清)
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_guangchuangTV.m3u8
+#EXTINF:-1 group-title="未分类",分宜综合(高清)
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_fenyi_tv.m3u8
+#EXTINF:-1 group-title="未分类",都昌新闻(高清)
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_duchang.m3u8
+#EXTINF:-1 group-title="未分类",广信综合(高清)
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao.m3u8
+#EXTINF:-1 group-title="江西",井冈山台
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8
+#EXTINF:-1 group-title="江西",庐山综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lushan.m3u8
+#EXTINF:-1 group-title="江西",上饶余干
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yugan.m3u8
+#EXTINF:-1 group-title="江西",万载综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wanzai.m3u8
+#EXTINF:-1 group-title="江西",武宁综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wuning.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",江西卫视HD
+http://live02.jxtvcn.com.cn/live/jxtv01?trs=hls_ts@@User-Agent=Lavf/57.71.100@@
+#EXTINF:-1 tvg-id="9999" group-title="未分类",新余公共
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xinyu_hd2.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",宁都综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_ningdu.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",莲花综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lianhua.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",新余新闻综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xinyu_hd1.m3u8
+#EXTINF:-1 logo="" group-title="" ,广信区综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao.m3u8;
+#EXTINF:-1 logo="" group-title="" ,余干综合频道
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yugan.m3u8;
+#EXTINF:-1 logo="" group-title="" ,铅山综合频道
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yanshan.m3u8;
+#EXTINF:-1 logo="" group-title="" ,广昌新闻综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_guangchuangTV.m3u8;
+#EXTINF:-1 logo="" group-title="" ,万载综合频道
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wanzai.m3u8;
+#EXTINF:-1 logo="" group-title="" ,分宜综合频道
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_fenyi_tv.m3u8;
+#EXTINF:-1 logo="" group-title="" ,井冈山综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8;
+#EXTINF:-1 logo="" group-title="" ,都昌综合频道
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_duchang.m3u8;
+#EXTINF:-1 logo="" group-title="" ,庐山综合频道
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lushan.m3u8;
+#EXTINF:-1 logo="" group-title="" ,彭泽综合频道
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_pengze.m3u8;
+#EXTINF:-1 logo="" group-title="" ,永修电视一套
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yongxiu.m3u8;
+#EXTINF:-1 logo="" group-title="" ,莲花综合频道
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lianhua.m3u8;
+#EXTINF:-1 tvg-name="信丰综合频道" group-title="江西", 信丰综合频道
+https://hwplay-hls.myun.tv/live/loy679o0.m3u8?zjiangxd
+#EXTINF:-1 group-title="云贵川渝青",眉山综合频道
+http://hwplay-hls.myun.tv/live/logmyv40.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",定南综合频道
+https://hwplay-hls.myun.tv/live/0e8a9o10.m3u8?zjiangxd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",南康综合频道
+http://hwplay-hls.myun.tv/live/0em6zval.m3u8?jiangxi
+#EXTINF:-1 tvg-id="9999" group-title="未分类",信丰综合频道
+https://hwplay-hls.myun.tv/live/loy679o0.m3u8
+#EXTINF:-1 logo="" group-title="" ,眉山综合
+http://hwplay-hls.myun.tv/live/logmyv40.m3u8?zsicd
+#EXTINF:-1 tvg-name="永新电视一套" group-title="江西", 永新电视一套
+http://jxyx.chinashadt.com:2036/live/1002.stream/playlist.m3u8?zjiangxd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",永新电视一套 (576p)
+http://jxyx.chinashadt.com:2036/live/1002.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",永新电视三套 (576p)
+http://jxyx.chinashadt.com:2036/live/1004.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",永新电视二套 (576p)
+http://jxyx.chinashadt.com:2036/live/1003.stream/playlist.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NASATVISSViews.us" tvg-logo="https://i.imgur.com/bKVNdeh.jpg" group-title="Science",NASA TV ISS Views (480p) [Not 24/7]
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-logo="https://i.imgur.com/i1x1zzn.png" group-title="Science",TEC TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8

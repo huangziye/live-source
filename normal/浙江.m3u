@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="北仑电视台" group-title="浙江", 北仑电视台
+http://play-sh.quklive.com/live/1626327731714170.m3u8?zzhed
+#EXTINF:-1 group-title="江浙沪包邮",江山电视台
+http://play-sh.quklive.com/live/1623117710666335.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",北仑电视台
+http://play-sh.quklive.com/live/1626327731714170.m3u8
+#EXTINF:-1 tvg-name="淳安电视台" group-title="浙江", 淳安电视台
+https://wtmtylive.yunshicloud.com/tbziu1/ad592j.m3u8?zzhed
+#EXTINF:-1 group-title="江浙沪包邮",淳安电视台
+https://wtmtylive.yunshicloud.com/tbziu1/ad592j.m3u8
+#EXTINF:-1 tvg-name="德清文化生活" group-title="浙江", 德清文化生活
+http://live.yingxi.tv/channel2/sd/live.m3u8?zzhed
+#EXTINF:-1 tvg-name="德清新闻综合" group-title="浙江", 德清新闻综合
+http://live.yingxi.tv/channel1/sd/live.m3u8?zzhed
+#EXTINF:-1 group-title="江浙沪包邮",德清文化生活
+http://live.yingxi.tv/channel2/sd/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",孝感公共频道[1280*722][1280*722]
+http://live.yingxi.tv/channel1/sd/live.m3u8
+#EXTINF:-1 tvg-name="奉化生活娱乐" group-title="浙江", 奉化生活娱乐
+http://live1.fhtv.net.cn/shys/sd/live.m3u8?zzhed
+#EXTINF:-1 tvg-name="奉化新闻综合" group-title="浙江", 奉化新闻综合
+http://live1.fhtv.net.cn/zhzb/sd/live.m3u8?zzhed
+#EXTINF:-1 group-title="江浙沪包邮",奉化新闻综合
+http://live1.fhtv.net.cn/zhzb/sd/live.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",奉化生活娱乐
+http://live1.fhtv.net.cn/shys/sd/live.m3u8
+#EXTINF:-1 tvg-name="海宁生活服务" group-title="浙江", 海宁生活服务
+http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
+#EXTINF:-1 tvg-name="海宁新闻综合" group-title="浙江", 海宁新闻综合
+http://live.hndachao.cn/xwzh/sd/live.m3u8?zzhed
+#EXTINF:-1 group-title="江浙沪包邮",海宁新闻综合
+http://live.hndachao.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",海宁生活服务
+http://live.hndachao.cn/shfw/sd/live.m3u8
+#EXTINF:-1 tvg-name="海盐新闻频道" group-title="浙江", 海盐新闻频道
+http://stream.ihytv.com/xwpd/sd/live.m3u8?zzhed
+#EXTINF:-1 tvg-name="海盐新闻频道" group-title="浙江", 海盐新闻频道
+http://lived.dmqhyadmin.com/ds/sd/live.m3u8?zzhed
+#EXTINF:-1 group-title="江浙沪包邮",海盐新闻频道
+http://lived.dmqhyadmin.com/ds/sd/live.m3u8
+#EXTINF:-1 tvg-name="湖州公共民生" group-title="浙江", 湖州公共民生
+http://live1.plus.hugd.com/ggpd1/sd/live.m3u8?zzhed
+#EXTINF:-1 group-title="江浙沪包邮",湖州公共民生
+http://live1.plus.hugd.com/ggpd1/sd/live.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",湖州公共民生
+http://live1.plus.hugd.com/ggpd1/playlist.m3u8
+#EXTINF:-1 tvg-name="湖州文化娱乐" group-title="浙江", 湖州文化娱乐
+http://live.plus.hugd.com/whylpd/sd/live.m3u8?zzhed
+#EXTINF:-1 tvg-name="湖州新闻综合" group-title="浙江", 湖州新闻综合
+http://live.plus.hugd.com/xwzhpd/sd/live.m3u8?zzhed
+#EXTINF:-1 group-title="江浙沪包邮",湖州新闻综合
+http://live.plus.hugd.com/xwzhpd/sd/live.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",湖州新闻综合
+http://live.plus.hugd.com/xwzhpd/playlist.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",湖州文化娱乐
+http://live.plus.hugd.com/whylpd/sd/live.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",湖州文化娱乐
+http://live.plus.hugd.com/whylpd/playlist.m3u8
+#EXTINF:-1 tvg-name="嘉善善文化" group-title="浙江", 嘉善善文化
+rtmp://118.31.110.219:1935/jsgdswh/myStream?zzhed
+#EXTINF:-1 tvg-name="嘉善新闻综合" group-title="浙江", 嘉善新闻综合
+rtmp://118.31.110.219:1935/jsgdxwzh/myStream?zzhed
+#EXTINF:-1 tvg-id="9999" group-title="未分类",嘉善善文化
+http://118.31.110.219:1935/jsgdswh/myStream/playlist.m3u8?zzhed
+#EXTINF:-1 tvg-id="9999" group-title="未分类",嘉善新闻综合
+http://118.31.110.219:1935/jsgdxwzh/myStream/playlist.m3u8?zzhed
+#EXTINF:-1 tvg-name="嘉兴新闻综合" group-title="浙江", 嘉兴新闻综合
+http://pluslive.jiaxingren.com/xwzh/sd/live.m3u8?zzhed
+#EXTINF:-1 group-title="影视",嘉兴文化影视
+http://pluslive.jiaxingren.com/whys/sd/live.m3u8
+#EXTINF:-1 tvg-name="建德综合频道" group-title="浙江", 建德综合频道
+http://livejdrmt.chinamcache.com/live/jdzb02.m3u8?zzhed
+#EXTINF:-1 group-title="江浙沪包邮",建德综合频道
+http://livejdrmt.chinamcache.com/live/jdzb02.m3u8
+#EXTINF:-1 tvg-name="金华都市农村" group-title="浙江", 金华都市农村
+http://live2.plus.jinhua.com.cn/dsnc/playlist.m3u8?zzhed
+#EXTINF:-1 group-title="江浙沪包邮",金华都市农村
+http://live2.plus.jinhua.com.cn/dsnc/playlist.m3u8
+#EXTINF:-1 tvg-name="金华公共频道" group-title="浙江", 金华公共频道
+http://live.plus.jinhua.com.cn/jjsh/playlist.m3u8?zzhed
+#EXTINF:-1 tvg-name="金华教育科技" group-title="浙江", 金华教育科技
+http://live.plus.jinhua.com.cn/jykj/playlist.m3u8?zzhed
+#EXTINF:-1 tvg-name="金华新闻综合" group-title="浙江", 金华新闻综合
+http://live.plus.jinhua.com.cn/xwzh/playlist.m3u8?zzhed
+#EXTINF:-1 group-title="江浙沪包邮",金华新闻综合
+http://live.plus.jinhua.com.cn/xwzh/playlist.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",金华教育科技
+http://live.plus.jinhua.com.cn/jykj/playlist.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",金华公共频道
+http://live.plus.jinhua.com.cn/jjsh/playlist.m3u8
+#EXTINF:-1 tvg-name="泰顺新闻综合" group-title="浙江", 泰顺新闻综合
+http://taishun.news01.yunshanit.com/720p/StreamName.m3u8?zzhed
+#EXTINF:-1 group-title="江浙沪包邮",泰顺新闻综合
+http://taishun.news01.yunshanit.com/720p/StreamName.m3u8
+#EXTINF:-1 tvg-name="桐庐综合频道" group-title="浙江", 桐庐综合频道
+http://livetongl.chinamcache.com/live/tlzb01.m3u8?txSecret=2ee28a051ebfb1b0771869a7d652d4a9&txTime=639a8391?zzhed
+#EXTINF:-1 group-title="江浙沪包邮",桐庐综合频道
+http://livetongl.chinamcache.com/live/tlzb01.m3u8?txSecret=2ee28a051ebfb1b0771869a7d652d4a9&txTime=639a8391
+#EXTINF:-1 group-title="浙江",杭州桐庐综合
+http://livetongl.chinamcache.com/live/tlzb01.m3u8?txSecret=0e344d60c8f0ce16b57102ae81d10d6a&txTime=5fd316c1
+#EXTINF:-1 tvg-name="桐乡新闻综合" group-title="浙江", 桐乡新闻综合
+http://live.txcmapp.com/tszh1/sd/live.m3u8?zzhed
+#EXTINF:-1 group-title="江浙沪包邮",桐乡新闻综合
+http://live.txcmapp.com/tszh1/sd/live.m3u8
+#EXTINF:-1 tvg-name="温州都市生活" group-title="浙江", 温州都市生活
+rtmp://livetv.dhtv.cn/live/citylife?zzhed
+#EXTINF:-1 tvg-name="温州经济科教" group-title="浙江", 温州经济科教
+rtmp://livetv.dhtv.cn/live/financial?zzhed
+#EXTINF:-1 tvg-name="温州新闻综合" group-title="浙江", 温州新闻综合
+rtmp://livetv.dhtv.cn/live/news?zzhed
+#EXTINF:-1 group-title="NHK-G综合-1 - 01 - 03",江苏 Ⅰ 东海综合台
+rtmp://livetv.dhtv.cn/live/news
+#EXTINF:-1 logo="" group-title="" ,温州公共频道
+rtmp://livetv.dhtv.cn/live/peoples院?zzhed
+#EXTINF:-1 tvg-name="鄞州二套" group-title="浙江", 鄞州二套
+http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936.m3u8?zzhed
+#EXTINF:-1 tvg-name="鄞州二套" group-title="浙江", 鄞州二套
+rtmp://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936?key=ac13899c93ebee41?zzhed
+#EXTINF:-1 tvg-name="鄞州一套" group-title="浙江", 鄞州一套
+rtmp://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843?key=45094b1e7cf81765?zzhed
+#EXTINF:-1 tvg-name="鄞州一套" group-title="浙江", 鄞州一套
+http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8?zzhed
+#EXTINF:-1 group-title="江浙沪包邮",鄞州一套
+http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",鄞州二套
+http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936.m3u8
+#EXTINF:-1 tvg-name="镇海先锋影院" group-title="浙江", 镇海先锋影院
+http://pluslive.zhxww.net/channel2/sd/live.m3u8?zzhed
+#EXTINF:-1 group-title="江浙沪包邮",镇海综合频道
+http://pluslive.zhxww.net/channel1/sd/live.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",镇海先锋影视
+http://pluslive.zhxww.net/channel2/sd/live.m3u8
+#EXTINF:-1 tvg-name="舟山公共生活" group-title="浙江", 舟山公共生活
+http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
+#EXTINF:-1 tvg-name="舟山群岛旅游" group-title="浙江", 舟山群岛旅游
+http://live1.plus.wifizs.cn/qdly/sd/live.m3u8?zzhed
+#EXTINF:-1 tvg-name="舟山新闻综合" group-title="浙江", 舟山新闻综合
+http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
+#EXTINF:-1 group-title="江浙沪包邮",舟山新闻综合
+http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8

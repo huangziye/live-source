@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="德令哈综合" group-title="青海", 德令哈综合
+http://livecdn.dmqhyadmin.com/hls/xjdelingha.m3u8?zqinghd
+#EXTINF:-1 tvg-name="湟源综合" group-title="青海", 湟源综合
+http://livecdn.dmqhyadmin.com/hls/xjhuangyuan.m3u8?zqinghd
+#EXTINF:-1 tvg-name="门源综合" group-title="青海", 门源综合
+http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8?zqinghd
+#EXTINF:-1 tvg-name="民和综合" group-title="青海", 民和综合
+http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd
+#EXTINF:-1 tvg-name="祁连综合" group-title="青海", 祁连综合
+http://livecdn.dmqhyadmin.com/hls/xjqilian.m3u8?zqinghd
+#EXTINF:-1 group-title="云贵川渝青",德令哈综合
+http://livecdn.dmqhyadmin.com/hls/xjdelingha.m3u8
+#EXTINF:-1 group-title="云贵川渝青",化隆综合
+http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
+#EXTINF:-1 group-title="云贵川渝青",民和综合
+http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 湟源综合
+http://livecdn.dmqhyadmin.com/hls/xjhuangyuan.m3u8
+#EXTINF:-1 group-title="未分类",门源综合(高清)
+http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
+#EXTINF:-1 group-title="公众号：萝卜哔哔",化隆综合
+http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8?zqinghd
+#EXTINF:-1 group-title="公众号：萝卜哔哔",贵南综合
+http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8?zqinghd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",湟中综合
+http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",祁连综合
+http://livecdn.dmqhyadmin.com/hls/xjqilian.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",青海卫视
+http://livecdn.dmqhyadmin.com/hls/sjxinwenzhongxin.m3u8
+#EXTINF:-1 tvg-name="西宁生活服务" group-title="青海", 西宁生活服务
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
+#EXTINF:-1 tvg-name="西宁新闻综合" group-title="青海", 西宁新闻综合
+https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
+#EXTINF:-1 group-title="云贵川渝青",西宁新闻综合
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1 group-title="云贵川渝青",西宁生活服务
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8

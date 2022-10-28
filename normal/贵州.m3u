@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="安顺新闻" group-title="贵州", 安顺新闻
+https://player.juyun.tv/camera/64413134.m3u8?zguizd
+#EXTINF:-1 tvg-name="甘南县综合" group-title="黑龙江", 甘南县综合
+http://player.juyun.tv/camera/65362146.m3u8?zheild
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 安顺新闻频道
+https://player.juyun.tv/camera/64413134.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",甘南县综合
+http://player.juyun.tv/camera/65362146.m3u8
+#EXTINF:-1 tvg-name="六盘水公共" group-title="贵州", 六盘水公共
+rtmp://tv.lpsntv.com:1935/channellive/ch2?zguizd
+#EXTINF:-1 tvg-name="六盘水综合" group-title="贵州", 六盘水综合
+rtmp://tv.lpsntv.com:1935/channellive/ch1?zguizd
+#EXTINF:-1 tvg-name="罗甸综合" group-title="贵州", 罗甸综合
+http://pili-live-rtmp.210.i2863.com/i2863-210/live_210_050252.m3u8
+#EXTINF:-1 tvg-name="黔南公共" group-title="贵州", 黔南公共
+rtmp://tv.qntv.net/channellive/ch2?zguizd
+#EXTINF:-1 tvg-name="黔南新闻综合" group-title="贵州", 黔南新闻综合
+rtmp://tv.qntv.net/channellive/ch1?zguizd
+#EXTINF:-1 tvg-name="清镇新闻综合" group-title="贵州", 清镇新闻综合
+http://pili-live-rtmp.143.i2863.com/i2863-143/live_143_397273.m3u8?zguizd
+#EXTINF:-1 group-title="云贵川渝青",清镇新闻综合
+http://pili-live-rtmp.143.i2863.com/i2863-143/live_143_397273.m3u8
+#EXTINF:-1 tvg-name="仁怀新闻" group-title="贵州", 仁怀新闻
+https://ali-live.rh163.cn/live/app1.m3u8?zguizd
+#EXTINF:-1 tvg-name="三都新闻综合" group-title="贵州", 三都新闻综合
+http://pili-live-rtmp.207.i2863.com/i2863-207/sdpdzb.m3u8?zguizd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 三都新闻综合
+http://pili-live-rtmp.207.i2863.com/i2863-207/sdpdzb.m3u8
+#EXTINF:-1 tvg-name="思南综合" group-title="贵州", 思南综合
+rtmp://pili-live-rtmp.sndst.tianma3600.com/sndst2/dspd2?zguizd
+#EXTINF:-1 tvg-name="思南综合" group-title="贵州", 思南综合
+https://pili-live-hdl-sndst.tianma3600.com/sndst2/dspd2.m3u8?zguizd
+#EXTINF:-1 group-title="云贵川渝青",思南综合
+https://pili-live-hdl-sndst.tianma3600.com/sndst2/dspd2.m3u8
+#EXTINF:-1 tvg-name="松新闻" group-title="贵州", 松新闻
+http://live.strmtzx.cn/stxw/sd/live.m3u8?zguizd
+#EXTINF:-1 tvg-name="桃综艺" group-title="贵州", 桃综艺
+http://live.strmtzx.cn/stzy/sd/live.m3u8?zguizd
+#EXTINF:-1 group-title="云贵川渝青",松桃新闻
+http://live.strmtzx.cn/stxw/sd/live.m3u8
+#EXTINF:-1 group-title="云贵川渝青",松桃综艺
+http://live.strmtzx.cn/stzy/sd/live.m3u8
+#EXTINF:-1 tvg-name="习水经济" group-title="贵州", 习水经济
+rtmp://ali-live.xishuirm.com/live/app3?zguizd
+#EXTINF:-1 tvg-name="习水综合" group-title="贵州", 习水综合
+rtmp://ali-live.xishuirm.com/live/app2?zguizd

@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="保康新闻综合" group-title="湖北", 保康新闻综合
+http://bktvplay.gdnewmedia.cc/live/bk_xwzh.m3u8?zhubd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",保康文化旅游
+http://bktvplay.gdnewmedia.cc/live/bk_whly.m3u8
+#EXTINF:-1 tvg-name="崇阳新闻综合" group-title="湖北", 崇阳新闻综合
+http://www.cyxw.cn:10500/hls/live.m3u8?zhubd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",崇阳新闻综合
+http://www.cyxw.cn:10500/hls/live.m3u8
+#EXTINF:-1 tvg-name="江夏经济生活" group-title="湖北", 江夏经济生活
+http://59.175.226.142:280/gb28181/jjsh.m3u8?zhubd
+#EXTINF:-1 tvg-name="江夏新闻综合" group-title="湖北", 江夏新闻综合
+http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",江夏新闻综合[768*576][768*576]
+http://59.175.226.142:280/gb28181/xwzh.m3u8
+#EXTINF:-1 group-title="湖北",江夏经济生活
+http://59.175.226.142:280/gb28181/jjsh.m3u8
+#EXTINF:-1 tvg-name="荆门新闻综合" group-title="湖北", 荆门新闻综合
+http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",荆门新闻综合[1920*1080][1920*1080]
+http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",荆门教育频道[1920*1080][1920*1080]
+http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",荆门公共
+http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="麻城综合" group-title="湖北", 麻城综合
+http://119.36.30.199:8888/mctv1.m3u8
+#EXTINF:-1 tvg-name="十堰公共" group-title="湖北", 十堰公共
+rtmp://r2bj.weizan.cn/v/351104_694292401376336037?zhubd
+#EXTINF:-1 tvg-name="十堰经济旅游" group-title="湖北", 十堰经济旅游
+rtmp://r2bj.weizan.cn/v/351104_791122427715011838?zhubd
+#EXTINF:-1 tvg-name="十堰新闻" group-title="湖北", 十堰新闻
+rtmp://r2bj.weizan.cn/v/351104_837056569960221505?zhubd
+#EXTINF:-1 tvg-name="武汉新闻综合" group-title="湖北", 武汉新闻综合
+http://live.hannews.com.cn/video/s10001-wuhannews/index.m3u8?zhubd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",武汉新闻综合
+http://live.hannews.com.cn/video/s10001-wuhannews/index.m3u8
+#EXTINF:-1 tvg-name="武汉新闻综合" group-title="湖北", 武汉新闻综合
+http://video.hannews.com.cn/fs/livedit/579aab595e36f48a/adb11b845cc5a5ab.m3u8?zhubd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",武汉新闻综合[1280*720][1280*720]
+http://video.hannews.com.cn/fs/livedit/579aab595e36f48a/adb11b845cc5a5ab.m3u8
+#EXTINF:-1 tvg-name="仙桃生活文体" group-title="湖北", 仙桃生活文体
+http://221.233.242.239:280/live/72/playlist.m3u8
+#EXTINF:-1 tvg-name="仙桃新闻综合" group-title="湖北", 仙桃新闻综合
+http://221.233.242.239:280/live/71/playlist.m3u8?zhubd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",仙桃新聞綜合 (576p)
+http://221.233.242.239:280/live/71/playlist.m3u8
+#EXTINF:-1 tvg-name="云梦党建农业" group-title="湖北", 云梦党建农业
+http://ymtvplay.gdnewmedia.cc/live/ymdj.m3u8
+#EXTINF:-1 tvg-name="云梦综合频道" group-title="湖北", 云梦综合频道
+http://ymtvplay.gdnewmedia.cc/live/ymzh.m3u8?zhubd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",云梦综合频道[720*576][720*576]
+http://ymtvplay.gdnewmedia.cc/live/ymzh.m3u8
+#EXTINF:-1 tvg-name="郧阳新闻综合" group-title="湖北", 郧阳新闻综合
+http://58.19.198.159:2021/hls1.m3u8?zhubd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",郧阳新闻综合[640*360][640*360]
+http://58.19.198.159:2021/hls1.m3u8
+#EXTINF:-1 group-title="湖北",洪湖生活频道
+http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUFM01.m3u8?auth_key=1672502399-0-0-69ddd1da2207155680ab702668a87438
+#EXTINF:-1 tvg-id="9999" group-title="未分类",洪湖新闻频道
+http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUTV01.m3u8?auth_key=1672502399-0-0-b944c13c0dc5551ccf445dedb5d2027b
+#EXTINF:-1 logo="" group-title="" ,洪湖新闻频道
+http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUTV01.m3u8?auth_key=1672502399-0-0-b944c13c0dc5551ccf445dedb5d2027b;
+#EXTINF:-1 logo="" group-title="" ,洪湖生活频道
+http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUFM01.m3u8?auth_key=1672502399-0-0-69ddd1da2207155680ab702668a87438;

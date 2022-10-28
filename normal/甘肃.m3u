@@ -1,0 +1,207 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="白银公共" group-title="甘肃", 白银公共
+http://live.bygd.cn/bygg/sd/live.m3u8?zgand
+#EXTINF:-1 tvg-name="白银综合" group-title="甘肃", 白银综合
+http://live.bygd.cn/byzh/sd/live.m3u8?gansu
+#EXTINF:-1 group-title="甘肃",白银公共
+http://live.bygd.cn/bygg/sd/live.m3u8
+#EXTINF:-1 group-title="甘肃",白银综合频道
+http://live.bygd.cn/byzh/sd/live.m3u8
+#EXTINF:-1 tvg-name="定西公共" group-title="甘肃", 定西公共
+https://play.kankanlive.com/live/1645680054929933.m3u8?zgand
+#EXTINF:-1 tvg-name="定西综合" group-title="甘肃", 定西综合
+https://play.kankanlive.com/live/1645679947087932.m3u8?zgand
+#EXTINF:-1 tvg-name="岷县综合" group-title="甘肃", 岷县综合
+http://play.kankanlive.com/live/1614311581479927.m3u8?zgand
+#EXTINF:-1 tvg-name="通渭综合" group-title="甘肃", 通渭综合
+https://play.kankanlive.com/live/1629944062210970.m3u8?zgand
+#EXTINF:-1 tvg-id="9999" group-title="未分类",金川综合
+https://play.kankanlive.com/live/1625041962958919.m3u8?zgand
+#EXTINF:-1 tvg-id="9999" group-title="未分类",临洮综合
+https://play.kankanlive.com/live/1638428318510977.m3u8?zgand
+#EXTINF:-1 tvg-id="9999" group-title="未分类",西和综合
+https://play.kankanlive.com/live/1626051451895935.m3u8?zgand
+#EXTINF:-1 group-title="公众号：萝卜哔哔",景泰综合
+https://play.kankanlive.com/live/1624439143745981.m3u8?zgand
+#EXTINF:-1 group-title="公众号：萝卜哔哔",礼县综合
+https://play.kankanlive.com/live/1621416463200961.m3u8?zgand
+#EXTINF:-1 tvg-id="9999" group-title="未分类",定西公共频道
+http://play.kankanlive.com/live/1645680054929933.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",古浪综合频道
+https://play.kankanlive.com/live/1619400940821967.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",金川综合频道
+https://play.kankanlive.com/live/1625041962958919.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",礼县综合频道
+https://play.kankanlive.com/live/1621416463200961.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",临洮综合频道
+https://play.kankanlive.com/live/1638428318510977.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",陇西综合频道
+http://play.kankanlive.com/live/1641010321462941.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",岷县综合频道
+http://play.kankanlive.com/live/1614311581479927.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",平川综合频道
+https://play.kankanlive.com/live/1621842376245934.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",秦安综合频道
+http://play.kankanlive.com/live/1620829433464975.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",通渭综合频道
+https://play.kankanlive.com/live/1629944062210970.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",西和综合频道
+https://play.kankanlive.com/live/1626051451895935.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",张掖公共频道
+https://play.kankanlive.com/live/1629710004378956.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",张掖新闻综合
+https://play.kankanlive.com/live/1629709727589955.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",舟曲新闻综合
+https://play.kankanlive.com/live/1631185650131909.m3u8
+#EXTINF:-1 tvg-name="甘南综合" group-title="甘肃", 甘南综合
+http://pili-live-hls.hfmt.net/gntv/gnhytv.m3u8?zgand
+#EXTINF:-1 tvg-name="临潭综合" group-title="甘肃", 临潭综合
+http://pili-live-hls.hfmt.net/gntv/lttv.m3u8?zgand
+#EXTINF:-1 tvg-name="碌曲综合" group-title="甘肃", 碌曲综合
+http://pili-live-hls.hfmt.net/gntv/lqtv.m3u8?zgand
+#EXTINF:-1 tvg-name="夏河综合" group-title="甘肃", 夏河综合
+http://pili-live-hls.hfmt.net/gntv/xhtv.m3u8?zgand
+#EXTINF:-1 tvg-name="舟曲新闻" group-title="甘肃", 舟曲新闻
+http://pili-live-hls.hfmt.net/gntv/zqtv.m3u8?zgand
+#EXTINF:-1 tvg-name="卓尼综合" group-title="甘肃", 卓尼综合
+http://pili-live-hls.hfmt.net/gntv/zntv.m3u8?zgand
+#EXTINF:-1 tvg-id="9999" group-title="未分类",玛曲综合
+http://pili-live-hls.hfmt.net/gntv/mqtv.m3u8?gansu
+#EXTINF:-1 group-title="公众号：萝卜哔哔",甘南藏语
+http://pili-live-hls.hfmt.net/gntv/gnzytv.m3u8?zgand
+#EXTINF:-1 tvg-id="9999" group-title="未分类",甘南综合频道
+http://pili-live-hls.hfmt.net/gntv/gnhytv.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",临潭综合频道
+http://pili-live-hls.hfmt.net/gntv/lttv.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",甘南藏语频道
+http://pili-live-hls.hfmt.net/gntv/gnzytv.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",卓尼综合频道
+http://pili-live-hls.hfmt.net/gntv/zntv.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",夏河综合频道
+http://pili-live-hls.hfmt.net/gntv/xhtv.m3u8
+#EXTINF:-1 tvg-name="酒泉公共" group-title="甘肃", 酒泉公共
+http://stream.gsjqtv.com/pd2/sd/live.m3u8?zgand
+#EXTINF:-1 tvg-name="酒泉综合" group-title="甘肃", 酒泉综合
+http://stream.gsjqtv.com/pd1/sd/live.m3u8?zgand
+#EXTINF:-1 group-title="甘肃",酒泉公共
+http://stream.gsjqtv.com/pd2/sd/live.m3u8
+#EXTINF:-1 group-title="甘肃",酒泉综合
+http://stream.gsjqtv.com/pd1/sd/live.m3u8
+#EXTINF:-1 tvg-name="崆峒综合" group-title="甘肃", 崆峒综合
+http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
+#EXTINF:-1 tvg-id="9999" group-title="未分类",崆峒综合频道
+http://125.74.200.110:10080/hls/001/001_live.m3u8
+#EXTINF:-1 logo="" group-title="" ,崆峒综
+rtmp://125.74.200.110:10085/hls/001;
+#EXTINF:-1 tvg-name="渭源新闻" group-title="甘肃", 渭源新闻
+http://p2bj.weizan.cn/1334496652/224253674017686826/live.m3u8?zgand
+#EXTINF:-1 tvg-name="十堰经济旅游" group-title="湖北", 十堰经济旅游
+http://p2bj.weizan.cn/351104/791122427715011838/live.m3u8?zhubd
+#EXTINF:-1 tvg-name="十堰新闻" group-title="湖北", 十堰新闻
+http://p2bj.weizan.cn/351104/837056569960221505/live.m3u8?zhubd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",丹江口生活
+https://p2bj.weizan.cn/309104/751799777014582046/live.m3u8?zhubd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",十堰公共
+http://p2bj.weizan.cn/351104/694292401376336037/live.m3u8?zhubd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",十堰经济旅游[1920*1080][1920*1080]
+http://p2bj.weizan.cn/351104/791122427715011838/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",十堰公共[1280*720][1280*720]
+http://p2bj.weizan.cn/351104/694292401376336037/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",十堰新闻[1920*1080][1920*1080]
+http://p2bj.weizan.cn/351104/837056569960221505/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",丹江口生活[1920*1080][1920*1080]
+https://p2bj.weizan.cn/309104/751799777014582046/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",渭源新闻频道
+http://p2bj.weizan.cn/1334496652/224253674017686826/live.m3u8
+#EXTINF:-1 tvg-name="广东文化" group-title="甘肃", 广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
+#EXTINF:-1 tvg-name="广东文化" group-title="甘肃", 广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",广东少儿
+https://glive.grtn.cn/live/wenhua_test0203.m3u8
+#EXTINF:-1 group-title="未分类",广东文化(高清)
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721
+#EXTINF:-1 group-title="广东",广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
+#EXTINF:-1 logo="" group-title="" ,广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?$高清720P
+#EXTINF:-1 tvg-name="清新综合" group-title="甘肃", 清新综合
+http://hls.wiseqx.com/live/qxzh.m3u8?zguangd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",广东 ‖ 清新综合台 (1080p)
+http://hls.wiseqx.com/live/qxzh.m3u8
+#EXTINF:-1 group-title="广东",清新公共
+http://hls.wiseqx.com/live/qxgg.m3u8
+#EXTINF:-1 tvg-name="韶关公共" group-title="甘肃", 韶关公共
+https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8?zguangd
+#EXTINF:-1 tvg-name="韶关综合" group-title="甘肃", 韶关综合
+https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8?zguangd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",广东 Ⅰ 韶关公共台 (720p) [Not 24/7]
+https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",广东 Ⅰ 韶关综合台 (720p) [Not 24/7]
+https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+#EXTINF:-1 tvg-name="深圳东部" group-title="甘肃", 深圳东部
+https://lglivepull.sznews.com/live/2646.m3u8?zguangd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",深圳东部
+https://lglivepull.sznews.com/live/2646.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",深圳龙岗
+https://lglivepull.sznews.com/live/2647.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",深圳众创TV
+https://lglivepull.sznews.com/live/2645.m3u8
+#EXTINF:-1 tvg-name="生活HD" group-title="甘肃", 生活HD
+http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8?zguangd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",华数 (720p) [Not 24/7]
+http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+#EXTINF:-1 group-title="广东",生活HD
+http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
+#EXTINF:-1 group-title="📼综艺",非遗美食
+http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8
+#EXTINF:-1 group-title="📼综艺",李子柒
+http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+#EXTINF:-1 group-title="📼综艺",英雄联盟
+http://hls-ott-zhibo.wasu.tv/live/461/index.m3u8
+#EXTINF:-1 tvg-name="阳江1" group-title="甘肃", 阳江1
+https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_w1166501356_b928000.m3u8?zguangd
+#EXTINF:-1 tvg-name="阳江1" group-title="甘肃", 阳江1
+https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8?zguangd
+#EXTINF:-1 tvg-name="阳江2" group-title="甘肃", 阳江2
+https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_w551261166_b928000.m3u8?zguangd
+#EXTINF:-1 tvg-name="阳江2" group-title="甘肃", 阳江2
+https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8?zguangd
+#EXTINF:-1 tvg-name="阳江公共" group-title="甘肃", 阳江公共
+https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8?zguangd
+#EXTINF:-1 tvg-name="阳江综合" group-title="甘肃", 阳江综合
+https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8?zguangd
+#EXTINF:-1 group-title="闽粤桂琼",广东·阳江综合
+https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8
+#EXTINF:-1 group-title="闽粤桂琼",广东·阳江公共
+https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8
+#EXTINF:-1 group-title="广东",阳江公共
+https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8
+#EXTINF:-1 group-title="广东",阳江综合
+https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",阳江公共
+https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b928000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",阳江公共
+https://live.yjtvw.com:8081/live/smil:yjtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",阳江综合
+https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b928000.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",阳江综合
+https://live.yjtvw.com:8081/live/smil:yjtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",阳江公共
+https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_w629081979_b3628000.m3u8
+#EXTINF:-1 tvg-name="云浮公共" group-title="甘肃", 云浮公共
+https://pili-live-hdl-ysx.tianma3600.com/gdyf/gdyfgg.m3u8?zguangd
+#EXTINF:-1 tvg-name="云浮综合" group-title="甘肃", 云浮综合
+https://pili-live-hdl-ysx.tianma3600.com/gdyf/gdyfzh.m3u8?zguangd
+#EXTINF:-1 group-title="广东",云浮公共
+https://pili-live-hdl-ysx.tianma3600.com/gdyf/gdyfgg.m3u8
+#EXTINF:-1 group-title="广东",云浮综合
+https://pili-live-hdl-ysx.tianma3600.com/gdyf/gdyfzh.m3u8
+#EXTINF:-1 group-title="甘肃",庆阳公共频道
+http://stream.gsqytv.com.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="甘肃",庆阳综合频道
+http://stream.gsqytv.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",庆阳公共(高清)
+http://stream.gsqytv.com.cn/ggpd/sd/live.m3u8?_upt=d1cbecfd1645027712
+#EXTINF:-1 tvg-id="9999" group-title="未分类",庆阳新闻(高清)
+http://stream.gsqytv.com.cn/xwzh/sd/live.m3u8?_upt=52b8e3d11645025064

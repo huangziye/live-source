@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunanjs.png" group-title="湘鄂赣皖",湖南经视
+http://124.232.233.15:6610/000000001001/201600020002/1400.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="http://n.ysyz.top:99/buyaolian/hunands.png" group-title="湘鄂赣皖",湖南都市
+http://124.232.233.15:6610/000000001001/201600020003/1400.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="http://n.ysyz.top:99/buyaolian/hunanyl.png" group-title="湘鄂赣皖",湖南娱乐
+http://124.232.233.15:6610/000000001001/201600020004/1400.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="湖南公共" tvg-name="湖南公共" tvg-logo="http://n.ysyz.top:99/buyaolian/hunangg.png" group-title="湘鄂赣皖",湖南公共
+http://124.232.233.15:6610/000000001001/201600020007/1400.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/hunangj.png" group-title="湘鄂赣皖",湖南国际
+http://124.232.233.15:6610/000000001001/201600020001/1400.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/hunandy.png" group-title="湘鄂赣皖",湖南电影
+http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="http://n.ysyz.top:99/buyaolian/hunandsj.png" group-title="湘鄂赣皖",湖南电视剧
+http://124.232.233.15:6610/000000001001/201600020006/1400.m3u8?m3u8_level=2
+#EXTINF:-1 logo="" group-title="" ,湖南都市-01
+http://124.232.233.15:6610/000000001001/201600020003/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 group-title="👩‍🏭少儿",金鹰卡通
+http://124.232.233.15:6610/000000001001/201600020009/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-id="9999" group-title="未分类",湖南电影
+http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 group-title="湘鄂赣皖",江西公共农业
+http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="湘鄂赣皖",安庆石化电视
+http://183.167.250.225:8081/live/0.m3u8

@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="电台广播" group-title="广播频道", 电台广播
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+#EXTINF:-1 tvg-name="中国之声" group-title="广播频道", 中国之声
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1 tvg-name="香港之声" group-title="广播频道", 香港之声
+http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+#EXTINF:-1 tvg-name="环球资讯" group-title="广播频道", 环球资讯
+http://sk.cri.cn/905.m3u8
+#EXTINF:-1 tvg-name="环球广播" group-title="广播频道", 环球广播
+http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1 tvg-name="南海之声" group-title="广播频道", 南海之声
+http://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1 tvg-name="Hit FM FM88.7" group-title="广播频道", Hit FM FM88.7
+http://sk.cri.cn/887.m3u8
+#EXTINF:-1 tvg-name="轻松调频 FM91.5" group-title="广播频道", 轻松调频 FM91.5
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1 group-title="女团 - 01",CRI NEWS Plus AM846
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1 group-title="女团 - 01",CRI NEWS Plus AM1008
+http://sk.cri.cn/am1008.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CRI 海峡飞虹
+http://sk.cri.cn/hxfh.m3u8
+#EXTINF:-1 tvg-name="经典音乐" group-title="广播频道", 经典音乐
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1 tvg-name="怀集音乐台" group-title="广播频道", 怀集音乐台
+http://live.xmcdn.com:80/live/966/64.m3u8
+#EXTINF:-1 tvg-name="高清音乐台" group-title="广播频道", 高清音乐台
+http://live.xmcdn.com:80/live/1427/64.m3u8
+#EXTINF:-1 tvg-name="清晨音乐台" group-title="广播频道", 清晨音乐台
+http://live.xmcdn.com:80/live/1011/64.m3u8
+#EXTINF:-1 tvg-name="老歌音乐台" group-title="广播频道", 老歌音乐台
+http://live.xmcdn.com:80/live/2628/64.m3u8
+#EXTINF:-1 tvg-name="亚洲经典音乐台" group-title="广播频道", 亚洲经典音乐台
+http://live.xmcdn.com:80/live/1005/64.m3u8
+#EXTINF:-1 tvg-name="北京音乐广播" group-title="广播频道", 北京音乐广播
+http://live.xmcdn.com/live/95/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",北京房山经典音乐 FM96.9-02
+http://live.xmcdn.com/live/963/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",北京交通广播 FM103.9-02
+http://live.xmcdn.com/live/93/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",重庆都市广播 FM93.8-01
+http://live.xmcdn.com/live/132/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",重庆经济广播 FM101.5-02
+http://live.xmcdn.com/live/129/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",重庆新闻广播 FM96.8-02
+http://live.xmcdn.com/live/128/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",重庆音乐广播 FM88.1-02
+http://live.xmcdn.com/live/131/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",福建交通广播 FM100.7-02
+http://live.xmcdn.com/live/790/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",福建私家车广播 FM98.7-02
+http://live.xmcdn.com/live/793/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",福建新闻广播 FM103.6-02
+http://live.xmcdn.com/live/792/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",广东南方生活广播 FM93.6
+http://live.xmcdn.com/live/249/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",广东羊城交通广播 FM105.2
+http://live.xmcdn.com/live/248/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",广东音乐之声 FM99.3
+http://live.xmcdn.com/live/74/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",广东珠江经济台 FM97.4
+http://live.xmcdn.com/live/252/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",广州交通电台 FM106.1-02
+http://live.xmcdn.com/live/258/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",广州新闻电台 FM96.2-02
+http://live.xmcdn.com/live/256/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",兰州新闻综合广播 FM97.3-02
+http://live.xmcdn.com/live/294/64.m3u8
+#EXTINF:-1 group-title="女团 - 01",CNR 哈语广播
+http://live.xmcdn.com/live/1396/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CNR 华夏之声
+http://live.xmcdn.com/live/16/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CNR 经典音乐广播 101.8
+http://live.xmcdn.com/live/13/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CNR 经济之声
+http://live.xmcdn.com/live/1066/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CNR 老年之声
+http://live.xmcdn.com/live/39/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CNR 民族之声
+http://live.xmcdn.com/live/17/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CNR 神州之声
+http://live.xmcdn.com/live/15/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CNR 维语广播
+http://live.xmcdn.com/live/40/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CNR 文艺之声
+http://live.xmcdn.com/live/38/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CNR 香港之声
+http://live.xmcdn.com/live/44/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CNR 音乐之声
+http://live.xmcdn.com/live/12/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CNR 娱乐广播
+http://live.xmcdn.com/live/42/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CNR 中国交通广播
+http://live.xmcdn.com/live/45/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CNR 中国乡村之声
+http://live.xmcdn.com/live/46/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CNR 中国之声
+http://live.xmcdn.com/live/1065/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CNR 中华之声
+http://live.xmcdn.com/live/14/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CRI 环球资讯广播 FM90.5
+http://live.xmcdn.com/live/1040/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CRI 南海之声
+http://live.xmcdn.com/live/1054/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CRI 轻松调频 FM91.5
+http://live.xmcdn.com/live/1042/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CRI 中文环球广播
+http://live.xmcdn.com/live/1043/64.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CRI Hit FM FM88.7
+http://live.xmcdn.com/live/75/64.m3u8
+#EXTINF:-1 tvg-name="音乐之声" group-title="广播频道", 音乐之声
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1 tvg-name="动感音乐" group-title="广播频道", 动感音乐
+http://cnlive.cnr.cn/hls/dongganyyt.m3u8
+#EXTINF:-1 tvg-name="80后音怡台" group-title="广播频道", 80后音怡台
+http://lhttp.qingting.fm/live/20207761/64k.mp3

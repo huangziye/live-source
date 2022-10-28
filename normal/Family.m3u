@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AMGTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Amgtv.PNG" group-title="Family",AMG TV (1080p)
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 tvg-id="KSCEDT2.us" tvg-logo="https://i.imgur.com/970zAEn.png" group-title="Religious",KSCE Vida Cristiana (360p)
+https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
+#EXTINF:-1 tvg-id="KVVBLD1.us" tvg-logo="https://i.imgur.com/FzxuNhl.png" group-title="Undefined",KVVB-TV 33 Victor Valley (1080p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
+#EXTINF:-1 tvg-id="KSCEDT1.us" tvg-logo="https://i.imgur.com/6TLQWh8.png" group-title="Religious",Life! Christian Broadcasting Network (360p)
+https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsNet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="News",NewsNet (720p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
+#EXTINF:-1 tvg-id="WKPCDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="Undefined",PBS KET2 (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
+#EXTINF:-1 tvg-id="WKPCDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="Undefined",PBS KET KY (480p)
+https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
+#EXTINF:-1 tvg-id="WMPTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="Undefined",PBS MPT Baltimore MD (WMPB) (1080p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WPS TV (360p)
+https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
+#EXTINF:-1 tvg-id="KRSUDT1.us" tvg-logo="https://i.imgur.com/ghmpEYN.png" group-title="Undefined", RSUTV Public Television (1080p)
+https://2-fss-2.streamhoster.com/pl_118/amlst:202742-1432010/chunklist_b4500000.m3u8
+#EXTINF:-1 tvg-id="AVAFamily.ir" tvg-logo="https://i.imgur.com/hyRmzWL.png" group-title="Family",AVA Family (720p) [Not 24/7]
+http://51.210.199.5/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ChicosIPe.pe" tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="Family",Chicos IPe (1080p) [Not 24/7]
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (768p)
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="General",TV Perú Internacional (460p) [Not 24/7]
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-id="FilmTVKinder.ua" tvg-logo="https://i.imgur.com/nH4Krbm.png" group-title="Family",FilmTV Kinder (400p) [Not 24/7]
+https://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Metal TV (720p) [Not 24/7]
+https://v2.catcast.tv/content/33816/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Кинозал (VHS 90s) (720p) [Not 24/7]
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 tvg-id="SSSRTV.ru" tvg-logo="https://i.imgur.com/0xpA5uO.png" group-title="Undefined",СССР ТВ (432p) [Not 24/7]
+https://v2.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ужастик (304p) [Not 24/7]
+https://v2.catcast.tv/content/38896/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Фантастика Sci-Fi (400p) [Not 24/7]
+https://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1 tvg-id="PositivTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Positiv_TV_Network_Logo.png" group-title="Family",Positiv (720p)
+https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="RealFamiliesAustralia.us" tvg-logo="https://i.imgur.com/z8O4Dl6.png" group-title="Family",Real Families (Australia) (720p)
+https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollectiveSpain.es" tvg-logo="https://images.pluto.tv/channels/5f1abf097eb06300079b30f7/colorLogoPNG.png" group-title="Family",The Pet Collective Europe (720p)
+https://the-pet-collective-international-eu.rakuten.wurl.tv/playlist.m3u8

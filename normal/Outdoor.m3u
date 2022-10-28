@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://i.imgur.com/w06Nguz.png" group-title="Outdoor",AgroBrasil TV (720p) [Not 24/7]
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTV.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Outdoor",AKC TV (1080p)
+https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Outdoor",AKC TV Meet the Breeds (1080p)
+https://broadcast.blivenyc.com/speed/broadcast/71/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Outdoor",AKC TV Puppies (1080p)
+https://broadcast.blivenyc.com/speed/broadcast/29/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldoCriador.br" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-do-criador-br.png" group-title="Outdoor",Canal do Criador (1080p)
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-logo="https://i.imgur.com/yL4DZoE.png" group-title="Outdoor",Canal Rural (1080p)
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-rural_m.png" group-title="Outdoor",Canal Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ChacraTV.ar" tvg-logo="https://i.imgur.com/mZlUGBf.jpg" group-title="Outdoor",Chacra TV (480p) [Not 24/7]
+https://s8.stweb.tv/chacra/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="Outdoor",Horse & Country TV (1080p)
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:-1 tvg-id="HuntChannel.us" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Outdoor",Hunt Channel (1080p)
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-logo="https://i.imgur.com/7XNQ494.png" group-title="Outdoor",Italian Fishing TV
+https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-logo="https://i.imgur.com/ldh9sFG.png" group-title="Outdoor",Outdoor America (720p) [Not 24/7]
+https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8
+#EXTINF:-1 tvg-id="OutsideTVPlus.us" tvg-logo="https://i.imgur.com/7WF7ca4.png" group-title="Outdoor",Outside TV Plus (1080p)
+https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
+#EXTINF:-1 tvg-id="SwamijiTV.at" tvg-logo="https://i.imgur.com/ygkBFYT.jpg" group-title="Outdoor",Swamiji TV (720p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAgro.co" tvg-logo="https://i.imgur.com/QJibSpO.png" group-title="Outdoor",TV Agro
+http://179.1.7.198:1935/live/TVAgroHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Outdoor", Outdoor Channel (1080p) [Not 24/7]
+http://ott.watch/stream/E7Q3UVKI5H/211.m3u8

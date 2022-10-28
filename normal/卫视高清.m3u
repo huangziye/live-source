@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="卫视高清",湖南卫视
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel25/index.m3u8
+#EXTINF:-1 group-title="卫视高清",浙江卫视
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel19/index.m3u8

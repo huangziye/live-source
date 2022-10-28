@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="朝阳教育" group-title="辽宁", 朝阳教育
+https://play.cytv01.cygbdst.com/live/jypdtv.m3u8?zliaond
+#EXTINF:-1 tvg-name="朝阳新闻综合" group-title="辽宁", 朝阳新闻综合
+https://play.cytv01.cygbdst.com/live/cyxwtv.m3u8?zliaond
+#EXTINF:-1 logo="" group-title="" ,朝阳公共
+https://play.cytv01.cygbdst.com/live/ggpdtv.m3u8?zliaond
+#EXTINF:-1 tvg-name="丹东新闻综合" group-title="辽宁", 丹东新闻综合
+http://pili-live-hdl.zhdd.tianma3600.com/zhddgbds/dspd1.m3u8?zliaond
+#EXTINF:-1 group-title="辽宁",丹东公共频道
+http://59.47.133.234:64231/live
+#EXTINF:-1 group-title="辽宁",丹东新闻综合
+http://59.47.133.234:64230/live

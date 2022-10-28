@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="StarPlusHD.in" tvg-logo="https://i.imgur.com/WbvMMOR.png" group-title="Undefined" user-agent="stream",Star Plus HD (720p) [Geo-blocked]
+http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="UtsavGold.in" tvg-logo="https://i.imgur.com/FYym7gH.png" group-title="Movies",Utsav Gold (720p) [Geo-blocked]
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8

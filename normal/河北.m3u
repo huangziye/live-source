@@ -1,0 +1,195 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="昌黎综合频道" group-title="河北", 昌黎综合频道
+https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd
+#EXTINF:-1 tvg-name="邯郸公共频道" group-title="河北", 邯郸公共频道
+https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+#EXTINF:-1 tvg-name="邯郸科技教育" group-title="河北", 邯郸科技教育
+https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
+#EXTINF:-1 tvg-name="鹿泉一套" group-title="河北", 鹿泉一套
+https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
+#EXTINF:-1 group-title="影视",平泉影视
+https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+#EXTINF:-1 group-title="影视",定州国学影视
+https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
+#EXTINF:-1 group-title="河北",承德公共生活
+https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
+#EXTINF:-1 group-title="河北",承德新闻综合
+https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
+#EXTINF:-1 group-title="河北",定州生活频道
+https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
+#EXTINF:-1 group-title="河北",定州新闻综合
+https://jwliveqxzb.hebyun.com.cn/xxzhpd/xxzhpd.m3u8
+#EXTINF:-1 group-title="河北",丰宁综合频道
+https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8
+#EXTINF:-1 group-title="河北",邯郸科技教育
+https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
+#EXTINF:-1 group-title="河北",邯郸新闻综合
+https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
+#EXTINF:-1 group-title="河北",涞水新闻频道
+https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
+#EXTINF:-1 group-title="河北",鹿泉二套
+https://jwliveqxzb.hebyun.com.cn/luquaner/luquaner.m3u8
+#EXTINF:-1 group-title="河北",鹿泉一套
+https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
+#EXTINF:-1 group-title="河北",平泉综合频道
+https://jwliveqxzb.hebyun.com.cn/pqzh/pqzh.m3u8
+#EXTINF:-1 group-title="河北",青县新闻
+https://jwliveqxzb.hebyun.com.cn/qxtvlive1/qxtvlive1.m3u8
+#EXTINF:-1 group-title="河北",望都综合频道
+https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",徐水综合频道
+https://jwliveqxzb.hebyun.com.cn/jiyunxushui123/jiyunxushui123.m3u8
+#EXTINF:-1 tvg-name="昌黎综合频道" group-title="河北", 昌黎综合频道
+https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 tvg-name="邯郸公共频道" group-title="河北", 邯郸公共频道
+https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 tvg-name="邯郸科技教育" group-title="河北", 邯郸科技教育
+https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 tvg-name="鹿泉一套" group-title="河北", 鹿泉一套
+https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="京津冀鲁豫",邯郸公共频道
+https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="京津冀鲁豫",邯郸科技教育
+https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="未分类",兴隆电影(高清)
+https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="影视",定州国学影视
+https://jwcdnqx.hebyun.com.cn/live/yspd/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北",昌黎综合频道
+https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北",丰宁娱乐频道
+https://jwcdnqx.hebyun.com.cn/live/fengningyulepindao/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北",清河经济综艺
+https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北",清河新闻综合
+https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北",任丘文娱
+https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北",任丘综合
+https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北",深泽综合频道
+https://jwcdnqx.hebyun.com.cn/live/shenzedianshi/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北",双滦新闻频道
+https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北",双滦影视频道
+https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北",兴隆综合频道
+https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",丰宁综合频道
+https://jwcdnqx.hebyun.com.cn/live/fengningzonghe/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",邯郸新闻综合
+https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",涞水新闻频道
+https://jwcdnqx.hebyun.com.cn/live/lsdst/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",鹿泉二套
+https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",鹿泉一套
+https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",平泉影视频道
+https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",平泉综合频道
+https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",徐水综合频道
+https://jwcdnqx.hebyun.com.cn/live/jiyunxushui123/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CCTV13HD
+https://jwcdnqx.hebyun.com.cn/live/CCTVtest13/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="邯郸公共频道" group-title="河北", 邯郸公共频道
+http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8?zhebd
+#EXTINF:-1 tvg-name="邯郸科技教育" group-title="河北", 邯郸科技教育
+http://live.hd.hdbs.cn/video/s10001-2021hdkjjy/index.m3u8?zhebd
+#EXTINF:-1 group-title="京津冀鲁豫",邯郸新闻综合
+http://live.hd.hdbs.cn/video/s10001-2021hdxwzh/index.m3u8
+#EXTINF:-1 group-title="京津冀鲁豫",邯郸公共频道
+http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8
+#EXTINF:-1 group-title="京津冀鲁豫",邯郸科技教育
+http://live.hd.hdbs.cn/video/s10001-2021hdkjjy/index.m3u8
+#EXTINF:-1 group-title="河北",邱县电视二套
+http://live.hd.hdbs.cn/video/s10013-qxds2/index.m3u8
+#EXTINF:-1 group-title="河北",邱县综合频道
+http://live.hd.hdbs.cn/video/s10013-qxds1/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",成安经济民生
+http://live.hd.hdbs.cn/video/s10007-cajjms/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",成安少儿戏曲
+http://live.hd.hdbs.cn/video/s10007-casexq/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",成安综合
+http://live.hd.hdbs.cn/video/s10007-cazhpd/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",成安综艺
+http://live.hd.hdbs.cn/video/s10007-cazy/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",邯郸公共
+http://live.hd.hdbs.cn/video/s10001-hdggpd/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",邯郸科技教育
+http://live.hd.hdbs.cn/video/s10001-hdkjpd/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",邯郸新闻综合
+http://live.hd.hdbs.cn/video/s10001-hdxwpd/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",涉县新闻综合
+http://live.hd.hdbs.cn/video/s10006-sxxwpd/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",武安新闻综合
+http://live.hd.hdbs.cn/video/s10015-waxwzh/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",邯郸公共
+http://live.hd.hdbs.cn/video/s10001-2020hdgg/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",邯郸科技
+http://live.hd.hdbs.cn/video/s10001-2020hdkjjy/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",邯郸新闻
+http://live.hd.hdbs.cn/video/s10001-2020hdxwzh/index.m3u8
+#EXTINF:-1 tvg-name="河北都市" group-title="河北", 河北都市
+https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 tvg-name="河北农民" group-title="河北", 河北农民
+https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 tvg-name="河北影剧" group-title="河北", 河北影剧
+https://jwplay.hebyun.com.cn/live/hbystv/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 tvg-name="邢台综合频道" group-title="河北", 邢台综合频道
+https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="京津冀鲁豫",邢台综合频道
+https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="影视",河北影视
+https://jwplay.hebyun.com.cn:443/live/hbystv/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",河北都市
+https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",河北农民
+https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",河北少儿科教
+https://jwplay.hebyun.com.cn/live/hbsrtv/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",河北影视剧
+https://jwplay.hebyun.com.cn/live/hbystv/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",石家庄新闻综合
+https://jwplay.hebyun.com.cn/live/sjzxwzhtv/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="河北公共" group-title="河北", 河北公共
+http://live7.plus.hebtv.com/hbggx/hd/live.m3u8?zhebd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",河北公共 (540p)
+http://live7.plus.hebtv.com/hbggx/playlist.m3u8
+#EXTINF:-1 group-title="河北",河北公共
+http://live7.plus.hebtv.com/hbggx/hd/live.m3u8
+#EXTINF:-1 tvg-name="河北经济生活" group-title="河北", 河北经济生活
+http://live2.plus.hebtv.com/jjshx/hd/live.m3u8?zhebd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",河北经济生活 (540p) [Not 24/7]
+http://live2.plus.hebtv.com/jjshx/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",河北卫视
+http://live2.plus.hebtv.com/hbwsx/hd/live.m3u8
+#EXTINF:-1 group-title="河北",河北经济生活
+http://live2.plus.hebtv.com/jjshx/hd/live.m3u8
+#EXTINF:-1 tvg-name="滦平新闻频道" group-title="河北", 滦平新闻频道
+rtmp://live.lpxrmtzx.com/live/wh?zhebd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",滦平新闻频道
+https://live.lpxrmtzx.com/live/wh.m3u8?zhebd
+#EXTINF:-1 tvg-name="石家庄都市" group-title="河北", 石家庄都市
+http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
+#EXTINF:-1 tvg-name="石家庄生活" group-title="河北", 石家庄生活
+http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
+#EXTINF:-1 tvg-name="石家庄新闻综合" group-title="河北", 石家庄新闻综合
+http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
+#EXTINF:-1 tvg-name="石家庄娱乐" group-title="河北", 石家庄娱乐
+http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
+#EXTINF:-1 group-title="河北",安平新闻综合
+http://shou.city1000.cn/live/apxw.m3u8
+#EXTINF:-1 group-title="河北",大厂二套
+http://60.10.185.184:1935/live/dc2.stream/playlist.m3u8
+#EXTINF:-1 group-title="河北",大厂一套
+http://60.10.185.184:1935/live/dc1.stream/playlist.m3u8
+#EXTINF:-1 group-title="河北",河北农民
+https://live5.plus.hebtv.com/nmpdx/playlist.m3u8?_upt=c235930f1643012914
+#EXTINF:-1 tvg-id="9999" group-title="未分类",河北都市
+http://live5.plus.hebtv.com/hbdsx/hd/live.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",河北都市频道
+http://live5.plus.hebtv.com/hbdsx/playlist.m3u8?_upt=97ce919d1648035521
+#EXTINF:-1 tvg-id="9999" group-title="未分类",河北农民
+http://live5.plus.hebtv.com/nmpdx/hd/live.m3u8

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="影视",北京影视
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 group-title="影视",河北影视剧
+https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
+#EXTINF:-1 group-title="影视",上海影视
+http://58.34.204.67:9901/tsfile/live/1016_1.m3u8

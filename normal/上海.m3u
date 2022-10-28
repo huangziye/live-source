@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="崇明电视台" group-title="上海", 崇明电视台
+https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
+#EXTINF:-1 tvg-name="嘉定电视台" group-title="上海", 嘉定电视台
+https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
+#EXTINF:-1 tvg-id="9999" group-title="上海",嘉定电视台
+https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
+#EXTINF:-1 tvg-name="天水公共" group-title="上海", 天水公共
+http://stream.tstv.cn/tstc938Yn3ggpd/playlist.m3u8?shanghai
+#EXTINF:-1 group-title="甘肃",天水公共
+http://stream.tstv.cn/tstc938Yn3ggpd/playlist.m3u8?_upt=14dc682f1620829149
+#EXTINF:-1 group-title="甘肃",天水综合
+http://stream.tstv.cn/tstv73268A/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海",新视觉HD
+http://112.25.48.70/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市
+http://112.25.48.70/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海",上海外语
+http://112.25.48.70/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",劲爆体育
+http://112.25.48.70/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",东方影视
+http://112.25.48.70/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",魅力足球
+http://112.25.48.70/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",第一财经
+http://112.25.48.70/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",欢笑剧场
+http://112.25.48.70/live/program/live/hxjchd/4000000/mnf.m3u8

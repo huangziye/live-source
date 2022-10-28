@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="明珠台" group-title="🚤｜港澳", 明珠台
+http://59.32.98.78:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="🚤｜港澳", 翡翠台
+http://59.32.98.78:9901/tsfile/live/1029_1.m3u8

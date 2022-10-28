@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AyushTV.in" tvg-logo="https://i.imgur.com/PWzvp0B.png" group-title="Lifestyle",Ayush TV (360p) [Not 24/7]
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 tvg-id="BetterHealthTV.us" tvg-logo="https://i.imgur.com/paFX8ZJ.png" group-title="Lifestyle",Better Health TV (480p)
+https://uni5rtmp.tulix.tv/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-logo="https://i.imgur.com/gmrVKEC.jpg" group-title="Relax",Better Life Nature Channel (480p)
+https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
+#EXTINF:-1 tvg-id="BetterLifeTV.us" tvg-logo="https://i.imgur.com/gmrVKEC.jpg" group-title="Religious",Better Life TV (720p)
+https://uni5rtmp.tulix.tv/betterlife/betterlife/playlist.m3u8
+#EXTINF:-1 tvg-id="LifevisionTV.us" tvg-logo="https://i.imgur.com/pF6Wowj.jpg" group-title="Religious",LifevisionTV (406p) [Not 24/7]
+https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 美国LifevisionTV
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",3ABN
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Better Health TV (480p)
+http://uni5rtmp.tulix.tv/betterhealth/betterhealth/chunklist_w848830638.m3u8
+#EXTINF:-1 tvg-id="BizTV.us" tvg-logo="https://i.imgur.com/4pEmcFH.png" group-title="Lifestyle",Biz TV (1080p)
+https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+#EXTINF:-1 tvg-id="YoutooAmerica.us" tvg-logo="https://i.imgur.com/3se2VEB.png" group-title="Entertainment",Youtoo America (1080p)
+https://thegateway.app/YouToo/CueTones/playlist.m3u8
+#EXTINF:-1 tvg-id="bspoketv.us" tvg-logo="https://i.imgur.com/jsiHrMV.png" group-title="Lifestyle",bspoketv (1080p) [Not 24/7]
+https://bspoketv.s.llnwi.net/streams/322/master.m3u8
+#EXTINF:-1 tvg-id="CineLife.us" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA" group-title="Lifestyle",CineLife (1080p)
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="CTNLifestyle.us" tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctn_us_lifestyle.png" group-title="Lifestyle",CTN Lifestyle (480p)
+https://ctntv.getstreamhosting.com:1936/Lifestyle/Lifestyle/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV (1080p)
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GlobalFashionChannel.us" tvg-logo="https://i.imgur.com/s4eGYEP.jpg" group-title="Lifestyle",Global Fashion Channel (1080p)
+https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="HealthTV.de" tvg-logo="https://www.lyngsat.com/logo/tv/hh/health_tv_de.png" group-title="Lifestyle",Health TV (720p)
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="INEZ.fi" tvg-logo="https://i.imgur.com/5REUC12.png" group-title="Lifestyle",INEZ (720p)
+https://inezsecondary.digitacdn.net/live/_definst_/inez/amlst:inezlive.amlst/master.m3u8
+#EXTINF:-1 tvg-id="JewelleryMaker.uk" tvg-logo="https://i.imgur.com/azSptPw.png" group-title="Lifestyle",Jewelery Maker (1080p)
+https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LNKTVHealth.us" tvg-logo="https://i.imgur.com/dGgmOY0.png" group-title="Lifestyle",LNKTV Health (1080p)
+http://10tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 tvg-id="OURTV.us" tvg-logo="https://i.imgur.com/9uz9lyg.png" group-title="Lifestyle",Opportunities in Urban Renaissance Television (OURTV) (720p)
+https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/playlist.m3u8
+#EXTINF:-1 tvg-id="PlantBasedNetwork.us" tvg-logo="https://i.imgur.com/iwd9Jxb.png" group-title="Undefined",Plant Based Network (1080p) [Not 24/7]
+https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFashionTV.us" tvg-logo="https://images.pluto.tv/channels/60c882460ea4a200076a2a37/colorLogoPNG.png" group-title="Lifestyle",Pluto TV Fashion TV (720p)
+https://siloh.pluto.tv/lilo/production/FashionTV/master.m3u8
+#EXTINF:-1 tvg-id="PlutoTVQwestTVJazzBeyond.us" tvg-logo="https://images.pluto.tv/channels/60db37b8b919720007c07fa4/colorLogoPNG.png" group-title="Sports",Pluto TV Qwest TV Jazz & Beyond (720p)
+https://siloh.pluto.tv/lilo/production/QwestJazz/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Weather Nation Chicago (720p)
+https://siloh.pluto.tv/lilo/production/WeatherNation/Chicago/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WeatherNation Atlanta (720p)
+https://siloh.pluto.tv/lilo/production/WeatherNation/ATL/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WeatherNation Boston (720p)
+https://siloh.pluto.tv/lilo/production/WeatherNation/Boston/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WeatherNation Dallas (720p)
+https://siloh.pluto.tv/lilo/production/WeatherNation/DFW/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WeatherNation Houston (720p)
+https://siloh.pluto.tv/lilo/production/WeatherNation/Houston/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WeatherNation Los Angeles (720p)
+https://siloh.pluto.tv/lilo/production/WeatherNation/LA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WeatherNation New York (720p)
+https://siloh.pluto.tv/lilo/production/WeatherNation/NYC/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WeatherNation Philadelphia (720p)
+https://siloh.pluto.tv/lilo/production/WeatherNation/Philadelphia/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WeatherNation San Francisco (720p)
+https://siloh.pluto.tv/lilo/production/WeatherNation/SF/master.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",Skynews
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1 tvg-id="Revry.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="Lifestyle",Revry (720p) [Not 24/7]
+https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RevryNews.us" tvg-logo="https://i.imgur.com/AdIThwq.png" group-title="Lifestyle",Revry News (720p) [Not 24/7]
+https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RevryQueer.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="Lifestyle",Revry Queer (720p)
+https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-GALXY/mt/galxy/43/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="SmartLifeStyleTV.us" tvg-logo="https://www.lyngsat.com/logo/tv/ss/smart_lifestyle_tv_us.png" group-title="Lifestyle",Smart Life Style Television (LLBN) (720p)
+https://brightstar-sls.secure.footprint.net/egress/bhandler/brightstar/brightstarslshd/manifest.m3u8
+#EXTINF:-1 tvg-id="SoReal.us" tvg-logo="https://od.lk/s/MF8yMjU5ODE2MDdf/SoReal_240x240.png" group-title="Lifestyle",So... Real (1080p)
+https://soreal-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheCraftistry.us" tvg-logo="https://i.imgur.com/KIzpKhL.png" group-title="Lifestyle",The Craftistry (1080p)
+https://studio71-craftistry-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSalud.cl" tvg-logo="https://i.imgur.com/PSDKboh.png" group-title="Lifestyle",TV Salud (720p) [Not 24/7]
+https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOTocopilla.cl" tvg-logo="https://i.imgur.com/uM665XE.png" group-title="Undefined",TVO Tocopilla (360p) [Not 24/7]
+http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldFashionChannelRussia.ru" tvg-logo="https://i.imgur.com/D46u7eW.png" group-title="Lifestyle",World Fashion Channel Russia (1080p)
+https://wfcrus.mediacdn.ru/cdn/wfcrusweb/playlist.m3u8

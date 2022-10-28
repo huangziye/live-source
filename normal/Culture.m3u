@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal33.cl" tvg-logo="https://www.canal33.cl/assets/images/logo.png" group-title="Culture",Canal 33 (720p) [Geo-blocked]
+https://5eae379fb77bb.streamlock.net/eduardo555/eduardo555/playlist.m3u8
+#EXTINF:-1 tvg-id="LaGranjaTV.cl" tvg-logo="https://i.imgur.com/6xQonCb.png" group-title="Undefined",La Granja TV (720p) [Not 24/7]
+https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8
+#EXTINF:-1 tvg-id="RTCTelevision.cl" tvg-logo="https://i.imgur.com/m3ZlX4d.png" group-title="Undefined",RTC Televisión
+https://5eae379fb77bb.streamlock.net/rtctelevision/rtctelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalIberoamericano.mx" tvg-logo="https://www.ilce.edu.mx/images/home/ci.png" group-title="Culture",Canal Iberoamericano
+https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/_definst_/mp4:7NBH6B8L/playlist.m3u8
+#EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Culture",Cultura 24 (360p) [Not 24/7]
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-logo="https://i.imgur.com/ed0dUEd.png" group-title="Sports",Monterrico TV (1080p) [Not 24/7]
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 tvg-id="DiasporaTV.pe" tvg-logo="https://dtv.pe/wp-content/uploads/2022/02/cropped-DiasporaTV_LOGOai-34.png" group-title="Culture",Diáspora TV [Not 24/7]
+https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
+#EXTINF:-1 tvg-id="RadioTVTendencias.pe" tvg-logo="https://www.radiotvtendencias.com/wp-content/uploads/2022/06/radio-tv-tendencias-logo.jpg" group-title="Music",Radio TV Tendencias [Not 24/7]
+https://s1.tvdatta.com:3950/multi_web/play.m3u8
+#EXTINF:-1 tvg-id="TVenLinea.pe" tvg-logo="https://i.imgur.com/le0Amyd.png" group-title="General",TVenLinea (Cuzco) (720p) [Not 24/7]
+https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Culture",Fox Soul (1080p) [Not 24/7]
+http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel30.us" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="Culture",Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p)
+https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel75.us" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="Culture",Midpen Media Center Diversity and Culture Channel 75 (720p)
+https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel26.us" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="Undefined",Midpen Media Center Government etc Channel 26 (720p)
+https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel29.us" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="Legislative",Midpen Media Center Government etc Channel 29 (720p)
+https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel28.us" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="Education",Midpen Media Center Youth Education and Sports Channel 28 (720p)
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+#EXTINF:-1 tvg-id="SalgaluTV.pe" tvg-logo="https://i.imgur.com/9ESjz4i.png" group-title="Culture",Salgalú TV [Not 24/7]
+https://6075e60da1f27.streamlock.net/live/wowza/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGCultural.es" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Culture",TVG Cultural (720p)
+https://cultural-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="USMPTV.pe" tvg-logo="https://i.imgur.com/135MTa4.png" group-title="Culture",USMPTV (720p)
+https://streamusmptv.ddns.net/live/stream.m3u8

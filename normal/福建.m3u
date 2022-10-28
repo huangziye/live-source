@@ -1,0 +1,293 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="大田二套" group-title="福建", 大田二套
+http://84y6jdxz.live2.danghongyun.com/live/hls/8a6db004318e4378b58d87f0414da77c/5a6c5d786f834df8a65b423af5851e6f.m3u8?zfud
+#EXTINF:-1 tvg-id="9999" group-title="未分类",大田二套
+http://84y6jdxz.live2.danghongyun.com/live/hls/8a6db004318e4378b58d87f0414da77c/5a6c5d786f834df8a65b423af5851e6f.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",大田综合
+http://84y6jdxz.live2.danghongyun.com/live/hls/44193de64624414eb0110ebce59c63f8/0600869bdafe4500932addd3cc284c69.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",邵武新闻频道
+http://84y6jdxz.live2.danghongyun.com/live/hls/8efcc6f8c3a1469181c23d1c64e61526/7a29fd92c3324a06a1b943711573b04f.m3u8
+#EXTINF:-1 tvg-name="德化新闻综合" group-title="福建", 德化新闻综合
+http://218.106.152.196/lsdream/2LacKP6/1024/live.m3u8?zfud
+#EXTINF:-1 tvg-name="将乐综合" group-title="福建", 将乐综合
+http://218.106.152.196/lsdream/9nbYeUc/1000/live.m3u8?fujian
+#EXTINF:-1 tvg-name="石狮综合" group-title="福建", 石狮综合
+http://218.106.152.196/lsdream/MO13IYx/2000/live.m3u8?zfud
+#EXTINF:-1 tvg-name="霞浦综合频道" group-title="福建", 霞浦综合频道
+http://218.106.152.196/lsdream/G7wCyZW/4000/live.m3u8?zfud
+#EXTINF:-1 tvg-name="永安综合频道" group-title="福建", 永安综合频道
+http://218.106.152.196/lsdream/x6FnPrm/2000/live.m3u8?fujian
+#EXTINF:-1 group-title="福建",将乐二套
+http://218.106.152.196/lsdream/1MKmR5B/2000/live.m3u8
+#EXTINF:-1 group-title="福建",将乐综合
+http://218.106.152.196/lsdream/9nbYeUc/1000/live.m3u8
+#EXTINF:-1 group-title="福建",霞浦公共频道
+http://218.106.152.196/lsdream/f2Hfjtd/5000/live.m3u8
+#EXTINF:-1 group-title="福建",永安综合频道
+http://218.106.152.196/lsdream/x6FnPrm/2000/live.m3u8
+#EXTINF:-1 tvg-name="东南" group-title="福建", 东南
+http://39.135.32.24:6610/000000001000/1000000002000009263/1.m3u8?xtkg?zfud
+#EXTINF:-1 tvg-name="江西" group-title="江西", 江西
+http://39.135.32.24:6610/000000001000/1000000001000013731/1.m3u8?xtkg?zjiangxd
+#EXTINF:-1 tvg-name="天津" group-title="四川", 天津
+http://39.135.32.24:6610/000000001000/1000000001000000831/1.m3u8?xtkg?ztianjd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",💘💘💘️综合
+http://39.135.32.24:6610/000000001000/1000000001000021973/1.m3u8?i?zzhongd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",财经2台
+http://39.135.32.24:6610/000000001000/1000000001000012442/1.m3u8?i?zzhongd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",电视剧8台
+http://39.135.32.24:6610/000000001000/1000000001000003736/index.m3u8?i?zzhongd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",电影6台
+http://39.135.32.24:6610/000000001000/1000000001000001737/index.m3u8?i?zzhongd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",国防军事7台
+http://39.135.32.24:6610/000000001000/1000000001000017218/1.m3u8?xtkg?zzhongd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",纪录9台
+http://39.135.32.24:6610/000000001000/1000000001000014583/1.m3u8?i?zzhongd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",科教10台
+http://39.135.32.24:6610/000000001000/1000000001000023734/index.m3u8?i?zzhongd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",少儿14台
+http://39.135.32.24:6610/000000001000/1000000001000008170/1.m3u8?i?zzhongd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",社会与法12台
+http://39.135.32.24:6610/000000001000/1000000001000032494/1.m3u8?i
+#EXTINF:-1 tvg-id="9999" group-title="未分类",体育5台
+http://39.135.32.24:6610/000000001000/1000000001000004794/1.m3u8?i?zzhongd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",新闻13台
+http://39.135.32.24:6610/000000001000/1000000002000021303/1.m3u8?i?zzhongd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",音乐15台
+http://39.135.32.24:6610/000000001000/1000000002000008163/1.m3u8?i?zzhongd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",中文国际4台
+http://39.135.32.24:6610/000000001000/1000000002000031664/1.m3u8?i?zzhongd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",综艺3台
+http://39.135.32.24:6610/000000001000/1000000001000011218/index.m3u8?i?zzhongd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",湖南
+http://39.135.32.24:6610/000000001000/1000000001000009115/1.m3u8?xtkg?zhund
+#EXTINF:-1 tvg-id="9999" group-title="未分类",金鹰纪实
+http://39.135.32.24:6610/000000001000/1000000002000011724/1.m3u8?xtkg?zhund
+#EXTINF:-1 tvg-id="9999" group-title="未分类",北京
+http://39.135.32.24:6610/000000001000/1000000001000017156/1.m3u8?xtkg?zbeid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",广东
+http://39.135.32.24:6610/000000001000/1000000001000028357/1.m3u8?xtkg?zguangd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",广东珠江
+http://39.135.32.24:6610/000000001000/1000000004000011655/1.m3u8?xtkg?zguangd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",南方卫视
+http://39.135.32.24:6610/000000001000/1000000002000011619/1.m3u8?xtkg?zguangd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",中国教育1
+http://39.135.32.24:6610/000000001000/1000000002000027253/1.m3u8?xtkg?zyangd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CGTV
+http://39.135.32.24:6610/000000001000/8428799834696888424/1.m3u8?xtkg?zyangd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",江苏
+http://39.135.32.24:6610/000000001000/1000000001000004684/1.m3u8?xtkg?zjiangsd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",甘肃卫视
+http://39.135.32.24:6610/000000001000/1000000002000017827/1.m3u8?xtkg?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",广西卫视
+http://39.135.32.24:6610/000000001000/1000000002000019837/1.m3u8?xtkg?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",贵州卫视
+http://39.135.32.24:6610/000000001000/1000000002000003169/1.m3u8?xtkg?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",海南卫视
+http://39.135.32.24:6610/000000001000/7899627377857656087/1.m3u8?xtkg?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",河北卫视
+http://39.135.32.24:6610/000000001000/1000000002000017118/1.m3u8?xtkg?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",湖北卫视
+http://39.135.32.24:6610/000000001000/6956052407855047826/1.m3u8?xtkg?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",吉林卫视
+http://39.135.32.24:6610/000000001000/6042486520432105075/1.m3u8?xtkg?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",內蒙古卫视
+http://39.135.32.24:6610/000000001000/1000000002000014080/1.m3u8?xtkg?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",宁夏卫视
+http://39.135.32.24:6610/000000001000/1000000002000031451/1.m3u8?xtkg?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",青海卫视
+http://39.135.32.24:6610/000000001000/1000000002000013359/1.m3u8?xtkg?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西卫视
+http://39.135.32.24:6610/000000001000/1000000002000021220/1.m3u8?xtkg?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",陝西卫视
+http://39.135.32.24:6610/000000001000/1000000002000007495/1.m3u8?xtkg?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",四川卫视
+http://39.135.32.24:6610/000000001000/1000000002000016825/1.m3u8?xtkg?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",西卫藏视
+http://39.135.32.24:6610/000000001000/6603041244077933770/1.m3u8?xtkg?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",新彊卫视
+http://39.135.32.24:6610/000000001000/1000000002000029441/1.m3u8?xtkg?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",云南卫视
+http://39.135.32.24:6610/000000001000/1000000002000024694/1.m3u8?xtkg?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",安徽卫视
+http://39.135.32.24:6610/000000001000/anhuistv/1.m3u8?IASHttpSessionId=OTT?zweid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",北京卫视
+http://39.135.32.24:6610/000000001000/1000000001000017156/1.m3u8?xtkg?zweid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",重庆卫视
+http://39.135.32.24:6610/000000001000/1000000002000018937/1.m3u8?xtkg?zweid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",东方卫视
+http://39.135.32.24:6610/000000001000/1000000001000030202/1.m3u8?xtkg?zweid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",东南卫视
+http://39.135.32.24:6610/000000001000/1000000002000009263/1.m3u8?xtkg?zweid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",广东卫视
+http://39.135.32.24:6610/000000001000/1000000001000028357/1.m3u8?xtkg?zweid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",黑龙江卫视
+http://39.135.32.24:6610/000000001000/hdheilongjiangstv/1.m3u8?IASHttpSessionId=OTT?zweid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",黑龙江卫视
+http://39.135.32.24:6610/000000001000/8467838254824392379/1.m3u8?xtkg?zweid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",湖南卫视
+http://39.135.32.24:6610/000000001000/1000000001000009115/1.m3u8?xtkg?zweid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",江苏卫视
+http://39.135.32.24:6610/000000001000/HD-4000k-1080P-jiangsustv/1.m3u8?IASHttpSessionId=OTT?zweid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",江苏卫视
+http://39.135.32.24:6610/000000001000/1000000001000004684/1.m3u8?xtkg?zweid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",江西卫视
+http://39.135.32.24:6610/000000001000/1000000001000013731/1.m3u8?xtkg?zweid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",辽宁卫视
+http://39.135.32.24:6610/000000001000/HD-8000k-1080P-liaoningstv/1.m3u8?IASHttpSessionId=OTT?zweid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",辽宁卫视
+http://39.135.32.24:6610/000000001000/1000000002000024033/1.m3u8?xtkg?zweid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山东卫视
+http://39.135.32.24:6610/000000001000/HD-8000k-1080P-shandongstv/1.m3u8?IASHttpSessionId=OTT?zweid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山東卫视
+http://39.135.32.24:6610/000000001000/1000000001000012807/1.m3u8?xtkg?zweid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",深圳卫视
+http://39.135.32.24:6610/000000001000/1000000001000011645/1.m3u8?xtkg?zweid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",天津卫视
+http://39.135.32.24:6610/000000001000/1000000001000000831/1.m3u8?xtkg?zweid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",浙江卫视
+http://39.135.32.24:6610/000000001000/1000000001000009806/1.m3u8?xtkg?zweid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CCTV5
+http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+#EXTINF:-1 logo="" group-title="" ,金鹰卡通少儿
+http://39.135.32.24:6610/000000001000/1000000002000016601/1.m3u8?xtkg
+#EXTINF:-1 logo="" group-title="" ,嘉佳卡通少儿
+http://39.135.32.24:6610/000000001000/1000000002000025964/1.m3u8?xtkg
+#EXTINF:-1 logo="" group-title="" ,哈哈炫动少儿
+http://39.135.32.24:6610/000000001000/1000000002000000172/1.m3u8?xtkg
+#EXTINF:-1 logo="" group-title="" ,卡酷少儿
+http://39.135.32.24:6610/000000001000/7589856436881630561/1.m3u8?xtkg
+#EXTINF:-1 logo="" group-title="" ,优漫卡通少儿
+http://39.135.32.24:6610/000000001000/1000000002000010063/1.m3u8?xtkg
+#EXTINF:-1 tvg-id="9999" group-title="未分类",CCTV-10
+http://39.135.32.24:6610/000000001000/1000000001000023734/index.m3u8?i=&IASHttpSessionId=OTT1680820200206210109001171
+#EXTINF:-1 tvg-name="龙岩公共频道" group-title="福建", 龙岩公共频道
+http://live.lytv.net.cn/ggpd/sd/live.m3u8?zfud
+#EXTINF:-1 tvg-name="龙岩新闻综合" group-title="福建", 龙岩新闻综合
+http://live.lytv.net.cn/zhpwd/hd/live.m3u8?zfud
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61e139f9c0690.jpg" group-title="闽粤桂琼",福建·龙岩综合
+http://live.lytv.net.cn/zhpwd/hd/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61e139f9c0690.jpg" group-title="闽粤桂琼",福建·龙岩公共
+http://live.lytv.net.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 logo="" group-title="" ,龙岩公共
+http://live.lytv.net.cn/ggpd/sd/live.m3u8?$高清720P
+#EXTINF:-1 logo="" group-title="" ,龙岩综合
+http://live.lytv.net.cn/zhpwd/hd/live.m3u8?$高清720P
+#EXTINF:-1 tvg-name="宁化电视一套" group-title="福建", 宁化电视一套
+http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8?fujian
+#EXTINF:-1 tvg-name="三明新闻综合" group-title="福建", 三明新闻综合
+http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8?zfud
+#EXTINF:-1 group-title="福建",宁化电视一套
+http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",三明新闻综合
+http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" group-title="福建", 厦门卫视
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-xiamenstv/1.m3u8?IASHttpSessionId=OTT?zfud
+#EXTINF:-1 tvg-name="辽宁" group-title="辽宁", 辽宁
+http://39.135.32.10:6610/000000001000/HD-8000k-1080P-liaoningstv/1.m3u8?IASHttpSessionId=OTT?zliaond
+#EXTINF:-1 tvg-name="西赞藏" group-title="西藏", 西赞藏
+http://39.135.32.10:6610/000000001000/xizangstv/1.m3u8?IASHttpSessionId=OTT?zxicd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",纯享4k
+http://39.135.32.10:6610/000000001000/HD-20M-2160P-chunxiang4k/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-shanxistv/1.m3u8?IASHttpSessionId=OTT?zshanxd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",重庆
+http://39.135.32.10:6610/000000001000/HD-8000k-1080P-chongqingstv/1.m3u8?IASHttpSessionId=OTT?zzhongqd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",金鹰纪实
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-jinyingjs/1.m3u8?IASHttpSessionId=OTT?zhund
+#EXTINF:-1 tvg-id="9999" group-title="未分类",北京冬奥纪实
+http://39.135.32.10:6610/000000001000/HD-8000k-1080P-beijingjishi/1.m3u8?IASHttpSessionId=OTT?zbeid
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山东
+http://39.135.32.10:6610/000000001000/HD-4000k-1080P-shandongstv/1.m3u8?IASHttpSessionId=OTT?shandd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山东教育卫视
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-shandongjy/1.m3u8?IASHttpSessionId=OTT?shandd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",甘肃
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-gansustv/1.m3u8?IASHttpSessionId=OTT?zgand
+#EXTINF:-1 tvg-id="9999" group-title="未分类",安徽
+http://39.135.32.10:6610/000000001000/anhuistv/1.m3u8?IASHttpSessionId=OTT?zanhd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",优漫卡通
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-youmankaton/1.m3u8?IASHttpSessionId=OTT?zjiangsd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",内蒙古
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-neimenggustv/1.m3u8?IASHttpSessionId=OTT?zneimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",兵团卫视
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-bingtuanstv/1.m3u8?IASHttpSessionId=OTT?zxinjd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",新疆
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-xinjiangstv/1.m3u8?IASHttpSessionId=OTT?zxinjd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",兵团卫视
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-bingtuanstv/1.m3u8?IASHttpSessionId=OTT?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",甘肃卫视
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-gansustv/1.m3u8?IASHttpSessionId=OTT?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",广西卫视
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-guangxistv/1.m3u8?IASHttpSessionId=OTT?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",海南卫视
+http://39.135.32.10:6610/000000001000/lvyoustv/1.m3u8?IASHttpSessionId=OTT?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",河北卫视
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-hebeistv/1.m3u8?IASHttpSessionId=OTT?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",河南卫视
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-henanstv/1.m3u8?IASHttpSessionId=OTT?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",吉林卫视
+http://39.135.32.10:6610/000000001000/jilinstv/1.m3u8?IASHttpSessionId=OTT?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",南方卫视
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-nanfangstv/1.m3u8?IASHttpSessionId=OTT?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",内蒙古卫视
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-neimenggustv/1.m3u8?IASHttpSessionId=OTT?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",宁夏卫视
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-ningxiastv/1.m3u8?IASHttpSessionId=OTT?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",青海卫视
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-qinghaistv/1.m3u8?IASHttpSessionId=OTT?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",厦门卫视
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-xiamenstv/1.m3u8?IASHttpSessionId=OTT?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",山西卫视
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-shanxistv/1.m3u8?IASHttpSessionId=OTT?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",西卫藏视
+http://39.135.32.10:6610/000000001000/xizangstv/1.m3u8?IASHttpSessionId=OTT?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",新疆卫视
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-xinjiangstv/1.m3u8?IASHttpSessionId=OTT?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",云南卫视
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-yunnanstv/1.m3u8?IASHttpSessionId=OTT?zweimd
+#EXTINF:-1 tvg-id="9999" group-title="未分类",浙江
+http://39.135.32.10:6610/000000001000/HD-4000k-1080P-zhejiangstv/1.m3u8?IASHttpSessionId=OTT?zzhed
+#EXTINF:-1 tvg-id="9999" group-title="未分类",吉林
+http://39.135.32.10:6610/000000001000/jilinstv/1.m3u8?IASHttpSessionId=OTT?zjild
+#EXTINF:-1 tvg-id="9999" group-title="未分类",河北
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-hebeistv/1.m3u8?IASHttpSessionId=OTT?zhebd
+#EXTINF:-1 logo="" group-title="" ,北京卡酷少儿
+http://39.135.32.10:6610/000000001000/kakukaton/1.m3u8?IASHttpSessionId=OTT?zbeid
+#EXTINF:-1 logo="" group-title="" ,东方
+http://39.135.32.10:6610/000000001000/HD-4000k-1080P-dongfangstv/1.m3u8?IASHttpSessionId=OTT?zshangd
+#EXTINF:-1 logo="" group-title="" ,四川卫视
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-sichuanstv/1.m3u8?IASHttpSessionId=OTT?zsicd
+#EXTINF:-1 logo="" group-title="" ,黑龙江
+http://39.135.32.10:6610/000000001000/HD-8000k-1080P-heilongjiangstv/1.m3u8?IASHttpSessionId=OTT?zheild
+#EXTINF:-1 logo="" group-title="" ,青海
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-qinghaistv/1.m3u8?IASHttpSessionId=OTT?zxinjd
+#EXTINF:-1 logo="" group-title="" ,宁夏
+http://39.135.32.10:6610/000000001000/SD-4000k-576P-ningxiastv/1.m3u8?IASHttpSessionId=OTT?zningxd
+#EXTINF:-1 logo="" group-title="" ,海南
+http://39.135.32.10:6610/000000001000/lvyoustv/1.m3u8?IASHttpSessionId=OTT?zhaind
+#EXTINF:-1 tvg-name="CCTV1" group-title="📺｜新闻合集", CCTV1
+http://39.135.32.10:6610/000000001000/HD-4000k-1080P-cctv1/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV13" group-title="📺｜新闻合集", CCTV13
+http://39.135.32.10:6610/000000001000/HD-8000k-1080P-cctv13/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV2" group-title="📺｜新闻合集", CCTV2
+http://39.135.32.10:6610/000000001000/HD-8000k-1080P-cctv2/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV4" group-title="📺｜新闻合集", CCTV4
+http://39.135.32.10:6610/000000001000/HD-8000k-1080P-cctv4/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV16" group-title="🏀｜体育合集", CCTV16
+http://39.135.32.10:6610/000000001000/HD-8000k-1080P-cctv16/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV5" group-title="🇨🇳｜央视频道", CCTV5
+http://39.135.32.10:6610/000000001000/HD-4000k-1080P-cctv5/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV17" group-title="🇨🇳｜央视频道", CCTV17
+http://39.135.32.10:6610/000000001000/HD-8000k-1080P-cctv17/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="永泰综合" group-title="福建", 永泰综合
+http://ytrmtzx.com:8278/yongtaipindao1/playlist.m3u8?fujian
+#EXTINF:-1 group-title="江苏",永泰综合
+http://ytrmtzx.com:8278/yongtaipindao1/playlist.m3u8
+#EXTINF:-1 tvg-name="云霄综合" group-title="福建", 云霄综合
+http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
+#EXTINF:-1 tvg-id="9999" group-title="未分类",福建云霄FHD
+http://live.zzyxxw.com:85/live/xwzh.m3u8
+#EXTINF:-1 group-title="福建",武夷山文旅茶
+http://fjwysdb.chinashadt.com:2036/live/3.stream/playlist.m3u8
+#EXTINF:-1 group-title="福建",武夷山综合频道
+http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8

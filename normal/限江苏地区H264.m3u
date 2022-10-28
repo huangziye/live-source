@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 group-title="限江苏地区H264",CCTV2
+http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV3
+http://223.110.242.162:6610/jsyd/live1/G_CCTV-3-MD/G_CCTV-3-MD/
+#EXTINF:-1 group-title="限江苏地区H264",CCTV4
+http://223.110.242.198:6610/jsyd/live1/G_CCTV-4-MD/G_CCTV-4-MD/
+#EXTINF:-1 group-title="限江苏地区H264",CCTV5+
+http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV12
+http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",重庆卫视
+http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227550/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",山西卫视
+http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227559/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",河南卫视
+http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227521/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV6
+http://223.110.242.156:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",CCTV7
+http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV9
+http://223.110.242.142:6610/cntv/live1/HD-8000k-1080P-cctv9/1.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",东方卫视
+http://223.110.242.142:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",CCTV10
+http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV11
+http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227524/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV13
+http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",四川卫视
+http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227556/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV14
+http://223.110.242.134:6610/cntv/live1/HD-8000k-1080P-cctv14/1.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",上海纪实
+http://223.110.242.134:6610/cntv/live1/HD-8000k-1080P-shanghaijishi/1.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",北京纪实
+http://223.110.242.134:6610/cntv/live1/HD-8000k-1080P-beijingjishi/1.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV17
+http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CGTN纪录
+http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227574/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV女时尚
+http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CGTN
+http://223.110.236.13/ott.js.chinamobile.com/PLTV/3/224/3221228095/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",海南卫视
+http://223.110.236.13/ott.js.chinamobile.com/PLTV/3/224/3221228101/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",中国教育1
+http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227560/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",内蒙古卫视
+http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227557/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",宁夏卫视
+http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227563/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",甘肃卫视
+http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227568/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",东南卫视
+http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227553/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",天津卫视
+http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227633/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",超清影视
+http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227512/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",北京卫视
+http://223.110.244.139:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",安徽卫视
+http://223.110.242.158:6610/gitv/live1/G_ANHUI-CQ/G_ANHUI-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",广东卫视
+http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227476/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",延边卫视
+http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",江苏卫视
+http://223.110.242.133:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",江西卫视
+http://223.110.242.133:6610/gitv/live1/G_JIANGXI-CQ/G_JIANGXI-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",安徽卫视
+http://223.110.242.133:6610/gitv/live1/G_ANHUI-CQ/G_ANHUI-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",深圳卫视
+http://223.110.244.203:6610/gitv/live1/G_SHENZHEN-CQ/G_SHENZHEN-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",湖北卫视
+http://223.110.242.214:6610/gitv/live1/G_HUBEI-CQ/G_HUBEI-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",辽宁卫视
+http://223.110.244.204:6610/gitv/live1/G_LIAONING-CQ/G_LIAONING-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",黑龙江卫视
+http://223.110.244.212:6610/gitv/live1/G_HEILONGJIANG-CQ/G_HEILONGJIANG-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",云南卫视
+http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227571/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",河北卫视
+http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227545/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",西藏卫视
+http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227562/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV3
+http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221227546/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV9
+http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221225532/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="未分类", 北京卫视
+http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221227390/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="未分类", 安徽卫视
+http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV4
+http://183.207.249.138/ott.js.chinamobile.com/PLTV/3/224/3221227683/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV6
+http://183.207.249.138/ott.js.chinamobile.com/PLTV/3/224/3221227430/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV发现之旅
+http://183.207.248.135/ott.js.chinamobile.com/PLTV/3/224/3221227030/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",中国教育3
+http://183.207.249.103/ott.js.chinamobile.com/PLTV/3/224/3221227018/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",东方卫视
+http://183.207.249.144/ott.js.chinamobile.com/PLTV/3/224/3221227486/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",湖北卫视
+http://183.207.249.144/ott.js.chinamobile.com/PLTV/3/224/3221227479/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",北京卫视
+http://183.207.249.169/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",新疆卫视
+http://183.207.249.169/ott.js.chinamobile.com/PLTV/3/224/3221225523/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="未分类",黑莓电影
+http://183.207.249.169/ott.js.chinamobile.com/PLTV/3/224/3221225539/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",深圳卫视
+http://183.207.249.139/ott.js.chinamobile.com/PLTV/3/224/3221227555/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",辽宁卫视
+http://183.207.248.171/ott.js.chinamobile.com/PLTV/3/224/3221227485/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",黑龙江卫视
+http://183.207.249.165/ott.js.chinamobile.com/PLTV/3/224/3221227514/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="未分类", 黑龙江卫视
+http://183.207.249.165/ott.js.chinamobile.com/PLTV/3/224/3221227514/index.m3u8?fmt=ts2hls
